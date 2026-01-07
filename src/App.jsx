@@ -1,4 +1,4 @@
-import { Bookmark } from "lucide-react";
+import { ArrowUp, Bookmark } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import wordsData from "../word.json";
@@ -38,6 +38,7 @@ export default function Lexicon() {
   // 📌 Bookmarks from localStorage
   const [bookmarked, setBookmarked] = useState({});
   const [showBookmarksOnly, setShowBookmarksOnly] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
 
   // Load bookmarks from localStorage on mount
   useEffect(() => {
@@ -46,6 +47,21 @@ export default function Lexicon() {
       setBookmarked(JSON.parse(saved));
     }
   }, []);
+
+  // Show/hide scroll top button
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowScrollTop(window.scrollY > 100);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // Scroll to top function
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   // Save bookmarks to localStorage
   const toggleBookmark = (word) => {
@@ -73,6 +89,8 @@ export default function Lexicon() {
     if (showBookmarksOnly) {
       filtered = filtered.filter((w) => bookmarked[w.word]);
     }
+    // Scroll to top when pagination changes
+    window.scrollTo({ top: 0, behavior: "smooth" });
 
     return filtered;
   }, [currentLevel, bookmarked, showBookmarksOnly]);
@@ -119,13 +137,13 @@ export default function Lexicon() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-300 p-4 md:p-12">
-      <div className="max-w-6xl mx-auto">
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-300 p-4 md:p-12 flex flex-col items-center">
+      <div className="w-full max-w-6xl">
         {/* HEADER */}
         <header className="flex flex-col md:flex-row justify-between gap-6 mb-14 bg-gradient-to-r from-indigo-950/40 to-purple-950/40 p-8 rounded-3xl border border-indigo-800/30 shadow-xl backdrop-blur">
           <div>
             <h1 className="text-4xl font-black text-white italic">
-              📚 LEXICON PRO
+              📚A1 to B2 English Oxford
             </h1>
             <p className="text-zinc-400 text-xs uppercase tracking-widest mt-2">
               {showBookmarksOnly
@@ -162,7 +180,7 @@ export default function Lexicon() {
         </header>
 
         {/* CARDS */}
-        <div className="grid gap-6 sm:gap-8">
+        <div className="grid gap-6 sm:gap-8 lg:grid-cols-2 xl:grid-cols-2 justify-center">
           {paginatedWords.map((item, index) => {
             const globalIndex = (currentPage - 1) * ITEMS_PER_PAGE + index + 1;
             const isBookmarked = bookmarked[item.word];
@@ -270,19 +288,31 @@ export default function Lexicon() {
         </div>
 
         {/* PAGINATION */}
+        {showScrollTop && (
+          <button
+            onClick={scrollToTop}
+            className="fixed bottom-8 right-8 w-14 h-14 rounded-full bg-indigo-600 text-white shadow-lg hover:bg-indigo-700 transition-all flex items-center justify-center z-50 animate-pulse hover:animate-none"
+            title="Scroll to top"
+          >
+            <ArrowUp size={24} />
+          </button>
+        )}
         {totalPages > 1 && (
           <div className="flex justify-center gap-2 mt-16">
             {getPaginationRange().map((page, i) => (
               <button
                 key={i}
                 disabled={page === "..."}
-                onClick={() =>
-                  page !== "..." && updateParams(currentLevel, page)
-                }
-                className={`w-10 h-10 rounded-xl text-xs font-black
+                onClick={() => {
+                  if (page !== "...") {
+                    updateParams(currentLevel, page);
+                    scrollToTop();
+                  }
+                }}
+                className={`w-10 h-10 rounded-xl text-xs font-black border
                   ${
                     currentPage === page
-                      ? "bg-indigo-600 text-white scale-110"
+                      ? "bg-indigo-600 text-white scale-110 shadow-lg border border-amber-500/50 ring-1 ring-amber-500/20"
                       : "text-zinc-400 hover:bg-zinc-800"
                   }`}
               >
