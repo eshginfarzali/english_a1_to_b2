@@ -1,22 +1,81 @@
-import React, { useMemo, useState } from "react";
+import { Bookmark } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import wordsData from "../word.json";
 
 const LEVELS = ["All", "A1", "A2", "B1", "B2"];
 const ITEMS_PER_PAGE = 10;
 
+const cardGradients = [
+  "from-indigo-500/20 to-purple-500/10",
+  "from-emerald-500/20 to-cyan-500/10",
+  "from-pink-500/20 to-rose-500/10",
+];
+
+/* 🔊 Text to Speech */
+const speakWord = (text) => {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "en-US";
+  utterance.rate = 0.9;
+  speechSynthesis.speak(utterance);
+};
+
+/* ✨ Highlight word inside example */
+const highlightWord = (text, word) => {
+  const regex = new RegExp(`(${word})`, "gi");
+  return text.replace(
+    regex,
+    `<mark class="bg-indigo-500/30 text-white px-1 rounded font-bold">$1</mark>`
+  );
+};
+
 export default function Lexicon() {
   const [searchParams, setSearchParams] = useSearchParams();
-  const [selectedWord, setSelectedWord] = useState(null);
-  const [showAZ, setShowAZ] = useState(false);
+
+  // 🔐 Open AZ sentences: { "wordIndex-type": true }
+  const [openAZ, setOpenAZ] = useState({});
+
+  // 📌 Bookmarks from localStorage
+  const [bookmarked, setBookmarked] = useState({});
+  const [showBookmarksOnly, setShowBookmarksOnly] = useState(false);
+
+  // Load bookmarks from localStorage on mount
+  useEffect(() => {
+    const saved = localStorage.getItem("lexicon_bookmarks");
+    if (saved) {
+      setBookmarked(JSON.parse(saved));
+    }
+  }, []);
+
+  // Save bookmarks to localStorage
+  const toggleBookmark = (word) => {
+    setBookmarked((prev) => {
+      const updated = { ...prev };
+      if (updated[word]) {
+        delete updated[word];
+      } else {
+        updated[word] = true;
+      }
+      localStorage.setItem("lexicon_bookmarks", JSON.stringify(updated));
+      return updated;
+    });
+  };
+
   const currentLevel = searchParams.get("level") || "All";
   const currentPage = parseInt(searchParams.get("page")) || 1;
 
   const filteredWords = useMemo(() => {
-    return currentLevel === "All"
-      ? wordsData
-      : wordsData.filter((w) => w.level === currentLevel);
-  }, [currentLevel]);
+    let filtered =
+      currentLevel === "All"
+        ? wordsData
+        : wordsData.filter((w) => w.level === currentLevel);
+
+    if (showBookmarksOnly) {
+      filtered = filtered.filter((w) => bookmarked[w.word]);
+    }
+
+    return filtered;
+  }, [currentLevel, bookmarked, showBookmarksOnly]);
 
   const totalPages = Math.ceil(filteredWords.length / ITEMS_PER_PAGE);
 
@@ -25,24 +84,24 @@ export default function Lexicon() {
     return filteredWords.slice(start, start + ITEMS_PER_PAGE);
   }, [filteredWords, currentPage]);
 
-  const updateParams = (newLevel, newPage) => {
+  const updateParams = (level, page) => {
     const params = {};
-    if (newLevel !== "All") params.level = newLevel;
-    if (newPage > 1) params.page = newPage;
+    if (level !== "All") params.level = level;
+    if (page > 1) params.page = page;
     setSearchParams(params);
   };
 
-  const handleLevelChange = (e) => updateParams(e.target.value, 1);
-  const handlePageChange = (newPage) => {
-    if (newPage >= 1 && newPage <= totalPages) {
-      updateParams(currentLevel, newPage);
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }
+  const toggleAZ = (key) => {
+    setOpenAZ((prev) => ({
+      ...prev,
+      [key]: !prev[key],
+    }));
   };
 
   const getPaginationRange = () => {
     const delta = 1;
     const range = [];
+
     for (
       let i = Math.max(2, currentPage - delta);
       i <= Math.min(totalPages - 1, currentPage + delta);
@@ -50,32 +109,36 @@ export default function Lexicon() {
     ) {
       range.push(i);
     }
+
     if (currentPage - delta > 2) range.unshift("...");
     if (currentPage + delta < totalPages - 1) range.push("...");
     range.unshift(1);
     if (totalPages > 1) range.push(totalPages);
+
     return range;
   };
 
   return (
-    <div className="min-h-screen bg-[#0c0c0e] text-zinc-300 p-4 md:p-10 font-sans selection:bg-indigo-500/30">
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-300 p-4 md:p-12">
       <div className="max-w-6xl mx-auto">
-        {/* Header */}
-        <header className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-12 bg-zinc-900/50 p-6 rounded-2xl border border-zinc-800 shadow-lg">
+        {/* HEADER */}
+        <header className="flex flex-col md:flex-row justify-between gap-6 mb-14 bg-gradient-to-r from-indigo-950/40 to-purple-950/40 p-8 rounded-3xl border border-indigo-800/30 shadow-xl backdrop-blur">
           <div>
-            <h1 className="text-3xl font-black text-white tracking-tighter italic">
-              LEXICON PRO
+            <h1 className="text-4xl font-black text-white italic">
+              📚 LEXICON PRO
             </h1>
-            <p className="text-zinc-500 text-xs font-medium uppercase tracking-widest mt-1">
-              {filteredWords.length} Words | Dark Edition
+            <p className="text-zinc-400 text-xs uppercase tracking-widest mt-2">
+              {showBookmarksOnly
+                ? `📌 ${Object.keys(bookmarked).length} Bookmarked`
+                : `${filteredWords.length} Words`}
             </p>
           </div>
 
-          <div className="relative">
+          <div className="flex flex-col sm:flex-row gap-3">
             <select
               value={currentLevel}
-              onChange={handleLevelChange}
-              className="appearance-none bg-zinc-950 border border-zinc-700 text-zinc-200 text-sm rounded-xl px-4 py-3 pr-10 focus:border-indigo-500 outline-none cursor-pointer hover:bg-black transition-all"
+              onChange={(e) => updateParams(e.target.value, 1)}
+              className="bg-zinc-950 border border-zinc-700 rounded-xl px-4 py-3 hover:border-indigo-500 transition"
             >
               {LEVELS.map((lvl) => (
                 <option key={lvl} value={lvl}>
@@ -83,118 +146,150 @@ export default function Lexicon() {
                 </option>
               ))}
             </select>
-            <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-zinc-500 text-xs">
-              ▼
-            </div>
+
+            <button
+              onClick={() => setShowBookmarksOnly(!showBookmarksOnly)}
+              className={`px-4 py-3 rounded-xl font-bold text-sm transition-all flex items-center gap-2 ${
+                showBookmarksOnly
+                  ? "bg-indigo-600 text-white"
+                  : "bg-zinc-900 border border-zinc-700 text-zinc-400 hover:border-indigo-500"
+              }`}
+            >
+              <Bookmark size={18} />
+              Bookmarks
+            </button>
           </div>
         </header>
 
-        {/* Word Cards Grid */}
-        <div className="flex flex-col gap-6">
+        {/* CARDS */}
+        <div className="grid gap-6 sm:gap-8">
           {paginatedWords.map((item, index) => {
             const globalIndex = (currentPage - 1) * ITEMS_PER_PAGE + index + 1;
+            const isBookmarked = bookmarked[item.word];
 
             return (
               <div
                 key={index}
-                className="relative bg-zinc-900/20 border border-zinc-800 rounded-3xl p-6 shadow-lg hover:shadow-indigo-500/40 transition-all cursor-pointer"
-                onClick={() => setShowAZ(!showAZ)}
+                className={`relative rounded-2xl p-8 border transition-all duration-300
+                bg-gradient-to-br ${cardGradients[index % 3]}
+                backdrop-blur-xl shadow-lg hover:shadow-2xl
+                ${
+                  isBookmarked
+                    ? "border-amber-500/50 ring-1 ring-amber-500/20"
+                    : "border-zinc-700/50"
+                }`}
               >
-                {/* Index */}
-                <span className="absolute top-3 left-4 text-[10px] font-black text-zinc-500 uppercase tracking-widest">
-                  #{globalIndex.toString().padStart(2, "0")}
-                </span>
+                {/* INDEX & BOOKMARK BUTTON */}
+                <div className="flex justify-between items-start mb-6">
+                  <span className="text-[10px] font-black text-zinc-500">
+                    #{globalIndex}
+                  </span>
 
-                {/* Word & Pronunciation */}
-                <div className="flex justify-between items-center mb-4">
+                  <button
+                    onClick={() => toggleBookmark(item.word)}
+                    className={`p-2 rounded-full transition-all ${
+                      isBookmarked
+                        ? "bg-amber-500/20 text-amber-400 hover:bg-amber-500/30"
+                        : "bg-zinc-900/50 text-zinc-400 hover:text-amber-400 hover:bg-amber-500/10"
+                    }`}
+                    title={isBookmarked ? "Remove bookmark" : "Add bookmark"}
+                  >
+                    <Bookmark
+                      size={20}
+                      fill={isBookmarked ? "currentColor" : "none"}
+                    />
+                  </button>
+                </div>
+
+                {/* WORD */}
+                <div className="flex justify-between items-start gap-6 mb-6">
                   <div>
-                    <h2 className="text-2xl md:text-3xl font-extrabold text-white tracking-tight">
+                    <h2 className="text-4xl font-black text-white mb-2">
                       {item.word}
                     </h2>
-                    <p className="text-indigo-400 italic text-sm md:text-base mt-1">
-                      {item.pronunciation}
+                    <p className="text-zinc-300 italic text-sm mb-1">
+                      {item.translation}
+                    </p>
+                    <p className="text-indigo-300 italic text-xs font-mono">
+                      /{item.pronunciation}/
                     </p>
                   </div>
-                  <div className="px-3 py-1 rounded-xl bg-zinc-950 border border-zinc-800 text-xs font-black text-zinc-400 uppercase tracking-widest">
-                    {item.level}
-                  </div>
+
+                  <button
+                    onClick={() => speakWord(item.word)}
+                    className="w-12 h-12 rounded-full bg-indigo-600/20 border border-indigo-500/50 hover:bg-indigo-600/40 transition-all flex items-center justify-center text-lg flex-shrink-0"
+                    title="Listen pronunciation"
+                  >
+                    🔊
+                  </button>
                 </div>
 
-                {/* Flashcard Azərbaycan dili cümlələr (blur overlay) */}
-                <div className="mb-4 space-y-4">
-                  {["simple", "complex", "general"].map((type) => (
-                    <div key={type} className="relative">
-                      <p className="font-bold text-zinc-100 text-sm uppercase mb-1">
-                        {type.charAt(0).toUpperCase() + type.slice(1)} Example
-                        (AZ):
-                      </p>
-                      <p
-                        className={`text-zinc-300 text-base md:text-lg leading-relaxed transition-all duration-300 ${
-                          !showAZ ? "blur-sm select-none" : "blur-0"
-                        }`}
-                      >
-                        {item.examples_az[type]}
-                      </p>
-                    </div>
-                  ))}
-                </div>
+                {/* EXAMPLES */}
+                <div className="space-y-5 border-t border-white/10 pt-6">
+                  {["simple", "general", "complex"].map((type) => {
+                    const azKey = `${globalIndex}-${type}`;
+                    const isOpen = openAZ[azKey];
 
-                {/* English Examples */}
-                <div className="space-y-3 border-t border-zinc-800 pt-4">
-                  {["simple", "complex", "general"].map((type) => (
-                    <div key={type}>
-                      <p className="font-bold text-zinc-100 text-sm uppercase mb-1">
-                        {type.charAt(0).toUpperCase() + type.slice(1)} Example:
-                      </p>
-                      <p className="italic text-indigo-300 text-base md:text-lg leading-relaxed">
-                        "{item.examples[type]}"
-                      </p>
-                    </div>
-                  ))}
+                    return (
+                      <div key={type} className="space-y-2">
+                        <p className="text-xs uppercase font-bold tracking-widest text-zinc-400">
+                          {type === "simple" && "🟢 Simple"}
+                          {type === "general" && "🟡 General"}
+                          {type === "complex" && "🔴 Complex"}
+                        </p>
+
+                        {/* EN */}
+                        <p
+                          className="text-zinc-100 text-base leading-relaxed"
+                          dangerouslySetInnerHTML={{
+                            __html: `"${highlightWord(
+                              item.examples[type],
+                              item.word
+                            )}"`,
+                          }}
+                        />
+
+                        {/* AZ – CLICK TO OPEN */}
+                        <p
+                          onClick={() => toggleAZ(azKey)}
+                          className={`cursor-pointer text-zinc-300 text-sm transition-all duration-300 p-2 rounded hover:bg-white/5 ${
+                            isOpen
+                              ? "blur-0 opacity-100"
+                              : "blur-sm opacity-60 hover:opacity-85"
+                          }`}
+                        >
+                          {item.examples_az[type]}
+                        </p>
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             );
           })}
         </div>
 
-        {/* Pagination */}
+        {/* PAGINATION */}
         {totalPages > 1 && (
-          <footer className="mt-16 mb-16 flex items-center justify-center gap-2">
-            <button
-              onClick={() => handlePageChange(currentPage - 1)}
-              disabled={currentPage === 1}
-              className="w-10 h-10 flex items-center justify-center rounded-xl bg-zinc-900 border border-zinc-800 disabled:opacity-20 hover:bg-zinc-800 transition-all text-indigo-400"
-            >
-              «
-            </button>
-
-            <div className="flex gap-2 bg-zinc-900/30 p-1 rounded-2xl border border-zinc-800/50">
-              {getPaginationRange().map((page, i) => (
-                <button
-                  key={i}
-                  disabled={page === "..."}
-                  onClick={() => page !== "..." && handlePageChange(page)}
-                  className={`w-10 h-10 rounded-xl text-xs font-black transition-all ${
+          <div className="flex justify-center gap-2 mt-16">
+            {getPaginationRange().map((page, i) => (
+              <button
+                key={i}
+                disabled={page === "..."}
+                onClick={() =>
+                  page !== "..." && updateParams(currentLevel, page)
+                }
+                className={`w-10 h-10 rounded-xl text-xs font-black
+                  ${
                     currentPage === page
-                      ? "bg-indigo-600 text-white shadow-lg shadow-indigo-500/30 scale-110"
-                      : page === "..."
-                      ? "text-zinc-700 cursor-default"
-                      : "text-zinc-500 hover:bg-zinc-800 hover:text-zinc-200"
+                      ? "bg-indigo-600 text-white scale-110"
+                      : "text-zinc-400 hover:bg-zinc-800"
                   }`}
-                >
-                  {page}
-                </button>
-              ))}
-            </div>
-
-            <button
-              onClick={() => handlePageChange(currentPage + 1)}
-              disabled={currentPage === totalPages}
-              className="w-10 h-10 flex items-center justify-center rounded-xl bg-zinc-900 border border-zinc-800 disabled:opacity-20 hover:bg-zinc-800 transition-all text-indigo-400"
-            >
-              »
-            </button>
-          </footer>
+              >
+                {page}
+              </button>
+            ))}
+          </div>
         )}
       </div>
     </div>
