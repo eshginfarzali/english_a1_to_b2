@@ -257,15 +257,24 @@ export default function Lexicon() {
                         </p>
 
                         {/* EN */}
-                        <p
-                          className="text-zinc-100 text-base leading-relaxed"
-                          dangerouslySetInnerHTML={{
-                            __html: `"${highlightWord(
-                              item.examples[type],
-                              item.word
-                            )}"`,
-                          }}
-                        />
+                        <div className="flex items-center gap-3 justify-between">
+                          <p
+                            className="text-zinc-100 text-base leading-relaxed flex-1"
+                            dangerouslySetInnerHTML={{
+                              __html: `"${highlightWord(
+                                item.examples[type],
+                                item.word
+                              )}"`,
+                            }}
+                          />
+                          <button
+                            onClick={() => speakWord(item.examples[type])}
+                            className="p-2 rounded-lg bg-indigo-600/20 border border-indigo-500/50 hover:bg-indigo-600/40 transition-all flex items-center justify-center text-sm flex-shrink-0"
+                            title="Listen to English sentence"
+                          >
+                            🔊
+                          </button>
+                        </div>
 
                         {/* AZ – CLICK TO OPEN */}
                         <p

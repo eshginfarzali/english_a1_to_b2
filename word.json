@@ -8491,5 +8491,5303 @@
       "complex": "Sistem komponentləri etibarlı inteqrasiya və performansı imkan verən aydın interfeyslər və asılılıqlar ilə səmərəli işləməlidir.",
       "general": "Açar komponent."
     }
+  },
+  {
+    "word": "computer",
+    "level": "A1",
+    "translation": "kompüter",
+    "pronunciation": "[kəmˈpjuːtər]",
+    "examples": {
+      "simple": "Use a computer.",
+      "complex": "Modern computers process vast amounts of information enabling complex calculations, data analysis, and artificial intelligence applications.",
+      "general": "Desktop computer."
+    },
+    "examples_az": {
+      "simple": "Kompüter istifadə edin.",
+      "complex": "Müasır kompüterlər çoxlu məlumat emalını, mürəkkəb hesablamalar və süni intellekt proqramlarını imkan verən emal edir.",
+      "general": "Desktop kompüter."
+    }
+  },
+  {
+    "word": "concentrate",
+    "level": "B1",
+    "translation": "konsentrasiya etmək",
+    "pronunciation": "[ˈkɑːnsenˌtreɪt]",
+    "examples": {
+      "simple": "Concentrate on work.",
+      "complex": "Students concentrate better in environments minimizing distractions with clear learning objectives and appropriate support resources.",
+      "general": "Concentrate your efforts."
+    },
+    "examples_az": {
+      "simple": "İş üzərində konsentrasiya edin.",
+      "complex": "Tələbələr aydın öyrənmə məqsədləri və uyğun dəstək mənbələri ilə diqqəti minimuma endirən mühitlərdə daha yaxşı konsentrasiya edirlər.",
+      "general": "Səylərinizi konsentrasiya edin."
+    }
+  },
+  {
+    "word": "concentration",
+    "level": "B2",
+    "translation": "konsentrasiya",
+    "pronunciation": "[ˌkɑːnsenˈtreɪʃən]",
+    "examples": {
+      "simple": "High concentration.",
+      "complex": "Concentration of wealth and power creates systemic inequalities requiring policy interventions and social reforms.",
+      "general": "Loss of concentration."
+    },
+    "examples_az": {
+      "simple": "Yüksək konsentrasiya.",
+      "complex": "Sərvət və gücün konsentrasiyası siyasət müdaxilələri və sosyal islahatlar tələb edən sistem bərabərsizlikləri yaradır.",
+      "general": "Konsentrasiya itməsi."
+    }
+  },
+  {
+    "word": "concept",
+    "level": "B2",
+    "translation": "konsepsiya",
+    "pronunciation": "[ˈkɑːnsept]",
+    "examples": {
+      "simple": "New concept.",
+      "complex": "Conceptual frameworks organize knowledge and structure understanding enabling researchers to analyze phenomena systematically.",
+      "general": "Concept art."
+    },
+    "examples_az": {
+      "simple": "Yeni konsepsiya.",
+      "complex": "Konseptual çərçivələr bilikləri təşkil edir və tədqiqatçıları fenomenlər sistematik analiz etməyə imkan verən dərki qurulaşdırır.",
+      "general": "Konsepsiya sənəti."
+    }
+  },
+  {
+    "word": "concern",
+    "level": "B2",
+    "translation": "narahatlıq",
+    "pronunciation": "[kənˈsɜːrn]",
+    "examples": {
+      "simple": "Express concern.",
+      "complex": "Environmental concerns about pollution and climate change motivate policy changes and corporate sustainability initiatives.",
+      "general": "Major concern."
+    },
+    "examples_az": {
+      "simple": "Narahatlıq ifadə edin.",
+      "complex": "Çirklənmə və iqlim dəyişikliyi haqqında ekoloji narahatlıqlar siyasət dəyişikliklərini və korporativ dayanıqlılıq təşəbbüslərini motivləşdirər.",
+      "general": "Əsas narahatlıq."
+    }
+  },
+  {
+    "word": "concert",
+    "level": "A1",
+    "translation": "konserti",
+    "pronunciation": "[ˈkɑːnsərt]",
+    "examples": {
+      "simple": "Attend a concert.",
+      "complex": "Live concerts provide immersive musical experiences creating memorable moments through interaction between performers and audiences.",
+      "general": "Concert hall."
+    },
+    "examples_az": {
+      "simple": "Konserti iştirak edin.",
+      "complex": "Canlı konserti performerlər və auditoriya arasında interaksiya vasitəsilə xatirəli anlar yaradan immersiv musiqi təcrübələri təqdim edir.",
+      "general": "Konserti salonu."
+    }
+  },
+  {
+    "word": "conclude",
+    "level": "B1",
+    "translation": "sonuca gəlmək",
+    "complex": "Research studies conclude with comprehensive analysis determining whether hypotheses are supported or refuted by collected data.",
+    "pronunciation": "[kənˈkluːd]",
+    "examples": {
+      "simple": "Conclude the meeting.",
+      "general": "Conclude that..."
+    },
+    "examples_az": {
+      "simple": "İclasını sonlandırın.",
+      "complex": "Tədqiqat təqdimatları toplanan məlumatlar tərəfindən fərziyyələrin dəstəklənib-dəstəklənmədiyini müəyyən edən hərtərəfli analiz ilə sonunda gəlir.",
+      "general": "Bu nəticəyə gəl..."
+    }
+  },
+  {
+    "word": "conclusion",
+    "level": "B1",
+    "translation": "nəticə",
+    "pronunciation": "[kənˈkluːʒən]",
+    "examples": {
+      "simple": "Reach a conclusion.",
+      "complex": "Scientific conclusions require sufficient evidence and logical reasoning avoiding premature generalizations or unsubstantiated claims.",
+      "general": "In conclusion."
+    },
+    "examples_az": {
+      "simple": "Nəticəyə gəlin.",
+      "complex": "Elmi nəticələr əvvəlcədən ümumiləştirmələri və əsassız iddiaları ehtiyat edərək kafi dəlil və məntiqi əsaslandırma tələb edir.",
+      "general": "Nəticədə."
+    }
+  },
+  {
+    "word": "condition",
+    "level": "A2",
+    "translation": "vəziyyət",
+    "pronunciation": "[kənˈdɪʃən]",
+    "examples": {
+      "simple": "Good condition.",
+      "complex": "Health conditions including chronic diseases significantly impact quality of life requiring ongoing medical management and lifestyle modifications.",
+      "general": "Condition of work."
+    },
+    "examples_az": {
+      "simple": "Yaxşı vəziyyət.",
+      "complex": "Xroniki xəstəliklər daxil olmaqla sağlamlıq vəziyyətləri davamlı tibbi idarəçilik və həyat tərzi dəyişikliklərini tələb edən həyat keyfiyyətinə əhəmiyyətli dərəcədə təsir edir.",
+      "general": "İş vəziyyəti."
+    }
+  },
+  {
+    "word": "conduct",
+    "level": "B2",
+    "translation": "keçirmək",
+    "pronunciation": "[kənˈdʌkt]",
+    "examples": {
+      "simple": "Conduct research.",
+      "complex": "Ethically conducted research adheres to established protocols protecting participant rights and ensuring scientific integrity throughout investigations.",
+      "general": "Conduct yourself."
+    },
+    "examples_az": {
+      "simple": "Tədqiqat keçirin.",
+      "complex": "Etik cəhətdən keçirilmiş tədqiqat iştirakçı hüquqlarını qoruyaraq və araştırmalar ərzində elmi integrallığını təmin edən qurulmuş protokollara əməl edir.",
+      "general": "Özünüzü aparin."
+    }
+  },
+  {
+    "word": "conference",
+    "level": "A2",
+    "translation": "konfrans",
+    "pronunciation": "[ˈkɑːnfərəns]",
+    "examples": {
+      "simple": "Attend a conference.",
+      "complex": "Academic conferences facilitate knowledge sharing and professional networking among researchers enabling collaboration and idea exchange.",
+      "general": "Conference room."
+    },
+    "examples_az": {
+      "simple": "Konfransa iştirak edin.",
+      "complex": "Akademik konferanslar tədqiqatçılar arasında əməkdaşlığı və ideya mübadilsini imkan verən biliq paylaşmasını və peşə şəbəkəsini asanlaşdırır.",
+      "general": "Konfrans otağı."
+    }
+  },
+  {
+    "word": "confidence",
+    "level": "B2",
+    "translation": "inam",
+    "pronunciation": "[ˈkɑːnfɪdəns]",
+    "examples": {
+      "simple": "Build confidence.",
+      "complex": "Self-confidence develops through successful experiences and positive reinforcement enabling individuals to face challenges with resilience.",
+      "general": "Confidence level."
+    },
+    "examples_az": {
+      "simple": "İnam qurun.",
+      "complex": "Özünə inam uğurlu təcrübələr və müsbət təzyiq vasitəsilə inkişaf edir, insanları çətinliklərlə elastikliklə üzləşməyə imkan verir.",
+      "general": "İnam səviyyəsi."
+    }
+  },
+  {
+    "word": "confident",
+    "level": "B1",
+    "translation": "əminlik",
+    "pronunciation": "[ˈkɑːnfɪdənt]",
+    "examples": {
+      "simple": "Feel confident.",
+      "complex": "Confident leaders inspire teams through clear vision and demonstrated competence motivating collective effort toward organizational goals.",
+      "general": "Confident smile."
+    },
+    "examples_az": {
+      "simple": "Əminlik hiss edin.",
+      "complex": "Əminlik liderləri aydın vizyonu və nümayiş edilmiş yetkinlik vasitəsilə komandaları ilham alır, təşkilati məqsədlərə doğru kollektiv səyi motivləşdirir.",
+      "general": "Əminlik gülüşü."
+    }
+  },
+  {
+    "word": "confirm",
+    "level": "B1",
+    "translation": "təsdiq etmək",
+    "pronunciation": "[kənˈfɜːrm]",
+    "examples": {
+      "simple": "Confirm receipt.",
+      "complex": "Medical tests confirm diagnoses enabling appropriate treatment planning based on verified health conditions.",
+      "general": "Confirm attendance."
+    },
+    "examples_az": {
+      "simple": "Qəbulu təsdiq edin.",
+      "complex": "Tibbi testlər tanılaş etməyi təsdiq edir, verifikasiya olunmuş sağlamlıq vəziyyətlərinə əsasən uyğun müalicə planlaşdırmasını imkan verir.",
+      "general": "İştirakı təsdiq edin."
+    }
+  },
+  {
+    "word": "conflict",
+    "level": "B2",
+    "translation": "münaqişə",
+    "pronunciation": "[ˈkɑːnflɪkt]",
+    "examples": {
+      "simple": "Resolve conflict.",
+      "complex": "Unresolved conflicts escalate creating tension and dysfunction requiring mediation and dialogue to address underlying disagreements.",
+      "general": "Armed conflict."
+    },
+    "examples_az": {
+      "simple": "Münaqişəni həll edin.",
+      "complex": "Həll edilməmiş münaqişələr artan gərginlik və aşağı funksionallıq yaradır, əsas mübahisələri ünvanlamaq üçün vasitəçilik və dialoqu tələb edir.",
+      "general": "Silahlı münaqişə."
+    }
+  },
+  {
+    "word": "confuse",
+    "level": "B1",
+    "translation": "çaşdırmaq",
+    "pronunciation": "[kənˈfjuːz]",
+    "examples": {
+      "simple": "Don't confuse me.",
+      "complex": "Poorly designed interfaces confuse users reducing usability and requiring additional training and support interventions.",
+      "general": "Confuse the issue."
+    },
+    "examples_az": {
+      "simple": "Məni çaşdırmayın.",
+      "complex": "Zəif dizayn olunmuş interfeyslər istifadəçiləri çaşdırır, istifadəçililiyi azaltır və əlavə təlim və dəstək müdaxilələrini tələb edir.",
+      "general": "Məsələni çaşdırın."
+    }
+  },
+  {
+    "word": "confused",
+    "level": "B1",
+    "translation": "çaşqın",
+    "pronunciation": "[kənˈfjuːzd]",
+    "examples": {
+      "simple": "Feeling confused.",
+      "complex": "Confused students often require clarification and additional explanations to achieve understanding and academic success.",
+      "general": "Confused expression."
+    },
+    "examples_az": {
+      "simple": "Çaşqın hiss etmə.",
+      "complex": "Çaşqın tələbələr tez-tez anlamağa və akademik uğura çatmaq üçün aydınlıq və əlavə izahatlar tələb edirlər.",
+      "general": "Çaşqın ifadə."
+    }
+  },
+  {
+    "word": "confusing",
+    "level": "B2",
+    "translation": "çaşdırıcı",
+    "pronunciation": "[kənˈfjuːzɪŋ]",
+    "examples": {
+      "simple": "Confusing instructions.",
+      "complex": "Confusing information in marketing communications misleads consumers undermining trust and damaging brand reputation.",
+      "general": "Confusing situation."
+    },
+    "examples_az": {
+      "simple": "Çaşdırıcı təlimatlar.",
+      "complex": "Marketinq əlaqələsində çaşdırıcı məlumatlar komsumerlərləri yaydaslayır, etibarı zəiflətir və marka reputasiyasına ziyanda vurur.",
+      "general": "Çaşdırıcı vəziyyət."
+    }
+  },
+  {
+    "word": "congress",
+    "level": "B2",
+    "translation": "konqres",
+    "pronunciation": "[ˈkɑːŋɡres]",
+    "examples": {
+      "simple": "Congress meeting.",
+      "complex": "Legislative congresses make laws affecting millions of citizens requiring transparent processes and representative participation.",
+      "general": "Member of Congress."
+    },
+    "examples_az": {
+      "simple": "Konqres iclası.",
+      "complex": "Qanunverici konqresləri milyonları təsirlənən qanunlar qəbul edir, şəffaf proseslər və nümayəndə iştirakını tələb edir.",
+      "general": "Konqres üzvü."
+    }
+  },
+  {
+    "word": "connect",
+    "level": "A2",
+    "translation": "birləşdirmək",
+    "pronunciation": "[kəˈnekt]",
+    "examples": {
+      "simple": "Connect the cables.",
+      "complex": "Internet connectivity connects people globally enabling communication, commerce, and information access transcending geographical boundaries.",
+      "general": "Connect with others."
+    },
+    "examples_az": {
+      "simple": "Kabelləri birləşdirin.",
+      "complex": "İnternet əlaqəsi insanları qlobal olaraq birləşdir, coğrafi sərhədləri keçən əlaqə, ticarət və məlumat girişini imkan verir.",
+      "general": "Başqalarla əlaqə."
+    }
+  },
+  {
+    "word": "connected",
+    "level": "A2",
+    "translation": "birləşdirilmiş",
+    "pronunciation": "[kəˈnektɪd]",
+    "examples": {
+      "simple": "Connected devices.",
+      "complex": "Connected communities share resources and information collaboratively addressing common challenges through coordinated action.",
+      "general": "Stay connected."
+    },
+    "examples_az": {
+      "simple": "Birləşdirilmiş cihazlar.",
+      "complex": "Birləşdirilmiş cəmiyyətlər koordinə hərəkət vasitəsilə ümumi çətinlikləri ünvanlamaqla resursları və məlumatları əməkdaşlıq ilə paylaşırlar.",
+      "general": "Əlaqəli qalın."
+    }
+  },
+  {
+    "word": "connection",
+    "level": "B1",
+    "translation": "əlaqə",
+    "pronunciation": "[kəˈnekʃən]",
+    "examples": {
+      "simple": "Internet connection.",
+      "complex": "Professional connections developed through networking provide opportunities for collaboration and career advancement.",
+      "general": "Connection lost."
+    },
+    "examples_az": {
+      "simple": "İnternet əlaqəsi.",
+      "complex": "Şəbəkə vasitəsilə inkişaf etdirilmiş peşə əlaqələri əməkdaşlıq və karyera irəliləməsi imkanları təqdim edir.",
+      "general": "Əlaqə itdi."
+    }
+  },
+  {
+    "word": "conscious",
+    "level": "B2",
+    "translation": "şüurlu",
+    "pronunciation": "[ˈkɑːnʃəs]",
+    "examples": {
+      "simple": "Conscious effort.",
+      "complex": "Conscious consumption involves deliberate choices considering environmental impact and ethical implications of purchasing decisions.",
+      "general": "Conscious choice."
+    },
+    "examples_az": {
+      "simple": "Şüurlu səy.",
+      "complex": "Şüurlu istehlak ekoloji təsiri və alış qərarlarının etik nəticələrini nəzər alan qəsdən seçimləri əhatə edir.",
+      "general": "Şüurlu seçim."
+    }
+  },
+  {
+    "word": "consequence",
+    "level": "B1",
+    "translation": "nəticə",
+    "pronunciation": "[ˈkɑːnsɪˌkwens]",
+    "examples": {
+      "simple": "Serious consequence.",
+      "complex": "Environmental consequences of industrial activities include pollution, resource depletion, and ecosystem damage requiring regulatory intervention.",
+      "general": "Face consequences."
+    },
+    "examples_az": {
+      "simple": "Ciddi nəticə.",
+      "complex": "Sənaye fəaliyyətlərinin ekoloji nəticələri çirklənmə, mənbə tükənməsi və tənzimləyici müdaxalə tələb edən ekosistem zərərini əhatə edir.",
+      "general": "Nəticələrlə üzləş."
+    }
+  },
+  {
+    "word": "conservative",
+    "level": "B2",
+    "translation": "mühafizəkar",
+    "pronunciation": "[kənˈsɜːrvətɪv]",
+    "examples": {
+      "simple": "Conservative estimate.",
+      "complex": "Conservative investment strategies prioritize capital preservation over growth seeking stable returns with minimal risk exposure.",
+      "general": "Conservative approach."
+    },
+    "examples_az": {
+      "simple": "Mühafizəkar təxmin.",
+      "complex": "Mühafizəkar investisiya strategiyaları minimum risk maruziyyət ilə sabit gəlirləri axtararan artımı əvvəlləşdirən kapital mühafizəsini prioritet verir.",
+      "general": "Mühafizəkar yanaşma."
+    }
+  },
+  {
+    "word": "consider",
+    "level": "A2",
+    "translation": "nəzərə almaq",
+    "pronunciation": "[kənˈsɪdər]",
+    "examples": {
+      "simple": "Consider your options.",
+      "complex": "Stakeholders consider multiple factors including financial implications, environmental impact, and social equity when evaluating policy options.",
+      "general": "Consider carefully."
+    },
+    "examples_az": {
+      "simple": "Seçimlərinizi nəzərə alın.",
+      "complex": "Maraqlı tərəflər siyasət variantlarını qiymətləndirərkən maliyyə nəticələri, ekoloji təsiri və sosyal bərabərliyi daxil olmaqla çoxlu amillər nəzərə alırlar.",
+      "general": "Diqqətlə nəzərə alın."
+    }
+  },
+  {
+    "word": "considerable",
+    "level": "B2",
+    "translation": "əhəmiyyətli",
+    "pronunciation": "[kənˈsɪdərəbəl]",
+    "examples": {
+      "simple": "Considerable progress.",
+      "complex": "Considerable resources invested in research and development drive technological innovation and competitive advantage.",
+      "general": "Considerable number."
+    },
+    "examples_az": {
+      "simple": "Əhəmiyyətli irəliləmə.",
+      "complex": "Tədqiqat və inkişafa yatırılan əhəmiyyətli mənbələr texnoloji yenilikçilik və rəqabətçilik üstünlüyünü sürətləndirirlər.",
+      "general": "Əhəmiyyətli sayı."
+    }
+  },
+  {
+    "word": "consideration",
+    "level": "B2",
+    "translation": "mülahizə",
+    "pronunciation": "[kənˌsɪdəˈreɪʃən]",
+    "examples": {
+      "simple": "Take into consideration.",
+      "complex": "Ethical considerations require businesses to balance profit objectives with social responsibility and environmental sustainability commitments.",
+      "general": "Under consideration."
+    },
+    "examples_az": {
+      "simple": "Nəzərə alın.",
+      "complex": "Etik mülahizələr müəssisələrdən mənfəət məqsədlərini sosyal məsuliyyət və ekoloji dayanıqlılıq fədakarlığı ilə balanslaşdırma tələb edir.",
+      "general": "Nəzərə alınırdı."
+    }
+  },
+  {
+    "word": "consist",
+    "level": "B1",
+    "translation": "ibarət olmaq",
+    "pronunciation": "[kənˈsɪst]",
+    "examples": {
+      "simple": "Consist of members.",
+      "complex": "Effective teams consist of diverse individuals with complementary skills contributing unique perspectives and expertise.",
+      "general": "Consist mainly of."
+    },
+    "examples_az": {
+      "simple": "Üzvlərdən ibarət olmaq.",
+      "complex": "Effektiv komandalar tərəf perspektivləri və müxtəriliyi verən müxtəlif bacarıqlarla müxtəlif şəxslərdən ibarət olur.",
+      "general": "Əsasən ibarət olmaq."
+    }
+  },
+  {
+    "word": "consistent",
+    "level": "B2",
+    "translation": "ardıcıl",
+    "pronunciation": "[kənˈsɪstənt]",
+    "examples": {
+      "simple": "Consistent quality.",
+      "complex": "Consistent messaging across communication channels reinforces brand identity and builds consumer trust and loyalty.",
+      "general": "Consistent performance."
+    },
+    "examples_az": {
+      "simple": "Ardıcıl keyfiyyət.",
+      "complex": "Əlaqə kanalları arasında ardıcıl mesajlaşdırma marka şəxsiyyətini güçləndir və komsumer etibarı və sadəqətini qurar.",
+      "general": "Ardıcıl performans."
+    }
+  },
+  {
+    "word": "constant",
+    "level": "B2",
+    "translation": "daimi",
+    "pronunciation": "[ˈkɑːnstənt]",
+    "examples": {
+      "simple": "Constant pressure.",
+      "complex": "Constant innovation and adaptation are necessary for organizations to maintain competitiveness in rapidly changing markets.",
+      "general": "Constant reminder."
+    },
+    "examples_az": {
+      "simple": "Daimi təzyiq.",
+      "complex": "Daimi yenilikçilik və uyğunlaşdırma sürətlə dəyişən bazarlarda müəssisələrin rəqabətçiliyi saxlaması üçün zəruri.",
+      "general": "Daimi yada salan."
+    }
+  },
+  {
+    "word": "constantly",
+    "level": "B2",
+    "translation": "davamlı olaraq",
+    "pronunciation": "[ˈkɑːnstəntli]",
+    "examples": {
+      "simple": "Constantly changing.",
+      "complex": "Digital landscapes shift constantly requiring professionals to engage in ongoing learning and skill development.",
+      "general": "Constantly improving."
+    },
+    "examples_az": {
+      "simple": "Davamlı dəyişən.",
+      "complex": "Rəqəmsal mənzərələr davamlı sürüşür, peşəkarlıyı davamlı öyrənmə və bacarıq inkişafına cəlb etməyi tələb edir.",
+      "general": "Davamlı yaxşılaşan."
+    }
+  },
+  {
+    "word": "construct",
+    "level": "B2",
+    "translation": "qurmaq",
+    "pronunciation": "[kənˈstrʌkt]",
+    "examples": {
+      "simple": "Construct a building.",
+      "complex": "Engineers construct infrastructure systems designed to withstand environmental stresses and serve communities for decades.",
+      "general": "Construct meaning."
+    },
+    "examples_az": {
+      "simple": "Bina qurun.",
+      "complex": "Mühəndislər ətraf stress davamlılığı üçün dizayn olunmuş və cəmiyyətlərə onsillikləri xidmət edən infrastruktur sistemlərini qurur.",
+      "general": "Məna qurun."
+    }
+  },
+  {
+    "word": "construction",
+    "level": "B2",
+    "translation": "tikinti",
+    "pronunciation": "[kənˈstrʌkʃən]",
+    "examples": {
+      "simple": "Under construction.",
+      "complex": "Construction projects require careful planning, skilled labor, and safety protocols to manage risks and meet quality standards.",
+      "general": "Construction site."
+    },
+    "examples_az": {
+      "simple": "Tikinti altında.",
+      "complex": "Tikinti layihələri riskləri idarə etmək və keyfiyyət standartlarını yerinə yetirmək üçün diqqətli planlaşdırma, istedadlı işçi qüvvə və təhlükəsizlik protokollarını tələb edir.",
+      "general": "Tikinti sahəsi."
+    }
+  },
+  {
+    "word": "consume",
+    "level": "B1",
+    "translation": "istehlak etmək",
+    "pronunciation": "[kənˈsuːm]",
+    "examples": {
+      "simple": "Consume resources.",
+      "complex": "Modern societies consume vast quantities of resources generating waste and environmental impacts requiring sustainable alternatives.",
+      "general": "Consume carefully."
+    },
+    "examples_az": {
+      "simple": "Mənbələri istehlak edin.",
+      "complex": "Müasır cəmiyyətlər davamlı alternativləri tələb edən tullantı və ekoloji təsiri yaradan çoxlu mənbələr istehlak edir.",
+      "general": "Diqqətlə istehlak edin."
+    }
+  },
+  {
+    "word": "consumer",
+    "level": "B1",
+    "translation": "komsumer",
+    "pronunciation": "[kənˈsuːmər]",
+    "examples": {
+      "simple": "Consumer choice.",
+      "complex": "Consumer behavior drives market demand influencing business decisions regarding product development and marketing strategies.",
+      "general": "Consumer protection."
+    },
+    "examples_az": {
+      "simple": "Komsumer seçimi.",
+      "complex": "Komsumer davranışı bazaar tələbini sürətləndir, məhsul inkişafı və marketinq strategiyaları haqqında biznes qərarlarına təsir edir.",
+      "general": "Komsumer mühafizəsi."
+    }
+  },
+  {
+    "word": "contact",
+    "level": "B1",
+    "translation": "əlaqə",
+    "pronunciation": "[ˈkɑːntækt]",
+    "examples": {
+      "simple": "Contact information.",
+      "complex": "Maintaining contact with professional networks creates opportunities for collaboration and career development.",
+      "general": "Get in contact."
+    },
+    "examples_az": {
+      "simple": "Əlaqə məlumatı.",
+      "complex": "Peşə şəbəkələri ilə əlaqə saxlamaq əməkdaşlıq və karyera inkişafı imkanları yaradır.",
+      "general": "Əlaqə qurun."
+    }
+  },
+  {
+    "word": "contain",
+    "level": "A2",
+    "translation": "ehtiva etmək",
+    "pronunciation": "[kənˈteɪn]",
+    "examples": {
+      "simple": "Container contains items.",
+      "complex": "Food products contain nutrition information enabling consumers to make informed dietary choices aligned with health goals.",
+      "general": "Contain yourself."
+    },
+    "examples_az": {
+      "simple": "Konteyneri maddələri ehtiva edir.",
+      "complex": "Qida məhsulları komsumerlərə sağlamlıq məqsədləri ilə uyğun məlumatlandırılmış pəhriz seçimləri etməyə imkan verən qida məlumatı ehtiva edir.",
+      "general": "Özünüzü saxlayın."
+    }
+  },
+  {
+    "word": "container",
+    "level": "B1",
+    "translation": "konteyneri",
+    "pronunciation": "[kənˈteɪnər]",
+    "examples": {
+      "simple": "Storage container.",
+      "complex": "Shipping containers revolutionized global trade enabling efficient transport of goods across international markets.",
+      "general": "Container ship."
+    },
+    "examples_az": {
+      "simple": "Saxlama konteyneri.",
+      "complex": "Göndərmə konteyneri beynəlxalq bazarlarda malların səmərəli nəqliyyatını imkan verən qlobal ticarətə inqilab etdi.",
+      "general": "Konteyneri gəmisi."
+    }
+  },
+  {
+    "word": "contemporary",
+    "level": "B2",
+    "translation": "müasır",
+    "pronunciation": "[kənˈtɛmpəreri]",
+    "examples": {
+      "simple": "Contemporary art.",
+      "complex": "Contemporary issues including climate change and inequality require integrated solutions addressing interconnected global challenges.",
+      "general": "Contemporary society."
+    },
+    "examples_az": {
+      "simple": "Müasır sənət.",
+      "complex": "İqlim dəyişikliyi və bərabərsizlik daxil olmaqla müasır məsələlər əlaqəli qlobal çətinlikləri ünvanlamaq üçün inteqrasiya edilmiş həllər tələb edir.",
+      "general": "Müasır cəmiyyət."
+    }
+  },
+  {
+    "word": "content",
+    "level": "B1",
+    "translation": "məzmun",
+    "pronunciation": "[ˈkɑːntent]",
+    "examples": {
+      "simple": "Web content.",
+      "complex": "Digital content creation and distribution platforms enable individuals and organizations to reach global audiences.",
+      "general": "Content creation."
+    },
+    "examples_az": {
+      "simple": "Veb məzmun.",
+      "complex": "Rəqəmsal məzmun yaratılması və paylama platformaları şəxslərə və təşkilatlara qlobal auditoriyalara çatmağa imkan verir.",
+      "general": "Məzmun yaratılması."
+    }
+  },
+  {
+    "word": "contest",
+    "level": "B2",
+    "translation": "müsabiqə",
+    "pronunciation": "[ˈkɑːntest]",
+    "examples": {
+      "simple": "Join a contest.",
+      "complex": "Contests incentivize participation encouraging talent development and recognition of exceptional achievements in competitive fields.",
+      "general": "Contest rules."
+    },
+    "examples_az": {
+      "simple": "Müsabiqəyə qoşulun.",
+      "complex": "Müsabiqələr iştirakı stimulyasiya edir, talent inkişafını təşviq edir və rəqabətçi sahələrdə istisna nailiyyətlərin tanınmasını təşviq edir.",
+      "general": "Müsabiqə qaydaları."
+    }
+  },
+  {
+    "word": "context",
+    "level": "A2",
+    "translation": "kontekst",
+    "pronunciation": "[ˈkɑːntekst]",
+    "examples": {
+      "simple": "In context.",
+      "complex": "Understanding information requires appreciating its historical, cultural, and situational context shaping interpretation and meaning.",
+      "general": "Out of context."
+    },
+    "examples_az": {
+      "simple": "Kontekstdə.",
+      "complex": "Məlumatı anlamaq təfsir və məna formalaşdıran tarixi, mədəni və vəziyyət kontekstini qiymətləndirməyi tələb edir.",
+      "general": "Kontekstdən kənara."
+    }
+  },
+  {
+    "word": "continent",
+    "level": "A2",
+    "translation": "qitə",
+    "pronunciation": "[ˈkɑːntɪnənt]",
+    "examples": {
+      "simple": "African continent.",
+      "complex": "Continents experience distinct climates, ecosystems, and cultures shaped by geographic conditions and historical development patterns.",
+      "general": "Continental divide."
+    },
+    "examples_az": {
+      "simple": "Afrika qitəsi.",
+      "complex": "Qitələr coğrafi şərait və tarixi inkişaf nümunələri tərəfindən formalaşan fərqli iqlim, ekosistem və mədəniyyətləri yaşayırlar.",
+      "general": "Qitə bölməsi."
+    }
+  },
+  {
+    "word": "continue",
+    "level": "A2",
+    "translation": "davam etmək",
+    "pronunciation": "[kənˈtɪnjuː]",
+    "examples": {
+      "simple": "Continue reading.",
+      "complex": "Organizations continue investing in employee development recognizing that human capital drives innovation and competitive advantage.",
+      "general": "Continue as normal."
+    },
+    "examples_az": {
+      "simple": "Oxumağa davam edin.",
+      "complex": "Təşkilatlar insan kapitalının yenilikçiliyi və rəqabət üstünlüyünü sürətləndirdiyini tanıyaraq işçi inkişafına investisiya qoymağa davam edir.",
+      "general": "Normal davam edin."
+    }
+  },
+  {
+    "word": "continuous",
+    "level": "B1",
+    "translation": "davamlı",
+    "pronunciation": "[kənˈtɪnjuəs]",
+    "examples": {
+      "simple": "Continuous improvement.",
+      "complex": "Continuous monitoring systems track organizational performance enabling rapid response to emerging challenges and opportunities.",
+      "general": "Continuous cycle."
+    },
+    "examples_az": {
+      "simple": "Davamlı yaxşılaşdırma.",
+      "complex": "Davamlı monitorinq sistemləri təşkilati performansını izləyir, yeni çətinliklərə və imkanlara sürətli cavab verməyi imkan verir.",
+      "general": "Davamlı dövrə."
+    }
+  },
+  {
+    "word": "contract",
+    "level": "B2",
+    "translation": "müqavilə",
+    "pronunciation": "[ˈkɑːntrækt]",
+    "examples": {
+      "simple": "Sign a contract.",
+      "complex": "Legal contracts establish binding obligations clarifying rights, responsibilities, and dispute resolution mechanisms protecting parties.",
+      "general": "Contract terms."
+    },
+    "examples_az": {
+      "simple": "Müqavilə imzalayın.",
+      "complex": "Hüquqi müqavilələr tərəfləri qoruyaraq hüquqları, məsuliyyətləri və mübahisə həlli mexanizmlərini aydınlaşdıran köklü öhdəliklər qurur.",
+      "general": "Müqavilə şərtləri."
+    }
+  },
+  {
+    "word": "contrast",
+    "level": "B1",
+    "translation": "kontrastlık",
+    "pronunciation": "[ˈkɑːntræst]",
+    "examples": {
+      "simple": "Contrast colors.",
+      "complex": "Contrasting perspectives in collaborative teams generate creative solutions through diverse viewpoints and experiences.",
+      "general": "Contrast and compare."
+    },
+    "examples_az": {
+      "simple": "Kontrastlı rənglər.",
+      "complex": "Əməkdaşlıq komandalarında ziddiyyətli perspektivlər müxtəlif görüş və təcrübələr vasitəsilə yaradıcı həllər yaradır.",
+      "general": "Kontrastlık və müqayisə."
+    }
+  },
+  {
+    "word": "contribute",
+    "level": "B2",
+    "translation": "töhfə vermək",
+    "pronunciation": "[kənˈtrɪbjuːt]",
+    "examples": {
+      "simple": "Contribute ideas.",
+      "complex": "Individuals contribute to organizational success through expertise, effort, and commitment advancing collective goals.",
+      "general": "Contribute financially."
+    },
+    "examples_az": {
+      "simple": "İdeya töhfə verin.",
+      "complex": "Şəxslər müxtəriliyi, səyi və kollektiv məqsədləri irəliləten fədakarlıq vasitəsilə təşkilati uğura töhfə verir.",
+      "general": "Maliyyə töhfə verin."
+    }
+  },
+  {
+    "word": "contribution",
+    "level": "B2",
+    "translation": "töhfə",
+    "pronunciation": "[ˌkɑːntrɪˈbjuːʃən]",
+    "examples": {
+      "simple": "Make a contribution.",
+      "complex": "Research contributions advance scientific knowledge and provide practical applications benefiting society and addressing challenges.",
+      "general": "Contribution to society."
+    },
+    "examples_az": {
+      "simple": "Töhfə verin.",
+      "complex": "Tədqiqat töhfələri elmi bilikləri irəlilədir və cəmiyyətə fayda verən və çətinlikləri ünvanlamaq üçün praktik proqramlar təqdim edir.",
+      "general": "Cəmiyyətə töhfə."
+    }
+  },
+  {
+    "word": "control",
+    "level": "A2",
+    "translation": "nəzarət",
+    "pronunciation": "[kənˈtroʊl]",
+    "examples": {
+      "simple": "Take control.",
+      "complex": "Quality control systems monitor production ensuring consistency and identifying defects before products reach consumers.",
+      "general": "Lose control."
+    },
+    "examples_az": {
+      "simple": "Nəzarəti götürün.",
+      "complex": "Keyfiyyət nəzarət sistemləri istehsalı izləyir, komsumerlərlə mehsullar əvvəl qüsurları müəyyən edərək sabitliyi təmin edir.",
+      "general": "Nəzarəti itirin."
+    }
+  },
+  {
+    "word": "convenient",
+    "level": "B1",
+    "translation": "əlçatan",
+    "pronunciation": "[kənˈviːniənt]",
+    "examples": {
+      "simple": "Convenient location.",
+      "complex": "Convenient access to public services and amenities enhances quality of life and enables participation in community activities.",
+      "general": "Convenient time."
+    },
+    "examples_az": {
+      "simple": "Əlçatan yerləşdirmə.",
+      "complex": "İctimai xidmət və avadanlıqlara əlçatan giriş həyat keyfiyyətini artırır və cəmiyyət fəaliyyətlərinə iştirakı imkan verir.",
+      "general": "Əlçatan vaxt."
+    }
+  },
+  {
+    "word": "conversation",
+    "level": "A1",
+    "translation": "söhbət",
+    "pronunciation": "[ˌkɑːnvərˈseɪʃən]",
+    "examples": {
+      "simple": "Have a conversation.",
+      "complex": "Meaningful conversations build relationships and foster understanding enabling empathy and connection across differences.",
+      "general": "Conversation starter."
+    },
+    "examples_az": {
+      "simple": "Söhbət edin.",
+      "complex": "Mənalı söhbətlər fərqlər arasında empatiyanı və əlaqəni imkan verən əlaqələri qurar və anlamağı təşviq edir.",
+      "general": "Söhbət başlanğıcı."
+    }
+  },
+  {
+    "word": "convert",
+    "level": "B2",
+    "translation": "çevirmək",
+    "pronunciation": "[kənˈvɜːrt]",
+    "examples": {
+      "simple": "Convert currency.",
+      "complex": "Converting renewable energy sources into electricity requires infrastructure investment and technological advancement.",
+      "general": "Convert to Islam."
+    },
+    "examples_az": {
+      "simple": "Para çevirin.",
+      "complex": "Bərpa olunan enerji mənbələrini elektrik enerjiyə çevirmə infrastruktur yatırımı və texnoloji irəliləməni tələb edir.",
+      "general": "İslama çevrin."
+    }
+  },
+  {
+    "word": "convince",
+    "level": "B1",
+    "translation": "ikna etmək",
+    "pronunciation": "[kənˈvɪns]",
+    "examples": {
+      "simple": "Convince someone.",
+      "complex": "Persuasive arguments supported by evidence convince audiences and motivate behavioral change and adoption.",
+      "general": "Convince me."
+    },
+    "examples_az": {
+      "simple": "Kimsəni ikna edin.",
+      "complex": "Dəlillər tərəfindən dəstəklənən inandırıcı arqumentlər auditoriyasını ikna edir və davranış dəyişiklikləri və əvəz etməni motivləşdir.",
+      "general": "Məni ikna edin."
+    }
+  },
+  {
+    "word": "convinced",
+    "level": "B2",
+    "translation": "ikna olmuş",
+    "pronunciation": "[kənˈvɪnst]",
+    "examples": {
+      "simple": "Convinced it's true.",
+      "complex": "Convinced consumers advocate enthusiastically for brands they trust demonstrating positive word-of-mouth and loyalty.",
+      "general": "Not convinced yet."
+    },
+    "examples_az": {
+      "simple": "Bunun doğru olduğuna ikna oldum.",
+      "complex": "İkna olmuş komsumerlər etibar etdikləri brendləri əhəmiyyətli şəkildə müdafiə edir, müsbət söz-ağızdan sözə keçmə və sadəqətini nümayiş etdir.",
+      "general": "Hələ ikna olmamıştım."
+    }
+  },
+  {
+    "word": "cook",
+    "level": "A1",
+    "translation": "aşçı, yemək bişirmə",
+    "pronunciation": "[kʊk]",
+    "examples": {
+      "simple": "Cook dinner.",
+      "complex": "Professional chefs cook nutritious and delicious meals balancing flavor, presentation, and dietary requirements.",
+      "general": "Cook from scratch."
+    },
+    "examples_az": {
+      "simple": "Nahəm bişirin.",
+      "complex": "Peşə aşçıbaşıları dad, sunum və pəhriz tələblərini balanslaşdıran qida və ləziz yeməklər bişirirlər.",
+      "general": "Sıfırdan bişirin."
+    }
+  },
+  {
+    "word": "cookie",
+    "level": "A2",
+    "translation": "kuki",
+    "pronunciation": "[ˈkʊki]",
+    "examples": {
+      "simple": "Eat a cookie.",
+      "complex": "Browser cookies track user behavior enabling personalized website experiences and targeted advertising.",
+      "general": "Cookie jar."
+    },
+    "examples_az": {
+      "simple": "Kuki yəməyi.",
+      "complex": "Brauzer kukiləri istifadəçi davranışını izləyir, şəxsiləşdirilmiş veb sayt təcrübələrini və hədəflənmiş reklamı imkan verir.",
+      "general": "Kuki qab."
+    }
+  },
+  {
+    "word": "cooking",
+    "level": "A1",
+    "translation": "yemək bişirmə",
+    "pronunciation": "[ˈkʊkɪŋ]",
+    "examples": {
+      "simple": "Enjoy cooking.",
+      "complex": "Cooking connects culture, tradition, and creativity enabling families to bond while preparing nourishing meals together.",
+      "general": "Cooking class."
+    },
+    "examples_az": {
+      "simple": "Yemək bişirməni sevmə.",
+      "complex": "Yemək bişirmə ailələrin birlikdə qidalanan yeməklər hazırlarken bağlanmasını imkan verən mədəniyyət, ənənə və yaradıcılığı birləşdir.",
+      "general": "Yemək bişirmə sinifi."
+    }
+  },
+  {
+    "word": "cool",
+    "level": "A1",
+    "translation": "soyuq",
+    "pronunciation": "[kuːl]",
+    "examples": {
+      "simple": "Cool weather.",
+      "complex": "Cool technologies enable energy efficiency and climate control supporting comfort and sustainability.",
+      "general": "That's cool!"
+    },
+    "examples_az": {
+      "simple": "Soyuq hava.",
+      "complex": "Soyuq texnologiyalar enerji səmərəliliyi və iqlim nəzarətini imkan verir, rahatlıq və dayanıqlılığı dəstəkləyir.",
+      "general": "Bu soyuqdur!"
+    }
+  },
+  {
+    "word": "copy",
+    "level": "A2",
+    "translation": "nüsxə",
+    "pronunciation": "[ˈkɑːpi]",
+    "examples": {
+      "simple": "Make a copy.",
+      "complex": "Intellectual property protections prevent unauthorized copying of creative works preserving creator rights and incentivizing innovation.",
+      "general": "Copy and paste."
+    },
+    "examples_az": {
+      "simple": "Nüsxə edin.",
+      "complex": "Intelektual mülkiyyət mühafizəsi yaradıcı əsərlərin qeyri-icazəli surətini saxlayaraq yaradıcı hüquqlarını qoruyur və yenilikçiliyi təşviq edir.",
+      "general": "Nüsxə edin və yapışdırın."
+    }
+  },
+  {
+    "word": "core",
+    "level": "B2",
+    "translation": "mərkəz",
+    "pronunciation": "[kɔːr]",
+    "examples": {
+      "simple": "Core values.",
+      "complex": "Core competencies define organizational identity and competitive positioning enabling strategic differentiation in markets.",
+      "general": "Core issue."
+    },
+    "examples_az": {
+      "simple": "Mərkəz dəyərləri.",
+      "complex": "Əsas yetkinliklər təşkilati şəxsiyyətini təyin edir və bazarlarda strateji fərqləndirmə imkan verən rəqabətçi mövqeyi.",
+      "general": "Mərkəz məsələsi."
+    }
+  },
+  {
+    "word": "corn",
+    "level": "B1",
+    "translation": "qarğıdalı",
+    "pronunciation": "[kɔːrn]",
+    "examples": {
+      "simple": "Grow corn.",
+      "complex": "Corn production contributes significantly to global food supply and animal feed while raising sustainability concerns.",
+      "general": "Corn field."
+    },
+    "examples_az": {
+      "simple": "Qarğıdalı yetişdirin.",
+      "complex": "Qarğıdalı istehsalı qlobal qida təminatı və heyvan yemlənməsinə əhəmiyyətli dərəcədə töhfə verir, baxmayaraq ki, dayanıqlılıq narahatlıqlarını yüksəldir.",
+      "general": "Qarğıdalı sahəsi."
+    }
+  },
+  {
+    "word": "corner",
+    "level": "A2",
+    "translation": "künc",
+    "pronunciation": "[ˈkɔːrnər]",
+    "examples": {
+      "simple": "Around the corner.",
+      "complex": "Corner shops serve local communities providing convenient access to essential goods and personalized service.",
+      "general": "Corner store."
+    },
+    "examples_az": {
+      "simple": "Küncdən sonra.",
+      "complex": "Künc dükanları yerli cəmiyyətlərə xidmət edir, zəruri malların əlçatan girişini və şəxsiləşdirilmiş xidməti təqdim edir.",
+      "general": "Künc dükanı."
+    }
+  },
+  {
+    "word": "corporate",
+    "level": "B2",
+    "translation": "korporativ",
+    "pronunciation": "[ˈkɔːrpərət]",
+    "examples": {
+      "simple": "Corporate office.",
+      "complex": "Corporate governance structures establish accountability and decision-making processes protecting stakeholder interests.",
+      "general": "Corporate culture."
+    },
+    "examples_az": {
+      "simple": "Korporativ ofisi.",
+      "complex": "Korporativ yönetim strukturları maraqlı tərəf maraqlarını qoruyaraq məsuliyyət və qərar vermə proseslərini qurur.",
+      "general": "Korporativ mədəniyyət."
+    }
+  },
+  {
+    "word": "correct",
+    "level": "A1",
+    "translation": "düzgün",
+    "pronunciation": "[kəˈrekt]",
+    "examples": {
+      "simple": "Correct answer.",
+      "complex": "Correct information accuracy enables informed decision-making and prevents misinformed actions with unintended consequences.",
+      "general": "Correct me if wrong."
+    },
+    "examples_az": {
+      "simple": "Düzgün cavab.",
+      "complex": "Düzgün məlumat dəqiqliyi məlumatlandırılmış qərar verməni imkan verir və gözlənilməz nəticələrlə yanɑş hərəkətləri saxlayır.",
+      "general": "Yanlış olsam məni düzəlt."
+    }
+  },
+  {
+    "word": "correctly",
+    "level": "A2",
+    "translation": "düzgün şəkildə",
+    "pronunciation": "[kəˈrektli]",
+    "examples": {
+      "simple": "Answer correctly please.",
+      "complex": "Correctly interpreting complex data requires analytical thinking and systematic approaches to problem-solving.",
+      "general": "She spelled it correctly."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa düzgün cavab verin.",
+      "complex": "Mürəkkəb məlumatları düzgün şəkildə şərh etmək analitik düşüncə və problemlərin həllinə sistematik yanaşma tələb edir.",
+      "general": "O, bunu düzgün yazdı."
+    }
+  },
+  {
+    "word": "cost",
+    "level": "A1",
+    "translation": "qiymət, xərc",
+    "pronunciation": "[kɒst]",
+    "examples": {
+      "simple": "What's the cost?",
+      "complex": "Cost-benefit analysis enables organizations to evaluate investment opportunities and optimize strategic resource allocation.",
+      "general": "The cost is too high."
+    },
+    "examples_az": {
+      "simple": "Qiymət nə qədərdir?",
+      "complex": "Xərc-fayda təhlili təşkilatlara investisiya imkanlarını qiymətləndirməyə və strateji resurs bölgüsünü optimallaşdırmağa imkan verir.",
+      "general": "Qiymət çox yüksəkdir."
+    }
+  },
+  {
+    "word": "costume",
+    "level": "B1",
+    "translation": "kostyum, geyim",
+    "pronunciation": "[ˈkɒstjuːm]",
+    "examples": {
+      "simple": "Wear a costume.",
+      "complex": "Traditional costumes preserve cultural heritage and reflect historical identity through symbolic design elements.",
+      "general": "Her costume was beautiful."
+    },
+    "examples_az": {
+      "simple": "Kostyum gey.",
+      "complex": "Ənənəvi geyimlər simvolik dizayn elementləri vasitəsilə mədəni irsi qoruyur və tarixi kimliyi əks etdirir.",
+      "general": "Onun kostyumu gözəl idi."
+    }
+  },
+  {
+    "word": "cotton",
+    "level": "B1",
+    "translation": "pambıq",
+    "pronunciation": "[ˈkɒtn]",
+    "examples": {
+      "simple": "Cotton shirt is soft.",
+      "complex": "Cotton cultivation significantly impacts global textile markets and agricultural economies across developing nations.",
+      "general": "I prefer cotton clothes."
+    },
+    "examples_az": {
+      "simple": "Pambıq köynək yumşaqdır.",
+      "complex": "Pambıq becərilməsi inkişaf etməkdə olan ölkələrdə qlobal toxuculuq bazarlarına və kənd təsərrüfatı iqtisadiyyatlarına əhəmiyyətli təsir göstərir.",
+      "general": "Mən pambıq geyimləri üstün tuturam."
+    }
+  },
+  {
+    "word": "could",
+    "level": "A1",
+    "translation": "edə bilərdi",
+    "pronunciation": "[kʊd]",
+    "examples": {
+      "simple": "I could help you.",
+      "complex": "Understanding what could have happened differently enables learning from past experiences and mistakes.",
+      "general": "Could you wait please?"
+    },
+    "examples_az": {
+      "simple": "Mən sizə kömək edə bilərdim.",
+      "complex": "Nəyin fərqli baş verə biləcəyini başa düşmək keçmiş təcrübələrdən və səhvlərdən öyrənməyə imkan verir.",
+      "general": "Zəhmət olmasa gözləyə bilərsinizmi?"
+    }
+  },
+  {
+    "word": "council",
+    "level": "B2",
+    "translation": "şura, məclis",
+    "pronunciation": "[ˈkaʊnsl]",
+    "examples": {
+      "simple": "City council meets today.",
+      "complex": "Council decisions shape urban development policies and determine community resource allocation priorities strategically.",
+      "general": "The council voted unanimously."
+    },
+    "examples_az": {
+      "simple": "Şəhər şurası bu gün toplaşır.",
+      "complex": "Şura qərarları şəhər inkişaf siyasətlərini formalaşdırır və icma resurs bölgüsü prioritetlərini strateji olaraq müəyyən edir.",
+      "general": "Şura yekdilliklə səs verdi."
+    }
+  },
+  {
+    "word": "count",
+    "level": "A2",
+    "translation": "saymaq",
+    "pronunciation": "[kaʊnt]",
+    "examples": {
+      "simple": "Count to ten.",
+      "complex": "Accurate counting mechanisms ensure inventory management efficiency and prevent financial discrepancies in business operations.",
+      "general": "Count the money carefully."
+    },
+    "examples_az": {
+      "simple": "Ona qədər say.",
+      "complex": "Dəqiq sayma mexanizmləri inventar idarəetmə səmərəliliyini təmin edir və biznes əməliyyatlarında maliyyə uyğunsuzluqlarının qarşısını alır.",
+      "general": "Pulu diqqətlə say."
+    }
+  },
+  {
+    "word": "country",
+    "level": "A1",
+    "translation": "ölkə",
+    "pronunciation": "[ˈkʌntri]",
+    "examples": {
+      "simple": "Which country are you from?",
+      "complex": "Country-level policies influence economic development trajectories and shape international relations through diplomatic engagement.",
+      "general": "My country is beautiful."
+    },
+    "examples_az": {
+      "simple": "Hansı ölkədənsən?",
+      "complex": "Ölkə səviyyəli siyasətlər iqtisadi inkişaf trayektoriyalarına təsir göstərir və diplomatik əlaqələr vasitəsilə beynəlxalq münasibətləri formalaşdırır.",
+      "general": "Mənim ölkəm gözəldir."
+    }
+  },
+  {
+    "word": "countryside",
+    "level": "B1",
+    "translation": "kənd yerləri",
+    "pronunciation": "[ˈkʌntrisaɪd]",
+    "examples": {
+      "simple": "Live in the countryside.",
+      "complex": "Countryside preservation initiatives protect natural ecosystems and maintain biodiversity for future generations sustainably.",
+      "general": "The countryside is peaceful."
+    },
+    "examples_az": {
+      "simple": "Kənd yerlərində yaşayın.",
+      "complex": "Kənd yerlərinin qorunması təşəbbüsləri təbii ekosisteməri qoruyur və gələcək nəsillər üçün biomüxtəlifliyi davamlı şəkildə saxlayır.",
+      "general": "Kənd yerləri sakitdir."
+    }
+  },
+  {
+    "word": "county",
+    "level": "B2",
+    "translation": "qraflıq, mahal",
+    "pronunciation": "[ˈkaʊnti]",
+    "examples": {
+      "simple": "This county is large.",
+      "complex": "County governments administer local services and implement regional policies affecting community welfare and infrastructure development.",
+      "general": "She moved to another county."
+    },
+    "examples_az": {
+      "simple": "Bu qraflıq böyükdür.",
+      "complex": "Qraflıq hökumətləri yerli xidmətləri idarə edir və icma rifahına və infrastruktur inkişafına təsir edən regional siyasətləri həyata keçirir.",
+      "general": "O, başqa qraflığa köçdü."
+    }
+  },
+  {
+    "word": "couple",
+    "level": "A2",
+    "translation": "cüt, bir neçə",
+    "pronunciation": "[ˈkʌpl]",
+    "examples": {
+      "simple": "A couple of days.",
+      "complex": "Couple therapy addresses relationship dynamics and facilitates communication improvement through structured intervention methods.",
+      "general": "The couple got married."
+    },
+    "examples_az": {
+      "simple": "Bir neçə gün.",
+      "complex": "Cütlük terapiyası münasibət dinamikasını həll edir və strukturlaşdırılmış müdaxilə üsulları vasitəsilə ünsiyyətin təkmilləşdirilməsini asanlaşdırır.",
+      "general": "Cütlük evləndi."
+    }
+  },
+  {
+    "word": "courage",
+    "level": "B2",
+    "translation": "cəsarət",
+    "pronunciation": "[ˈkʌrɪdʒ]",
+    "examples": {
+      "simple": "She has courage.",
+      "complex": "Courage empowers individuals to confront adversity and pursue transformative changes despite uncertainty and fear.",
+      "general": "It takes courage to speak."
+    },
+    "examples_az": {
+      "simple": "Onun cəsarəti var.",
+      "complex": "Cəsarət insanlara qeyri-müəyyənliyə və qorxuya baxmayaraq çətinliklə üzləşməyə və transformativ dəyişikliklər ardınca getməyə güc verir.",
+      "general": "Danışmaq cəsarət tələb edir."
+    }
+  },
+  {
+    "word": "course",
+    "level": "A1",
+    "translation": "kurs, məsir",
+    "pronunciation": "[kɔːs]",
+    "examples": {
+      "simple": "Take this course.",
+      "complex": "Course curriculum development requires alignment with learning objectives and integration of pedagogical best practices.",
+      "general": "Of course I will."
+    },
+    "examples_az": {
+      "simple": "Bu kursu götür.",
+      "complex": "Kurs kurikulumunun inkişafı öyrənmə məqsədləri ilə uyğunlaşdırılma və pedaqoji ən yaxşı təcrübələrin inteqrasiyasını tələb edir.",
+      "general": "Əlbəttə edəcəyəm."
+    }
+  },
+  {
+    "word": "court",
+    "level": "B1",
+    "translation": "məhkəmə, kort",
+    "pronunciation": "[kɔːt]",
+    "examples": {
+      "simple": "Go to court today.",
+      "complex": "Court proceedings ensure legal accountability and protect individual rights through impartial judicial review processes.",
+      "general": "The court decided fairly."
+    },
+    "examples_az": {
+      "simple": "Bu gün məhkəməyə get.",
+      "complex": "Məhkəmə prosesləri qərəzsiz məhkəmə baxış prosesləri vasitəsilə hüquqi məsuliyyəti təmin edir və fərdi hüquqları qoruyur.",
+      "general": "Məhkəmə ədalətlə qərar verdi."
+    }
+  },
+  {
+    "word": "cousin",
+    "level": "A1",
+    "translation": "əmioğlu, bibioğlu",
+    "pronunciation": "[ˈkʌzn]",
+    "examples": {
+      "simple": "My cousin is here.",
+      "complex": "Cousin relationships contribute to extended family networks and provide social support throughout different life stages.",
+      "general": "I visited my cousin."
+    },
+    "examples_az": {
+      "simple": "Mənim əmioğlum buradadır.",
+      "complex": "Əmioğlu münasibətləri genişləndirilmiş ailə şəbəkələrinə töhfə verir və müxtəlif həyat mərhələlərində sosial dəstək təmin edir.",
+      "general": "Mən əmioğlumu ziyarət etdim."
+    }
+  },
+  {
+    "word": "cover",
+    "level": "A2",
+    "translation": "örtmək, əhatə etmək",
+    "pronunciation": "[ˈkʌvə]",
+    "examples": {
+      "simple": "Cover your mouth.",
+      "complex": "Comprehensive coverage ensures thorough examination of topics and facilitates deeper understanding through detailed analysis.",
+      "general": "The book cover is nice."
+    },
+    "examples_az": {
+      "simple": "Ağzını ört.",
+      "complex": "Hərtərəfli əhatə mövzuların ətraflı araşdırılmasını təmin edir və ətraflı təhlil vasitəsilə daha dərin başa düşməni asanlaşdırır.",
+      "general": "Kitab üzü gözəldir."
+    }
+  },
+  {
+    "word": "covered",
+    "level": "B1",
+    "translation": "örtülmüş",
+    "pronunciation": "[ˈkʌvəd]",
+    "examples": {
+      "simple": "The table is covered.",
+      "complex": "Covered areas provide protection from environmental elements and enhance comfort in outdoor settings effectively.",
+      "general": "Everything is covered now."
+    },
+    "examples_az": {
+      "simple": "Masa örtülüdür.",
+      "complex": "Örtülmüş ərazilər ətraf mühit elementlərindən qorunma təmin edir və açıq havada rahatlığı effektiv şəkildə artırır.",
+      "general": "İndi hər şey örtülüdür."
+    }
+  },
+  {
+    "word": "cow",
+    "level": "A1",
+    "translation": "inək",
+    "pronunciation": "[kaʊ]",
+    "examples": {
+      "simple": "The cow gives milk.",
+      "complex": "Cow farming practices significantly influence agricultural productivity and dairy industry sustainability across rural economies.",
+      "general": "I saw a cow."
+    },
+    "examples_az": {
+      "simple": "İnək süd verir.",
+      "complex": "İnək yetişdirmə təcrübələri kənd təsərrüfatı məhsuldarlığına və kənd iqtisadiyyatlarında süd sənayesinin davamlılığına əhəmiyyətli təsir göstərir.",
+      "general": "Mən inək gördüm."
+    }
+  },
+  {
+    "word": "crash",
+    "level": "B2",
+    "translation": "qəza, çırpılma",
+    "pronunciation": "[kræʃ]",
+    "examples": {
+      "simple": "Car crash happened yesterday.",
+      "complex": "Crash analysis investigations determine causative factors and inform safety improvement measures in transportation systems.",
+      "general": "The system may crash."
+    },
+    "examples_az": {
+      "simple": "Dünən avtomobil qəzası baş verdi.",
+      "complex": "Qəza təhlili araşdırmaları səbəb olan amilləri müəyyən edir və nəqliyyat sistemlərində təhlükəsizlik təkmilləşdirmə tədbirlərini məlumatlandırır.",
+      "general": "Sistem çökə bilər."
+    }
+  },
+  {
+    "word": "crazy",
+    "level": "A2",
+    "translation": "dəli, çılğın",
+    "pronunciation": "[ˈkreɪzi]",
+    "examples": {
+      "simple": "That's crazy idea.",
+      "complex": "Crazy innovative approaches challenge conventional thinking and drive breakthrough discoveries in scientific research fields.",
+      "general": "He's crazy about music."
+    },
+    "examples_az": {
+      "simple": "Bu dəli fikirdir.",
+      "complex": "Çılğın innovativ yanaşmalar ənənəvi düşüncəyə meydan oxuyur və elmi tədqiqat sahələrində sıçrayışlı kəşflərə səbəb olur.",
+      "general": "O, musiqiyə dəlidir."
+    }
+  },
+  {
+    "word": "cream",
+    "level": "A1",
+    "translation": "qaymaq, krem",
+    "pronunciation": "[kriːm]",
+    "examples": {
+      "simple": "Add some cream.",
+      "complex": "Cream-based products demonstrate versatility in culinary applications and cosmetic formulations through emulsification processes.",
+      "general": "I like ice cream."
+    },
+    "examples_az": {
+      "simple": "Bir az qaymaq əlavə et.",
+      "complex": "Qaymaq əsaslı məhsullar emulsifikasiya prosesləri vasitəsilə kulinariya tətbiqlərində və kosmetik formulyasiyalarda çox yönlülük nümayiş etdirir.",
+      "general": "Mən dondurma xoşlayıram."
+    }
+  },
+  {
+    "word": "create",
+    "level": "A1",
+    "translation": "yaratmaq",
+    "pronunciation": "[kriˈeɪt]",
+    "examples": {
+      "simple": "Create new file.",
+      "complex": "Creating innovative solutions requires synthesizing diverse knowledge domains and applying creative problem-solving methodologies.",
+      "general": "We must create change."
+    },
+    "examples_az": {
+      "simple": "Yeni fayl yarat.",
+      "complex": "İnnovativ həllər yaratmaq müxtəlif bilik sahələrini sintez etməyi və yaradıcı problem həlli metodologiyalarını tətbiq etməyi tələb edir.",
+      "general": "Dəyişiklik yaratmalıyıq."
+    }
+  },
+  {
+    "word": "creation",
+    "level": "B2",
+    "translation": "yaradılış, yaradıcılıq",
+    "pronunciation": "[kriˈeɪʃn]",
+    "examples": {
+      "simple": "Art is creation.",
+      "complex": "Creation processes involve transforming abstract concepts into tangible outcomes through systematic development and refinement.",
+      "general": "This is my creation."
+    },
+    "examples_az": {
+      "simple": "İncəsənət yaradıcılıqdır.",
+      "complex": "Yaradılış prosesləri sistematik inkişaf və təkmilləşdirmə vasitəsilə mücərrəd konsepsiyaları maddi nəticələrə çevirməyi əhatə edir.",
+      "general": "Bu mənim yaradıcılığımdır."
+    }
+  },
+  {
+    "word": "creative",
+    "level": "A2",
+    "translation": "yaradıcı",
+    "pronunciation": "[kriˈeɪtɪv]",
+    "examples": {
+      "simple": "Be more creative.",
+      "complex": "Creative thinking fosters innovation by encouraging unconventional approaches and challenging established paradigms systematically.",
+      "general": "She's very creative."
+    },
+    "examples_az": {
+      "simple": "Daha yaradıcı ol.",
+      "complex": "Yaradıcı düşüncə qeyri-ənənəvi yanaşmaları təşviq edərək və sistemli şəkildə müəyyən edilmiş paradiqmalara meydan oxuyaraq innovasiyanı inkişaf etdirir.",
+      "general": "O, çox yaradıcıdır."
+    }
+  },
+  {
+    "word": "creature",
+    "level": "B2",
+    "translation": "məxluq, canlı",
+    "pronunciation": "[ˈkriːtʃə]",
+    "examples": {
+      "simple": "Strange creature appeared.",
+      "complex": "Creature adaptations demonstrate evolutionary processes and ecological interactions within complex biological systems.",
+      "general": "Every creature deserves respect."
+    },
+    "examples_az": {
+      "simple": "Qəribə məxluq göründü.",
+      "complex": "Məxluq uyğunlaşmaları təkamül proseslərini və mürəkkəb bioloji sistemlər daxilində ekoloji qarşılıqlı əlaqələri nümayiş etdirir.",
+      "general": "Hər məxluq hörmətə layiqdir."
+    }
+  },
+  {
+    "word": "credit",
+    "level": "A2",
+    "translation": "kredit, hesab",
+    "pronunciation": "[ˈkredɪt]",
+    "examples": {
+      "simple": "Pay by credit card.",
+      "complex": "Credit systems facilitate economic transactions and enable investment opportunities through structured financial mechanisms.",
+      "general": "Give credit where due."
+    },
+    "examples_az": {
+      "simple": "Kredit kartı ilə ödə.",
+      "complex": "Kredit sistemləri strukturlaşdırılmış maliyyə mexanizmləri vasitəsilə iqtisadi əməliyyatları asanlaşdırır və investisiya imkanlarını təmin edir.",
+      "general": "Layiq olana hörmət göstər."
+    }
+  },
+  {
+    "word": "crew",
+    "level": "B2",
+    "translation": "ekipaj, heyət",
+    "pronunciation": "[kruː]",
+    "examples": {
+      "simple": "The crew is ready.",
+      "complex": "Crew coordination ensures operational efficiency and maintains safety standards in complex collaborative environments.",
+      "general": "Our crew works together."
+    },
+    "examples_az": {
+      "simple": "Ekipaj hazırdır.",
+      "complex": "Ekipaj koordinasiyası əməliyyat səmərəliliyini təmin edir və mürəkkəb birgə iş mühitlərində təhlükəsizlik standartlarını saxlayır.",
+      "general": "Bizim heyət birlikdə işləyir."
+    }
+  },
+  {
+    "word": "crime",
+    "level": "A2",
+    "translation": "cinayət",
+    "pronunciation": "[kraɪm]",
+    "examples": {
+      "simple": "Report the crime.",
+      "complex": "Crime prevention strategies integrate community engagement and evidence-based interventions to reduce criminal activity effectively.",
+      "general": "Crime rates are falling."
+    },
+    "examples_az": {
+      "simple": "Cinayət haqqında məlumat verin.",
+      "complex": "Cinayətin qarşısının alınması strategiyaları cinayət fəaliyyətini effektiv şəkildə azaltmaq üçün icma iştirakını və sübut əsaslı müdaxilələri birləşdirir.",
+      "general": "Cinayət nisbətləri düşür."
+    }
+  },
+  {
+    "word": "criminal",
+    "level": "A2",
+    "translation": "cinayətkar",
+    "pronunciation": "[ˈkrɪmɪnl]",
+    "examples": {
+      "simple": "Catch the criminal.",
+      "complex": "Criminal justice systems balance rehabilitation objectives with public safety concerns through comprehensive legal frameworks.",
+      "general": "Criminal activity is monitored."
+    },
+    "examples_az": {
+      "simple": "Cinayətkarı tutun.",
+      "complex": "Cinayət ədalət sistemləri hərtərəfli hüquqi çərçivələr vasitəsilə reabilitasiya məqsədlərini ictimai təhlükəsizlik narahatlıqları ilə balanslaşdırır.",
+      "general": "Cinayət fəaliyyəti nəzarət olunur."
+    }
+  },
+  {
+    "word": "crisis",
+    "level": "B2",
+    "translation": "böhran",
+    "pronunciation": "[ˈkraɪsɪs]",
+    "examples": {
+      "simple": "Economic crisis occurred.",
+      "complex": "Crisis management requires decisive leadership and coordinated response strategies to mitigate adverse impacts effectively.",
+      "general": "We face a crisis."
+    },
+    "examples_az": {
+      "simple": "İqtisadi böhran baş verdi.",
+      "complex": "Böhran idarəetməsi mənfi təsirləri effektiv şəkildə azaltmaq üçün qətiyyətli liderlik və koordinasiyalı cavab strategiyaları tələb edir.",
+      "general": "Biz böhranla üzləşirik."
+    }
+  },
+  {
+    "word": "criterion",
+    "level": "B2",
+    "translation": "meyar, kriteriya",
+    "pronunciation": "[kraɪˈtɪəriən]",
+    "examples": {
+      "simple": "Main criterion is quality.",
+      "complex": "Criterion-based evaluation frameworks ensure objective assessment and maintain consistent standards across diverse contexts.",
+      "general": "What's the selection criterion?"
+    },
+    "examples_az": {
+      "simple": "Əsas meyar keyfiyyətdir.",
+      "complex": "Meyar əsaslı qiymətləndirmə çərçivələri obyektiv qiymətləndirməni təmin edir və müxtəlif kontekstlərdə ardıcıl standartları saxlayır.",
+      "general": "Seçim meyarı nədir?"
+    }
+  },
+  {
+    "word": "critic",
+    "level": "B2",
+    "translation": "tənqidçi",
+    "pronunciation": "[ˈkrɪtɪk]",
+    "examples": {
+      "simple": "He's a film critic.",
+      "complex": "Critics provide analytical perspectives that enhance public discourse and inform cultural understanding through evaluative commentary.",
+      "general": "Critics praised the performance."
+    },
+    "examples_az": {
+      "simple": "O, film tənqidçisidir.",
+      "complex": "Tənqidçilər qiymətləndirici şərhlər vasitəsilə ictimai diskursu təkmilləşdirən və mədəni başa düşməni məlumatlandıran analitik perspektivlər təqdim edirlər.",
+      "general": "Tənqidçilər çıxışı təriflədi."
+    }
+  },
+  {
+    "word": "critical",
+    "level": "B2",
+    "translation": "tənqidi, kritik",
+    "pronunciation": "[ˈkrɪtɪkl]",
+    "examples": {
+      "simple": "This is critical moment.",
+      "complex": "Critical thinking skills enable individuals to analyze information systematically and make reasoned judgments independently.",
+      "general": "The situation is critical."
+    },
+    "examples_az": {
+      "simple": "Bu kritik andır.",
+      "complex": "Tənqidi düşüncə bacarıqları insanlara məlumatı sistemli şəkildə təhlil etməyə və müstəqil şəkildə əsaslandırılmış mühakimələr verməyə imkan verir.",
+      "general": "Vəziyyət kritikdir."
+    }
+  },
+  {
+    "word": "criticism",
+    "level": "B2",
+    "translation": "tənqid",
+    "pronunciation": "[ˈkrɪtɪsɪzəm]",
+    "examples": {
+      "simple": "Accept constructive criticism.",
+      "complex": "Criticism facilitates improvement by identifying weaknesses and providing feedback that guides developmental progress.",
+      "general": "She received harsh criticism."
+    },
+    "examples_az": {
+      "simple": "Konstruktiv tənqidi qəbul edin.",
+      "complex": "Tənqid zəiflikləri müəyyən edərək və inkişaf tərəqqisini istiqamətləndirən rəy təqdim edərək təkmilləşdirməni asanlaşdırır.",
+      "general": "O, sərt tənqid aldı."
+    }
+  },
+  {
+    "word": "criticize",
+    "level": "B2",
+    "translation": "tənqid etmək",
+    "pronunciation": "[ˈkrɪtɪsaɪz]",
+    "examples": {
+      "simple": "Don't criticize others harshly.",
+      "complex": "Criticizing constructively requires balancing honest evaluation with supportive guidance to promote positive change.",
+      "general": "People criticized the decision."
+    },
+    "examples_az": {
+      "simple": "Başqalarını sərt tənqid etməyin.",
+      "complex": "Konstruktiv tənqid etmək müsbət dəyişikliyi təşviq etmək üçün dürüst qiymətləndirməni dəstəkləyici rəhbərlik ilə balanslaşdırmağı tələb edir.",
+      "general": "İnsanlar qərarı tənqid etdilər."
+    }
+  },
+  {
+    "word": "crop",
+    "level": "B2",
+    "translation": "məhsul, bitki",
+    "pronunciation": "[krɒp]",
+    "examples": {
+      "simple": "Good crop this year.",
+      "complex": "Crop rotation practices enhance soil fertility and promote sustainable agricultural production through systematic planning.",
+      "general": "The crop failed badly."
+    },
+    "examples_az": {
+      "simple": "Bu il yaxşı məhsul.",
+      "complex": "Bitki rotasiyası təcrübələri sistematik planlaşdırma vasitəsilə torpağın məhsuldarlığını artırır və davamlı kənd təsərrüfatı istehsalını təşviq edir.",
+      "general": "Məhsul çox pis oldu."
+    }
+  },
+  {
+    "word": "cross",
+    "level": "A2",
+    "translation": "keçmək, xaç",
+    "pronunciation": "[krɒs]",
+    "examples": {
+      "simple": "Cross the street carefully.",
+      "complex": "Cross-cultural understanding promotes global cooperation and facilitates effective communication across diverse societies.",
+      "general": "Don't cross that line."
+    },
+    "examples_az": {
+      "simple": "Küçəni diqqətlə keçin.",
+      "complex": "Mədəniyyətlərarası anlayış qlobal əməkdaşlığı təşviq edir və müxtəlif cəmiyyətlərdə effektiv ünsiyyəti asanlaşdırır.",
+      "general": "O xətti keçməyin."
+    }
+  },
+  {
+    "word": "crowd",
+    "level": "A2",
+    "translation": "izdiham, kütlə",
+    "pronunciation": "[kraʊd]",
+    "examples": {
+      "simple": "Large crowd gathered there.",
+      "complex": "Crowd dynamics influence collective behavior patterns and demonstrate social psychology principles in public gatherings.",
+      "general": "The crowd cheered loudly."
+    },
+    "examples_az": {
+      "simple": "Orada böyük izdiham toplaşdı.",
+      "complex": "İzdiham dinamikası kollektiv davranış nümunələrinə təsir göstərir və ictimai yığıncaqlarda sosial psixologiya prinsiplərini nümayiş etdirir.",
+      "general": "İzdiham ucadan alqışladı."
+    }
+  },
+  {
+    "word": "crowded",
+    "level": "A2",
+    "translation": "izdihamlı, sıx",
+    "pronunciation": "[ˈkraʊdɪd]",
+    "examples": {
+      "simple": "The bus is crowded.",
+      "complex": "Crowded urban environments present challenges for infrastructure planning and require innovative space management solutions.",
+      "general": "Streets were very crowded."
+    },
+    "examples_az": {
+      "simple": "Avtobus izdihamlıdır.",
+      "complex": "İzdihamlı şəhər mühitləri infrastruktur planlaşdırması üçün çətinliklər yaradır və innovativ məkan idarəetməsi həlləri tələb edir.",
+      "general": "Küçələr çox izdihamlı idi."
+    }
+  },
+  {
+    "word": "crucial",
+    "level": "B2",
+    "translation": "həlledici, mühüm",
+    "pronunciation": "[ˈkruːʃl]",
+    "examples": {
+      "simple": "This is crucial information.",
+      "complex": "Crucial decisions require careful deliberation and comprehensive analysis to ensure optimal outcomes for stakeholders.",
+      "general": "Timing is crucial here."
+    },
+    "examples_az": {
+      "simple": "Bu həlledici məlumatdır.",
+      "complex": "Həlledici qərarlar maraqlı tərəflər üçün optimal nəticələri təmin etmək üçün diqqətli müzakirə və hərtərəfli təhlil tələb edir.",
+      "general": "Vaxt burada mühümdür."
+    }
+  },
+  {
+    "word": "cruel",
+    "level": "B1",
+    "translation": "qəddar, amansız",
+    "pronunciation": "[kruːəl]",
+    "examples": {
+      "simple": "Don't be cruel.",
+      "complex": "Cruel treatment violates human dignity and undermines ethical standards that protect vulnerable individuals from harm.",
+      "general": "That was cruel behavior."
+    },
+    "examples_az": {
+      "simple": "Qəddar olma.",
+      "complex": "Qəddar rəftar insan ləyaqətini pozur və həssas insanları zərərdən qoruyan etik standartları sarsıdır.",
+      "general": "Bu qəddar davranış idi."
+    }
+  },
+  {
+    "word": "cry",
+    "level": "A2",
+    "translation": "ağlamaq",
+    "pronunciation": "[kraɪ]",
+    "examples": {
+      "simple": "Baby started to cry.",
+      "complex": "Crying serves emotional release functions and communicates distress signals that prompt supportive responses from others.",
+      "general": "Don't cry over it."
+    },
+    "examples_az": {
+      "simple": "Körpə ağlamağa başladı.",
+      "complex": "Ağlamaq emosional boşalma funksiyalarına xidmət edir və başqalarından dəstəkləyici cavablar çağıran sıxıntı siqnallarını bildirir.",
+      "general": "Bunun üçün ağlama."
+    }
+  },
+  {
+    "word": "cultural",
+    "level": "B1",
+    "translation": "mədəni",
+    "pronunciation": "[ˈkʌltʃərəl]",
+    "examples": {
+      "simple": "Cultural differences exist everywhere.",
+      "complex": "Cultural heritage preservation maintains historical identity and transmits traditional knowledge across successive generations.",
+      "general": "Respect cultural diversity always."
+    },
+    "examples_az": {
+      "simple": "Mədəni fərqlər hər yerdə mövcuddur.",
+      "complex": "Mədəni irs qorunması tarixi kimliyi saxlayır və ardıcıl nəsillərə ənənəvi bilik ötürür.",
+      "general": "Həmişə mədəni müxtəlifliyə hörmət edin."
+    }
+  },
+  {
+    "word": "culture",
+    "level": "A1",
+    "translation": "mədəniyyət",
+    "pronunciation": "[ˈkʌltʃə]",
+    "examples": {
+      "simple": "Learn about different cultures.",
+      "complex": "Culture shapes societal values and influences behavioral norms through shared beliefs and collective practices.",
+      "general": "Their culture is rich."
+    },
+    "examples_az": {
+      "simple": "Müxtəlif mədəniyyətlər haqqında öyrənin.",
+      "complex": "Mədəniyyət paylaşılan inanclar və kollektiv təcrübələr vasitəsilə cəmiyyət dəyərlərini formalaşdırır və davranış normalarına təsir göstərir.",
+      "general": "Onların mədəniyyəti zəngindir."
+    }
+  },
+  {
+    "word": "cup",
+    "level": "A1",
+    "translation": "fincan, kubok",
+    "pronunciation": "[kʌp]",
+    "examples": {
+      "simple": "Give me a cup.",
+      "complex": "Cup designs reflect cultural aesthetics and serve functional purposes in beverage consumption practices worldwide.",
+      "general": "She won the cup."
+    },
+    "examples_az": {
+      "simple": "Mənə bir fincan verin.",
+      "complex": "Fincan dizaynları mədəni estetikanı əks etdirir və bütün dünyada içki istehlakı təcrübələrində funksional məqsədlərə xidmət edir.",
+      "general": "O, kuboku qazandı."
+    }
+  },
+  {
+    "word": "cupboard",
+    "level": "B1",
+    "translation": "şkaf, bufet",
+    "pronunciation": "[ˈkʌbəd]",
+    "examples": {
+      "simple": "Open the cupboard please.",
+      "complex": "Cupboard organization systems optimize storage efficiency and facilitate convenient access to household items.",
+      "general": "The cupboard is full."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa şkafı açın.",
+      "complex": "Şkaf təşkilatı sistemləri saxlama səmərəliliyini optimallaşdırır və ev əşyalarına rahat çıxışı asanlaşdırır.",
+      "general": "Şkaf doludur."
+    }
+  },
+  {
+    "word": "cure",
+    "level": "B2",
+    "translation": "müalicə etmək, şəfa",
+    "pronunciation": "[kjʊə]",
+    "examples": {
+      "simple": "Find a cure soon.",
+      "complex": "Cure development requires extensive research and rigorous testing to ensure treatment efficacy and patient safety.",
+      "general": "There's no cure yet."
+    },
+    "examples_az": {
+      "simple": "Tezliklə müalicə tapın.",
+      "complex": "Müalicə inkişafı müalicə effektivliyini və xəstə təhlükəsizliyini təmin etmək üçün geniş tədqiqat və ciddi sınaq tələb edir.",
+      "general": "Hələ müalicə yoxdur."
+    }
+  },
+  {
+    "word": "curly",
+    "level": "A2",
+    "translation": "qıvrım, buruq",
+    "pronunciation": "[ˈkɜːli]",
+    "examples": {
+      "simple": "She has curly hair.",
+      "complex": "Curly hair structures result from genetic factors that determine protein bonding patterns in hair follicles.",
+      "general": "His hair is naturally curly."
+    },
+    "examples_az": {
+      "simple": "Onun saçları qıvrımdır.",
+      "complex": "Qıvrım saç strukturları saç follikullarında protein bağlanma nümunələrini müəyyən edən genetik amillərdən qaynaqlanır.",
+      "general": "Onun saçı təbii olaraq qıvrımdır."
+    }
+  },
+  {
+    "word": "currency",
+    "level": "B1",
+    "translation": "valyuta",
+    "pronunciation": "[ˈkʌrənsi]",
+    "examples": {
+      "simple": "Exchange foreign currency here.",
+      "complex": "Currency fluctuations impact international trade dynamics and influence economic stability through exchange rate mechanisms.",
+      "general": "What currency do you accept?"
+    },
+    "examples_az": {
+      "simple": "Burada xarici valyuta dəyişdirin.",
+      "complex": "Valyuta tərəddüdləri beynəlxalq ticarət dinamikasına təsir göstərir və məzənnə mexanizmləri vasitəsilə iqtisadi sabitliyə təsir edir.",
+      "general": "Hansı valyutanı qəbul edirsiniz?"
+    }
+  },
+  {
+    "word": "current",
+    "level": "B1",
+    "translation": "cari, hazırkı",
+    "pronunciation": "[ˈkʌrənt]",
+    "examples": {
+      "simple": "Current situation is difficult.",
+      "complex": "Current trends indicate shifting paradigms that require adaptive strategies and forward-thinking approaches.",
+      "general": "What's the current status?"
+    },
+    "examples_az": {
+      "simple": "Hazırkı vəziyyət çətindir.",
+      "complex": "Cari tendensiyalar uyğunlaşma strategiyaları və irəliyə baxan yanaşmalar tələb edən dəyişən paradiqmaları göstərir.",
+      "general": "Cari status nədir?"
+    }
+  },
+  {
+    "word": "currently",
+    "level": "B1",
+    "translation": "hazırda, indi",
+    "pronunciation": "[ˈkʌrəntli]",
+    "examples": {
+      "simple": "Currently working from home.",
+      "complex": "Currently implemented policies reflect evolving priorities and address contemporary challenges facing modern societies.",
+      "general": "She's currently unavailable now."
+    },
+    "examples_az": {
+      "simple": "Hazırda evdən işləyirəm.",
+      "complex": "Hazırda həyata keçirilən siyasətlər inkişaf edən prioritetləri əks etdirir və müasir cəmiyyətlərin qarşılaşdığı müasir çətinlikləri həll edir.",
+      "general": "O, hazırda əlçatan deyil."
+    }
+  },
+  {
+    "word": "curtain",
+    "level": "B1",
+    "translation": "pərdə",
+    "pronunciation": "[ˈkɜːtn]",
+    "examples": {
+      "simple": "Close the curtains please.",
+      "complex": "Curtain designs combine aesthetic appeal with functional purposes like privacy protection and light control.",
+      "general": "The curtain is beautiful."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa pərdələri bağlayın.",
+      "complex": "Pərdə dizaynları estetik cazibəni məxfilik qorunması və işıq nəzarəti kimi funksional məqsədlərlə birləşdirir.",
+      "general": "Pərdə gözəldir."
+    }
+  },
+  {
+    "word": "curve",
+    "level": "B2",
+    "translation": "əyri, döngə",
+    "pronunciation": "[kɜːv]",
+    "examples": {
+      "simple": "Drive around the curve.",
+      "complex": "Curve analysis in mathematics enables modeling of complex phenomena and predicting behavioral patterns accurately.",
+      "general": "Follow the curve carefully."
+    },
+    "examples_az": {
+      "simple": "Döngə ətrafında sürün.",
+      "complex": "Riyaziyyatda əyri təhlili mürəkkəb hadisələrin modelləşdirilməsinə və davranış nümunələrinin dəqiq proqnozlaşdırılmasına imkan verir.",
+      "general": "Əyrini diqqətlə izləyin."
+    }
+  },
+  {
+    "word": "curved",
+    "level": "B2",
+    "translation": "əyri, əyilmiş",
+    "pronunciation": "[kɜːvd]",
+    "examples": {
+      "simple": "The road is curved.",
+      "complex": "Curved architectural elements enhance structural integrity and create visually appealing designs in construction projects.",
+      "general": "His back became curved."
+    },
+    "examples_az": {
+      "simple": "Yol əyridir.",
+      "complex": "Əyri memarlıq elementləri tikinti layihələrində struktur bütövlüyünü artırır və vizual cəlbedici dizaynlar yaradır.",
+      "general": "Onun kürəyi əyildi."
+    }
+  },
+  {
+    "word": "custom",
+    "level": "B1",
+    "translation": "adət, ənənə",
+    "pronunciation": "[ˈkʌstəm]",
+    "examples": {
+      "simple": "Follow local customs always.",
+      "complex": "Customs reflect cultural values and maintain social cohesion through shared practices passed across generations.",
+      "general": "It's our family custom."
+    },
+    "examples_az": {
+      "simple": "Həmişə yerli adətlərə riayət edin.",
+      "complex": "Adətlər mədəni dəyərləri əks etdirir və nəsillər boyunca ötürülən paylaşılan təcrübələr vasitəsilə sosial birliyi saxlayır.",
+      "general": "Bu bizim ailə adətimizidir."
+    }
+  },
+  {
+    "word": "customer",
+    "level": "A1",
+    "translation": "müştəri",
+    "pronunciation": "[ˈkʌstəmə]",
+    "examples": {
+      "simple": "Customer is waiting outside.",
+      "complex": "Customer satisfaction drives business success and influences brand loyalty through quality service delivery.",
+      "general": "The customer is always right."
+    },
+    "examples_az": {
+      "simple": "Müştəri çöldə gözləyir.",
+      "complex": "Müştəri məmnuniyyəti biznesin uğurunu təmin edir və keyfiyyətli xidmət göstərməsi vasitəsilə brend loyallığına təsir göstərir.",
+      "general": "Müştəri həmişə haqlıdır."
+    }
+  },
+  {
+    "word": "cut",
+    "level": "A1",
+    "translation": "kəsmək",
+    "pronunciation": "[kʌt]",
+    "examples": {
+      "simple": "Cut the paper carefully.",
+      "complex": "Cutting-edge technologies revolutionize industries by introducing innovative solutions that transform operational processes.",
+      "general": "He cut his finger."
+    },
+    "examples_az": {
+      "simple": "Kağızı diqqətlə kəsin.",
+      "complex": "Kəskin texnologiyalar əməliyyat proseslərini dəyişdirən innovativ həllər təqdim edərək sənayeləri inqilab edir.",
+      "general": "O, barmağını kəsdi."
+    }
+  },
+  {
+    "word": "cycle",
+    "level": "A2",
+    "translation": "tsikl, velosiped",
+    "pronunciation": "[ˈsaɪkl]",
+    "examples": {
+      "simple": "Ride your cycle daily.",
+      "complex": "Cycle patterns in nature demonstrate recurring processes that maintain ecological balance and environmental sustainability.",
+      "general": "Complete the full cycle."
+    },
+    "examples_az": {
+      "simple": "Hər gün velosipedə minin.",
+      "complex": "Təbiətdəki tsikl nümunələri ekoloji tarazlığı və ətraf mühitin davamlılığını saxlayan təkrarlanan prosesləri nümayiş etdirir.",
+      "general": "Tam tsikli tamamlayın."
+    }
+  },
+  {
+    "word": "dad",
+    "level": "A1",
+    "translation": "ata, dada",
+    "pronunciation": "[dæd]",
+    "examples": {
+      "simple": "My dad works hard.",
+      "complex": "Dad's role encompasses providing guidance and emotional support that shapes children's development throughout life.",
+      "general": "Ask your dad first."
+    },
+    "examples_az": {
+      "simple": "Mənim atam çox işləyir.",
+      "complex": "Atanın rolu uşaqların həyat boyu inkişafını formalaşdıran rəhbərlik və emosional dəstək təmin etməyi əhatə edir.",
+      "general": "Əvvəlcə atandan soruş."
+    }
+  },
+  {
+    "word": "daily",
+    "level": "A2",
+    "translation": "gündəlik",
+    "pronunciation": "[ˈdeɪli]",
+    "examples": {
+      "simple": "Read daily news regularly.",
+      "complex": "Daily routines establish structure and promote productivity through consistent behavioral patterns and time management.",
+      "general": "Exercise daily for health."
+    },
+    "examples_az": {
+      "simple": "Gündəlik xəbərləri müntəzəm oxuyun.",
+      "complex": "Gündəlik rutinlər struktur yaradır və ardıcıl davranış nümunələri və vaxt idarəetməsi vasitəsilə məhsuldarlığı təşviq edir.",
+      "general": "Sağlamlıq üçün gündəlik məşq edin."
+    }
+  },
+  {
+    "word": "damage",
+    "level": "B1",
+    "translation": "zərər, ziyan",
+    "pronunciation": "[ˈdæmɪdʒ]",
+    "examples": {
+      "simple": "Assess the damage first.",
+      "complex": "Damage assessment procedures determine restoration priorities and estimate financial implications for recovery efforts.",
+      "general": "The storm caused damage."
+    },
+    "examples_az": {
+      "simple": "Əvvəlcə zərəri qiymətləndirin.",
+      "complex": "Zərər qiymətləndirmə prosedurları bərpa prioritetlərini müəyyən edir və bərpa səyləri üçün maliyyə təsirlərini təxmin edir.",
+      "general": "Fırtına zərər vurdu."
+    }
+  },
+  {
+    "word": "dance",
+    "level": "A1",
+    "translation": "rəqs",
+    "pronunciation": "[dɑːns]",
+    "examples": {
+      "simple": "Let's dance together now.",
+      "complex": "Dance traditions express cultural narratives and preserve artistic heritage through rhythmic movement and symbolic gestures.",
+      "general": "She loves to dance."
+    },
+    "examples_az": {
+      "simple": "Gəlin indi birlikdə rəqs edək.",
+      "complex": "Rəqs ənənələri ritmik hərəkətlər və simvolik jestlər vasitəsilə mədəni hekayələri ifadə edir və bədii irsi qoruyur.",
+      "general": "O, rəqs etməyi sevir."
+    }
+  },
+  {
+    "word": "dancer",
+    "level": "A1",
+    "translation": "rəqqas",
+    "pronunciation": "[ˈdɑːnsə]",
+    "examples": {
+      "simple": "She's a professional dancer.",
+      "complex": "Dancers develop physical discipline and artistic expression through rigorous training and performance experience.",
+      "general": "The dancer performed beautifully."
+    },
+    "examples_az": {
+      "simple": "O, peşəkar rəqqasdır.",
+      "complex": "Rəqqaslar ciddi məşq və ifaçılıq təcrübəsi vasitəsilə fiziki intizam və bədii ifadə inkişaf etdirirlər.",
+      "general": "Rəqqas gözəl çıxış etdi."
+    }
+  },
+  {
+    "word": "dancing",
+    "level": "A1",
+    "translation": "rəqs etmə",
+    "pronunciation": "[ˈdɑːnsɪŋ]",
+    "examples": {
+      "simple": "Dancing is fun always.",
+      "complex": "Dancing promotes physical fitness and emotional well-being through expressive movement and social interaction.",
+      "general": "They enjoy dancing together."
+    },
+    "examples_az": {
+      "simple": "Rəqs etmək həmişə əyləncəlidir.",
+      "complex": "Rəqs etmə ifadəli hərəkət və sosial qarşılıqlı əlaqə vasitəsilə fiziki formada olmağı və emosional rifahı təşviq edir.",
+      "general": "Onlar birlikdə rəqs etməkdən həzz alırlar."
+    }
+  },
+  {
+    "word": "danger",
+    "level": "A2",
+    "translation": "təhlükə",
+    "pronunciation": "[ˈdeɪndʒə]",
+    "examples": {
+      "simple": "Stay away from danger.",
+      "complex": "Danger recognition skills enable individuals to assess risks and implement protective measures effectively.",
+      "general": "There's danger ahead now."
+    },
+    "examples_az": {
+      "simple": "Təhlükədən uzaq durun.",
+      "complex": "Təhlükə tanıma bacarıqları insanlara riskləri qiymətləndirməyə və qoruyucu tədbirləri effektiv şəkildə həyata keçirməyə imkan verir.",
+      "general": "İndiki qabaqda təhlükə var."
+    }
+  },
+  {
+    "word": "dangerous",
+    "level": "A1",
+    "translation": "təhlükəli",
+    "pronunciation": "[ˈdeɪndʒərəs]",
+    "examples": {
+      "simple": "That's very dangerous here.",
+      "complex": "Dangerous situations require immediate response protocols and comprehensive safety measures to prevent harm.",
+      "general": "Don't do dangerous things."
+    },
+    "examples_az": {
+      "simple": "Bu burada çox təhlükəlidir.",
+      "complex": "Təhlükəli vəziyyətlər zərərin qarşısını almaq üçün dərhal cavab protokolları və hərtərəfli təhlükəsizlik tədbirləri tələb edir.",
+      "general": "Təhlükəli şeylər etməyin."
+    }
+  },
+  {
+    "word": "dark",
+    "level": "A1",
+    "translation": "qaranlıq",
+    "pronunciation": "[dɑːk]",
+    "examples": {
+      "simple": "It's too dark outside.",
+      "complex": "Dark environments affect circadian rhythms and influence sleep patterns through reduced light exposure.",
+      "general": "Turn on lights when dark."
+    },
+    "examples_az": {
+      "simple": "Çöldə çox qaranlıqdır.",
+      "complex": "Qaranlıq mühitlər sirkadian ritmlərə təsir göstərir və azaldılmış işıq məruz qalması vasitəsilə yuxu nümunələrinə təsir edir.",
+      "general": "Qaranlıq olanda işıqları yandırın."
+    }
+  },
+  {
+    "word": "data",
+    "level": "A2",
+    "translation": "məlumat, data",
+    "pronunciation": "[ˈdeɪtə]",
+    "examples": {
+      "simple": "Collect accurate data always.",
+      "complex": "Data analysis techniques extract meaningful insights and inform evidence-based decision-making processes across organizations.",
+      "general": "Save all important data."
+    },
+    "examples_az": {
+      "simple": "Həmişə dəqiq məlumat toplayın.",
+      "complex": "Məlumat təhlili üsulları mənalı fikirlər çıxarır və təşkilatlarda sübut əsaslı qərar qəbul etmə proseslərini məlumatlandırır.",
+      "general": "Bütün vacib məlumatları saxlayın."
+    }
+  },
+  {
+    "word": "date",
+    "level": "A1",
+    "translation": "tarix",
+    "pronunciation": "[deɪt]",
+    "examples": {
+      "simple": "What's today's date exactly?",
+      "complex": "Date tracking systems facilitate scheduling coordination and ensure timely completion of time-sensitive tasks.",
+      "general": "Mark the important date."
+    },
+    "examples_az": {
+      "simple": "Bu günün tarixi nədir?",
+      "complex": "Tarix izləmə sistemləri cədvəl koordinasiyasını asanlaşdırır və vaxta həssas tapşırıqların vaxtında tamamlanmasını təmin edir.",
+      "general": "Vacib tarixi qeyd edin."
+    }
+  },
+  {
+    "word": "daughter",
+    "level": "A1",
+    "translation": "qız",
+    "pronunciation": "[ˈdɔːtə]",
+    "examples": {
+      "simple": "My daughter studies medicine.",
+      "complex": "Daughter-parent relationships shape emotional development and influence lifelong behavioral patterns through nurturing bonds.",
+      "general": "His daughter is smart."
+    },
+    "examples_az": {
+      "simple": "Mənim qızım tibb təhsili alır.",
+      "complex": "Qız-valideyn münasibətləri qayğıkeş bağlar vasitəsilə emosional inkişafı formalaşdırır və ömürlük davranış nümunələrinə təsir göstərir.",
+      "general": "Onun qızı ağıllıdır."
+    }
+  },
+  {
+    "word": "day",
+    "level": "A1",
+    "translation": "gün",
+    "pronunciation": "[deɪ]",
+    "examples": {
+      "simple": "Have a nice day.",
+      "complex": "Day-night cycles regulate biological processes and influence physiological functions through circadian rhythm mechanisms.",
+      "general": "What day is today?"
+    },
+    "examples_az": {
+      "simple": "Gözəl gün keçirəsiniz.",
+      "complex": "Gündüz-gecə dövrlər sirkadian ritm mexanizmləri vasitəsilə bioloji prosesləri tənzimləyir və fizioloji funksiyalara təsir göstərir.",
+      "general": "Bu gün hansı gündür?"
+    }
+  },
+  {
+    "word": "dead",
+    "level": "A2",
+    "translation": "ölü",
+    "pronunciation": "[ded]",
+    "examples": {
+      "simple": "The plant is dead.",
+      "complex": "Dead organic matter contributes to ecosystem nutrient cycles and supports soil fertility through decomposition processes.",
+      "general": "My phone battery is dead."
+    },
+    "examples_az": {
+      "simple": "Bitki ölüdür.",
+      "complex": "Ölü üzvi maddə çürümə prosesləri vasitəsilə ekosistem qida dövrlərində iştirak edir və torpağın məhsuldarlığını dəstəkləyir.",
+      "general": "Telefonumun batareyası bitib."
+    }
+  },
+  {
+    "word": "deal",
+    "level": "A2",
+    "translation": "müqavilə, razılaşma",
+    "pronunciation": "[diːl]",
+    "examples": {
+      "simple": "Make a good deal.",
+      "complex": "Deal negotiations require strategic thinking and effective communication to achieve mutually beneficial outcomes.",
+      "general": "It's a great deal."
+    },
+    "examples_az": {
+      "simple": "Yaxşı müqavilə edin.",
+      "complex": "Müqavilə danışıqları qarşılıqlı faydalı nəticələrə nail olmaq üçün strateji düşüncə və effektiv ünsiyyət tələb edir.",
+      "general": "Bu əla müqavilədir."
+    }
+  },
+  {
+    "word": "dear",
+    "level": "A1",
+    "translation": "əziz, hörmətli",
+    "pronunciation": "[dɪə]",
+    "examples": {
+      "simple": "Dear friend of mine.",
+      "complex": "Dear relationships provide emotional support and contribute significantly to psychological well-being throughout life.",
+      "general": "She's very dear to me."
+    },
+    "examples_az": {
+      "simple": "Əziz dostum.",
+      "complex": "Əziz münasibətlər emosional dəstək təmin edir və həyat boyu psixoloji rifaha əhəmiyyətli töhfə verir.",
+      "general": "O, mənə çox əzizdir."
+    }
+  },
+  {
+    "word": "death",
+    "level": "A2",
+    "translation": "ölüm",
+    "pronunciation": "[deθ]",
+    "examples": {
+      "simple": "Death is inevitable always.",
+      "complex": "Death awareness influences philosophical perspectives and shapes cultural attitudes toward mortality and existence.",
+      "general": "The death was sudden."
+    },
+    "examples_az": {
+      "simple": "Ölüm həmişə qaçılmazdır.",
+      "complex": "Ölüm şüuru fəlsəfi perspektivlərə təsir göstərir və ölüm və mövcudluğa mədəni münasibətləri formalaşdırır.",
+      "general": "Ölüm qəfil oldu."
+    }
+  },
+  {
+    "word": "debate",
+    "level": "B2",
+    "translation": "debat, mübahisə",
+    "pronunciation": "[dɪˈbeɪt]",
+    "examples": {
+      "simple": "Join the debate today.",
+      "complex": "Debate fosters critical thinking and enables exploration of diverse perspectives through structured argumentation.",
+      "general": "The debate was heated."
+    },
+    "examples_az": {
+      "simple": "Bu gün debata qoşulun.",
+      "complex": "Debat tənqidi düşüncəni təşviq edir və strukturlaşdırılmış arqumentasiya vasitəsilə müxtəlif perspektivlərin tədqiqinə imkan verir.",
+      "general": "Debat qızğın idi."
+    }
+  },
+  {
+    "word": "debt",
+    "level": "B2",
+    "translation": "borc",
+    "pronunciation": "[det]",
+    "examples": {
+      "simple": "Pay off your debt.",
+      "complex": "Debt management strategies require financial planning and disciplined budgeting to achieve long-term economic stability.",
+      "general": "He's in serious debt."
+    },
+    "examples_az": {
+      "simple": "Borcunuzu ödəyin.",
+      "complex": "Borc idarəetmə strategiyaları uzunmüddətli iqtisadi sabitliyə nail olmaq üçün maliyyə planlaşdırması və intizamlı büdcə tələb edir.",
+      "general": "O, ciddi borc içindədir."
+    }
+  },
+  {
+    "word": "decade",
+    "level": "B1",
+    "translation": "onillik",
+    "pronunciation": "[ˈdekeɪd]",
+    "examples": {
+      "simple": "A decade passed quickly.",
+      "complex": "Decade-long trends reveal societal transformations and demonstrate evolving patterns in cultural and economic development.",
+      "general": "Over the past decade."
+    },
+    "examples_az": {
+      "simple": "Bir onillik tez keçdi.",
+      "complex": "Onillik tendensiyalar ictimai transformasiyaları aşkar edir və mədəni və iqtisadi inkişafda təkamül edən nümunələri nümayiş etdirir.",
+      "general": "Son onillik ərzində."
+    }
+  },
+  {
+    "word": "December",
+    "level": "A1",
+    "translation": "Dekabr",
+    "pronunciation": "[dɪˈsembə]",
+    "examples": {
+      "simple": "December is cold here.",
+      "complex": "December marks year-end celebrations and cultural traditions that bring communities together globally.",
+      "general": "My birthday is December."
+    },
+    "examples_az": {
+      "simple": "Burada Dekabr soyuqdur.",
+      "complex": "Dekabr il sonu bayramlarını və qlobal olaraq icmaları bir araya gətirən mədəni ənənələri qeyd edir.",
+      "general": "Mənim ad günüm Dekabrdadır."
+    }
+  },
+  {
+    "word": "decent",
+    "level": "B2",
+    "translation": "layiqli, münasib",
+    "pronunciation": "[ˈdiːsnt]",
+    "examples": {
+      "simple": "That's a decent offer.",
+      "complex": "Decent living standards reflect societal progress and indicate improvements in quality of life indicators.",
+      "general": "He's a decent person."
+    },
+    "examples_az": {
+      "simple": "Bu layiqli təklifdir.",
+      "complex": "Layiqli həyat standartları cəmiyyət tərəqqisini əks etdirir və həyat keyfiyyəti göstəricilərində təkmilləşmələri göstərir.",
+      "general": "O, layiqli insandır."
+    }
+  },
+  {
+    "word": "decide",
+    "level": "A1",
+    "translation": "qərar vermək",
+    "pronunciation": "[dɪˈsaɪd]",
+    "examples": {
+      "simple": "Decide quickly please now.",
+      "complex": "Decision-making processes involve evaluating alternatives and considering consequences to achieve optimal outcomes.",
+      "general": "I can't decide yet."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa tez qərar verin.",
+      "complex": "Qərar vermə prosesləri optimal nəticələrə nail olmaq üçün alternativlərin qiymətləndirilməsini və nəticələrin nəzərdən keçirilməsini əhatə edir.",
+      "general": "Hələ qərar verə bilmirəm."
+    }
+  },
+  {
+    "word": "decision",
+    "level": "A2",
+    "translation": "qərar",
+    "pronunciation": "[dɪˈsɪʒn]",
+    "examples": {
+      "simple": "Make a wise decision.",
+      "complex": "Decision quality depends on available information and analytical frameworks used to assess potential outcomes.",
+      "general": "Good decision you made."
+    },
+    "examples_az": {
+      "simple": "Ağıllı qərar verin.",
+      "complex": "Qərarın keyfiyyəti mövcud məlumatdan və potensial nəticələri qiymətləndirmək üçün istifadə olunan analitik çərçivələrdən asılıdır.",
+      "general": "Yaxşı qərar verdiniz."
+    }
+  },
+  {
+    "word": "declare",
+    "level": "B2",
+    "translation": "elan etmək",
+    "pronunciation": "[dɪˈkleə]",
+    "examples": {
+      "simple": "Declare your intention clearly.",
+      "complex": "Declaring positions publicly requires courage and commitment to principles despite potential opposition.",
+      "general": "They declared independence finally."
+    },
+    "examples_az": {
+      "simple": "Niyyətinizi aydın elan edin.",
+      "complex": "Mövqeləri açıq elan etmək potensial müxalifətə baxmayaraq cəsarət və prinsiplərə sadiqlik tələb edir.",
+      "general": "Nəhayət müstəqillik elan etdilər."
+    }
+  },
+  {
+    "word": "decline",
+    "level": "B2",
+    "translation": "azalma, rədd etmək",
+    "pronunciation": "[dɪˈklaɪn]",
+    "examples": {
+      "simple": "Sales are in decline.",
+      "complex": "Decline analysis identifies underlying causes and informs intervention strategies to reverse negative trends.",
+      "general": "He declined the offer."
+    },
+    "examples_az": {
+      "simple": "Satışlar azalmaqdadır.",
+      "complex": "Azalma təhlili əsas səbəbləri müəyyən edir və mənfi tendensiyaları dəyişdirmək üçün müdaxilə strategiyalarını məlumatlandırır.",
+      "general": "O, təklifi rədd etdi."
+    }
+  },
+  {
+    "word": "decorate",
+    "level": "B2",
+    "translation": "bəzəmək",
+    "pronunciation": "[ˈdekəreɪt]",
+    "examples": {
+      "simple": "Decorate the room nicely.",
+      "complex": "Decorating spaces enhances aesthetic appeal and creates environments that reflect personal style and cultural values.",
+      "general": "They decorated for Christmas."
+    },
+    "examples_az": {
+      "simple": "Otağı gözəl bəzəyin.",
+      "complex": "Məkanları bəzəmək estetik cazibəni artırır və şəxsi üslubu və mədəni dəyərləri əks etdirən mühitlər yaradır.",
+      "general": "Onlar Milad üçün bəzədilər."
+    }
+  },
+  {
+    "word": "decoration",
+    "level": "B2",
+    "translation": "bəzək, dekorasiya",
+    "pronunciation": "[ˌdekəˈreɪʃn]",
+    "examples": {
+      "simple": "Beautiful Christmas decorations here.",
+      "complex": "Decoration choices communicate cultural identity and establish atmospheric qualities within architectural spaces.",
+      "general": "The decoration looks wonderful."
+    },
+    "examples_az": {
+      "simple": "Burada gözəl Milad bəzəkləri.",
+      "complex": "Bəzək seçimləri mədəni kimliyi çatdırır və memarlıq məkanlarında atmosfer keyfiyyətlərini yaradır.",
+      "general": "Bəzək möhtəşəm görünür."
+    }
+  },
+  {
+    "word": "decrease",
+    "level": "B2",
+    "translation": "azalma, azaltmaq",
+    "pronunciation": "[dɪˈkriːs]",
+    "examples": {
+      "simple": "Prices decreased last month.",
+      "complex": "Decrease patterns indicate changing market dynamics and require adaptive business strategies for sustainability.",
+      "general": "Pollution levels are decreasing."
+    },
+    "examples_az": {
+      "simple": "Qiymətlər keçən ay azaldı.",
+      "complex": "Azalma nümunələri dəyişən bazar dinamikasını göstərir və davamlılıq üçün adaptiv biznes strategiyaları tələb edir.",
+      "general": "Çirklənmə səviyyələri azalır."
+    }
+  },
+  {
+    "word": "deep",
+    "level": "A2",
+    "translation": "dərin",
+    "pronunciation": "[diːp]",
+    "examples": {
+      "simple": "The water is deep.",
+      "complex": "Deep understanding requires sustained engagement and critical analysis that goes beyond surface-level comprehension.",
+      "general": "Think deeply about it."
+    },
+    "examples_az": {
+      "simple": "Su dərindir.",
+      "complex": "Dərin başa düşmə səth səviyyəli anlamanın kənarına çıxan davamlı iştirak və tənqidi təhlil tələb edir.",
+      "general": "Bu barədə dərindən düşünün."
+    }
+  },
+  {
+    "word": "deeply",
+    "level": "B2",
+    "translation": "dərindən",
+    "pronunciation": "[ˈdiːpli]",
+    "examples": {
+      "simple": "I care deeply always.",
+      "complex": "Deeply held beliefs shape behavioral patterns and influence decision-making processes throughout individual lives.",
+      "general": "She was deeply moved."
+    },
+    "examples_az": {
+      "simple": "Mən həmişə dərindən qayğı göstərirəm.",
+      "complex": "Dərindən saxlanılan inanclar davranış nümunələrini formalaşdırır və fərdi həyatlar boyunca qərar qəbul etmə proseslərinə təsir göstərir.",
+      "general": "O, dərindən təsirləndi."
+    }
+  },
+  {
+    "word": "defeat",
+    "level": "B2",
+    "translation": "məğlub etmək, məğlubiyyət",
+    "pronunciation": "[dɪˈfiːt]",
+    "examples": {
+      "simple": "They defeat the enemy.",
+      "complex": "The army managed to defeat the opposing forces despite limited resources.",
+      "general": "Defeat can be difficult to accept."
+    },
+    "examples_az": {
+      "simple": "Onlar düşməni məğlub etdilər.",
+      "complex": "Ordu məhdud resurslara baxmayaraq qarşı tərəfi məğlub etməyi bacardı.",
+      "general": "Məğlubiyyəti qəbul etmək çətin ola bilər."
+    }
+  },
+  {
+    "word": "defend",
+    "level": "B2",
+    "translation": "müdafiə etmək",
+    "pronunciation": "[dɪˈfend]",
+    "examples": {
+      "simple": "Soldiers defend the city.",
+      "complex": "Every citizen has the right to defend themselves under the law.",
+      "general": "She defended her opinion."
+    },
+    "examples_az": {
+      "simple": "Əsgərlər şəhəri müdafiə edirlər.",
+      "complex": "Hər bir vətəndaşın qanun qarşısında özünü müdafiə etmək hüququ var.",
+      "general": "O, öz fikrini müdafiə etdi."
+    }
+  },
+  {
+    "word": "defense",
+    "level": "B2",
+    "translation": "müdafiə",
+    "pronunciation": "[dɪˈfens]",
+    "examples": {
+      "simple": "The defense was strong.",
+      "complex": "A good legal defense can significantly affect the outcome of a trial.",
+      "general": "Defense is important in sports."
+    },
+    "examples_az": {
+      "simple": "Müdafiə güclü idi.",
+      "complex": "Yaxşı hüquqi müdafiə məhkəmənin nəticəsinə ciddi təsir göstərə bilər.",
+      "general": "İdmanda müdafiə vacibdir."
+    }
+  },
+  {
+    "word": "define",
+    "level": "B1",
+    "translation": "tərif vermək, müəyyən etmək",
+    "pronunciation": "[dɪˈfaɪn]",
+    "examples": {
+      "simple": "Please define this word.",
+      "complex": "It is difficult to define success because it means different things to different people.",
+      "general": "The term is clearly defined."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa bu sözü izah et.",
+      "complex": "Uğuru tərif etmək çətindir, çünki hər kəs üçün fərqli məna daşıyır.",
+      "general": "Termin aydın şəkildə müəyyən edilib."
+    }
+  },
+  {
+    "word": "degree",
+    "level": "A2",
+    "translation": "dərəcə",
+    "pronunciation": "[dɪˈɡriː]",
+    "examples": {
+      "simple": "She has a degree.",
+      "complex": "He earned a degree in engineering after years of study.",
+      "general": "The temperature rose by one degree."
+    },
+    "examples_az": {
+      "simple": "Onun diplomu var.",
+      "complex": "O, illərlə təhsildən sonra mühəndislik üzrə dərəcə aldı.",
+      "general": "Temperatur bir dərəcə qalxdı."
+    }
+  },
+  {
+    "word": "delay",
+    "level": "B2",
+    "translation": "təxirə salmaq, gecikmə",
+    "pronunciation": "[dɪˈleɪ]",
+    "examples": {
+      "simple": "The train has a delay.",
+      "complex": "Bad weather caused a significant delay in the flight schedule.",
+      "general": "They delayed the meeting."
+    },
+    "examples_az": {
+      "simple": "Qatar gecikir.",
+      "complex": "Pis hava uçuş cədvəlində ciddi gecikməyə səbəb oldu.",
+      "general": "Onlar iclası təxirə saldılar."
+    }
+  },
+  {
+    "word": "delicious",
+    "level": "A1",
+    "translation": "dadlı",
+    "pronunciation": "[dɪˈlɪʃəs]",
+    "examples": {
+      "simple": "The food is delicious.",
+      "complex": "She prepared a delicious meal for her guests.",
+      "general": "This cake tastes delicious."
+    },
+    "examples_az": {
+      "simple": "Yemək dadlıdır.",
+      "complex": "O, qonaqları üçün çox dadlı yemək hazırladı.",
+      "general": "Bu tort çox dadlıdır."
+    }
+  },
+  {
+    "word": "deliver",
+    "level": "B1",
+    "translation": "çatdırmaq",
+    "pronunciation": "[dɪˈlɪvə]",
+    "examples": {
+      "simple": "They deliver food.",
+      "complex": "The company delivers packages worldwide within three days.",
+      "general": "The speech was well delivered."
+    },
+    "examples_az": {
+      "simple": "Onlar yemək çatdırırlar.",
+      "complex": "Şirkət bağlamaları üç gün ərzində dünya üzrə çatdırır.",
+      "general": "Nitq yaxşı təqdim olundu."
+    }
+  },
+  {
+    "word": "demand",
+    "level": "B2",
+    "translation": "tələb etmək, tələb",
+    "pronunciation": "[dɪˈmɑːnd]",
+    "examples": {
+      "simple": "They demand answers.",
+      "complex": "Workers demanded better working conditions and fair wages.",
+      "general": "There is a high demand for jobs."
+    },
+    "examples_az": {
+      "simple": "Onlar cavab tələb edirlər.",
+      "complex": "İşçilər daha yaxşı iş şəraiti və ədalətli maaş tələb etdilər.",
+      "general": "İşlərə tələbat yüksəkdir."
+    }
+  },
+  {
+    "word": "dentist",
+    "level": "A2",
+    "translation": "diş həkimi",
+    "pronunciation": "[ˈdentɪst]",
+    "examples": {
+      "simple": "I visit the dentist.",
+      "complex": "You should see a dentist if you have tooth pain.",
+      "general": "The dentist fixed my tooth."
+    },
+    "examples_az": {
+      "simple": "Mən diş həkiminə gedirəm.",
+      "complex": "Dişin ağrıyırsa, diş həkiminə getməlisən.",
+      "general": "Diş həkimi dişimi düzəltdi."
+    }
+  },
+  {
+    "word": "deny",
+    "level": "B2",
+    "translation": "inkar etmək",
+    "pronunciation": "[dɪˈnaɪ]",
+    "examples": {
+      "simple": "He denied it.",
+      "complex": "She denied being involved in the incident.",
+      "general": "The company denied responsibility."
+    },
+    "examples_az": {
+      "simple": "O, bunu inkar etdi.",
+      "complex": "O, hadisədə iştirak etdiyini inkar etdi.",
+      "general": "Şirkət məsuliyyəti inkar etdi."
+    }
+  },
+  {
+    "word": "department",
+    "level": "A2",
+    "translation": "şöbə",
+    "pronunciation": "[dɪˈpɑːtmənt]",
+    "examples": {
+      "simple": "She works in this department.",
+      "complex": "The sales department achieved excellent results this year.",
+      "general": "Each department has a manager."
+    },
+    "examples_az": {
+      "simple": "O, bu şöbədə işləyir.",
+      "complex": "Satış şöbəsi bu il əla nəticələr əldə etdi.",
+      "general": "Hər şöbənin meneceri var."
+    }
+  },
+  {
+    "word": "departure",
+    "level": "B1",
+    "translation": "gediş, yola çıxma",
+    "pronunciation": "[dɪˈpɑːrtʃər]",
+    "examples": {
+      "simple": "Our departure is at 6 PM.",
+      "complex": "The departure of the train was delayed due to technical problems at the station.",
+      "general": "He announced his departure from the company."
+    },
+    "examples_az": {
+      "simple": "Gedişimiz saat 6-dadır.",
+      "complex": "Qatarın gedişi stansiyada texniki problemlər səbəbindən gecikdi.",
+      "general": "O, şirkətdən ayrılacağını elan etdi."
+    }
+  },
+  {
+    "word": "depend",
+    "level": "A2",
+    "translation": "asılı olmaq",
+    "pronunciation": "[dɪˈpend]",
+    "examples": {
+      "simple": "It depends on the weather.",
+      "complex": "The success of the project depends on careful planning and teamwork.",
+      "general": "You can depend on her."
+    },
+    "examples_az": {
+      "simple": "Bu havadan asılıdır.",
+      "complex": "Layihənin uğuru diqqətli planlaşdırma və komandada işləməyə bağlıdır.",
+      "general": "Sən ona güvənə bilərsən."
+    }
+  },
+  {
+    "word": "depressed",
+    "level": "B2",
+    "translation": "depressiya, ruh düşkünlüyü",
+    "pronunciation": "[dɪˈprest]",
+    "examples": {
+      "simple": "He feels depressed today.",
+      "complex": "She has been depressed for months due to personal and professional stress.",
+      "general": "Depressed patients often need therapy."
+    },
+    "examples_az": {
+      "simple": "O, bu gün ruh düşkünüdür.",
+      "complex": "O, şəxsi və peşəkar stress səbəbindən aylarca depressiyadadır.",
+      "general": "Depressiyadakı xəstələr tez-tez terapiyaya ehtiyac duyurlar."
+    }
+  },
+  {
+    "word": "depressing",
+    "level": "B2",
+    "translation": "təəssüf doğuran, ruh düşkünlüyü yaradan",
+    "pronunciation": "[dɪˈpresɪŋ]",
+    "examples": {
+      "simple": "The news is depressing.",
+      "complex": "It is depressing to see so much poverty in such a wealthy country.",
+      "general": "A depressing situation occurred at work."
+    },
+    "examples_az": {
+      "simple": "Xəbərlər ruh düşkünlüyü yaradır.",
+      "complex": "Belə zəngin ölkədə bu qədər yoxsulluğu görmək ruh düşkünlüyü yaradır.",
+      "general": "İşdə ruh düşkünlüyü yaradan vəziyyət baş verdi."
+    }
+  },
+  {
+    "word": "depth",
+    "level": "B2",
+    "translation": "dərinlik",
+    "pronunciation": "[depθ]",
+    "examples": {
+      "simple": "The depth of the lake is 20 meters.",
+      "complex": "The report explores the depth of the economic crisis and its causes.",
+      "general": "He studied the depth carefully."
+    },
+    "examples_az": {
+      "simple": "Gölün dərinliyi 20 metrdir.",
+      "complex": "Hesabat iqtisadi böhranının dərinliyini və səbəblərini araşdırır.",
+      "general": "O, dərinliyi diqqətlə öyrəndi."
+    }
+  },
+  {
+    "word": "describe",
+    "level": "A1",
+    "translation": "təsvir etmək",
+    "pronunciation": "[dɪˈskraɪb]",
+    "examples": {
+      "simple": "Describe your favorite book.",
+      "complex": "Can you describe the main events in the story using as many details as possible?",
+      "general": "She described the scene vividly."
+    },
+    "examples_az": {
+      "simple": "Sevdiyin kitabı təsvir et.",
+      "complex": "Hekayədəki əsas hadisələri mümkün qədər çox detal ilə təsvir edə bilərsən?",
+      "general": "O, səhnəni canlı təsvir etdi."
+    }
+  },
+  {
+    "word": "description",
+    "level": "A1",
+    "translation": "təsvir, açıqlama",
+    "pronunciation": "[dɪˈskrɪpʃən]",
+    "examples": {
+      "simple": "Write a description of your house.",
+      "complex": "The description in the travel guide gave us a clear idea of the city layout.",
+      "general": "Her description was accurate."
+    },
+    "examples_az": {
+      "simple": "Evinizin təsvirini yazın.",
+      "complex": "Səyahət bələdçisindəki təsvir şəhərin planı haqqında bizə aydın fikir verdi.",
+      "general": "Onun təsviri dəqiq idi."
+    }
+  },
+  {
+    "word": "desert",
+    "level": "A2",
+    "translation": "səhra / tərk etmək",
+    "pronunciation": "[ˈdezərt]",
+    "examples": {
+      "simple": "The desert is very hot.",
+      "complex": "Soldiers may desert their posts under extreme conditions.",
+      "general": "They crossed the desert."
+    },
+    "examples_az": {
+      "simple": "Səhra çox isti olur.",
+      "complex": "Əsgərlər ekstremal şərtlərdə postlarını tərk edə bilərlər.",
+      "general": "Onlar səhradan keçdilər."
+    }
+  },
+  {
+    "word": "deserve",
+    "level": "B2",
+    "translation": "layiq olmaq",
+    "pronunciation": "[dɪˈzɜːrv]",
+    "examples": {
+      "simple": "You deserve a break.",
+      "complex": "Hardworking students deserve recognition for their achievements.",
+      "general": "He deserves respect."
+    },
+    "examples_az": {
+      "simple": "Sən fasilə almağa layiqsən.",
+      "complex": "Səy göstərən tələbələr nailiyyətlərinə görə tanınmağa layiqdirlər.",
+      "general": "O, hörmətə layiqdir."
+    }
+  },
+  {
+    "word": "design",
+    "level": "A1",
+    "translation": "dizayn, tərtib etmək",
+    "pronunciation": "[dɪˈzaɪn]",
+    "examples": {
+      "simple": "I will design a new logo.",
+      "complex": "The architect designed the building to be both functional and aesthetically pleasing.",
+      "general": "The design is modern."
+    },
+    "examples_az": {
+      "simple": "Mən yeni logo tərtib edəcəyəm.",
+      "complex": "Memar binanı həm funksional, həm də estetik cəhətdən gözəl olmaq üçün dizayn etdi.",
+      "general": "Dizayn müasir görünür."
+    }
+  },
+
+  {
+    "word": "designer",
+    "level": "A2",
+    "translation": "dizayner",
+    "pronunciation": "[dɪˈzaɪnər]",
+    "examples": {
+      "simple": "She is a fashion designer.",
+      "complex": "The designer created a collection that combined modern trends with traditional styles.",
+      "general": "He works as a graphic designer."
+    },
+    "examples_az": {
+      "simple": "O, moda dizayneridir.",
+      "complex": "Dizayner müasir trendleri ənənəvi üslublarla birləşdirən kolleksiya yaratdı.",
+      "general": "O, qrafik dizayner kimi işləyir."
+    }
+  },
+  {
+    "word": "desire",
+    "level": "B2",
+    "translation": "arzu etmək, istək",
+    "pronunciation": "[dɪˈzaɪər]",
+    "examples": {
+      "simple": "I desire to travel the world.",
+      "complex": "Her strong desire to succeed motivated her to work tirelessly on the project.",
+      "general": "He has a desire for knowledge."
+    },
+    "examples_az": {
+      "simple": "Mən dünyanı səyahət etməyi arzulayıram.",
+      "complex": "Uğur qazanmaq üçün onun güclü arzusu layihədə yorulmadan işləməyə təşviq etdi.",
+      "general": "Onun biliklərə arzu var."
+    }
+  },
+  {
+    "word": "desk",
+    "level": "A1",
+    "translation": "masa",
+    "pronunciation": "[desk]",
+    "examples": {
+      "simple": "Put your books on the desk.",
+      "complex": "He organized all the papers on his desk before starting the meeting.",
+      "general": "The desk is clean."
+    },
+    "examples_az": {
+      "simple": "Kitablarını masanın üzərinə qoy.",
+      "complex": "O, iclasa başlamazdan əvvəl bütün sənədləri masasının üzərində düzəltdi.",
+      "general": "Masa təmizdir."
+    }
+  },
+  {
+    "word": "desperate",
+    "level": "B2",
+    "translation": "ümidsiz, çaresiz",
+    "pronunciation": "[ˈdespərət]",
+    "examples": {
+      "simple": "She was desperate for help.",
+      "complex": "The team made a desperate attempt to save the company from bankruptcy.",
+      "general": "He felt desperate in that situation."
+    },
+    "examples_az": {
+      "simple": "O, kömək üçün ümidini itirmişdi.",
+      "complex": "Komanda şirkəti iflasdan xilas etmək üçün çaresiz bir cəhd etdi.",
+      "general": "O, həmin vəziyyətdə ümidsiz hiss etdi."
+    }
+  },
+  {
+    "word": "despite",
+    "level": "B1",
+    "translation": "rəğmən, baxmayaraq",
+    "pronunciation": "[dɪˈspaɪt]",
+    "examples": {
+      "simple": "She went out despite the rain.",
+      "complex": "Despite facing numerous obstacles, he completed the project on time.",
+      "general": "They succeeded despite difficulties."
+    },
+    "examples_az": {
+      "simple": "O, yağışa baxmayaraq çölə çıxdı.",
+      "complex": "Çoxsaylı əngəllərə baxmayaraq, o layihəni vaxtında tamamladı.",
+      "general": "Onlar çətinliklərə baxmayaraq uğur qazandılar."
+    }
+  },
+  {
+    "word": "dessert",
+    "level": "A2",
+    "translation": "şirniyyat, desert",
+    "pronunciation": "[dɪˈzɜːrt]",
+    "examples": {
+      "simple": "We had ice cream for dessert.",
+      "complex": "The restaurant offers a variety of desserts that complement the main dishes perfectly.",
+      "general": "Chocolate cake is my favorite dessert."
+    },
+    "examples_az": {
+      "simple": "Biz desert üçün dondurma yedik.",
+      "complex": "Restoran əsas yeməkləri mükəmməl şəkildə tamamlayan müxtəlif desertlər təklif edir.",
+      "general": "Şokoladlı tort mənim sevimli desertimdir."
+    }
+  },
+  {
+    "word": "destination",
+    "level": "B1",
+    "translation": "təyinat yeri, istiqamət",
+    "pronunciation": "[ˌdestɪˈneɪʃən]",
+    "examples": {
+      "simple": "Our destination is Paris.",
+      "complex": "They planned their journey carefully, choosing each destination for its cultural significance.",
+      "general": "The bus reached its destination on time."
+    },
+    "examples_az": {
+      "simple": "Bizim təyinat yerimiz Parisdir.",
+      "complex": "Onlar hər bir təyinat yerini mədəni əhəmiyyəti üçün seçərək səyahətlərini diqqətlə planlaşdırdılar.",
+      "general": "Avtobus təyinat yerinə vaxtında çatdı."
+    }
+  },
+  {
+    "word": "destroy",
+    "level": "A2",
+    "translation": "məhv etmək, dağıtmaq",
+    "pronunciation": "[dɪˈstrɔɪ]",
+    "examples": {
+      "simple": "The storm destroyed the house.",
+      "complex": "The hurricane destroyed entire neighborhoods and left thousands homeless.",
+      "general": "He accidentally destroyed the document."
+    },
+    "examples_az": {
+      "simple": "Fırtına evi məhv etdi.",
+      "complex": "Tropik fırtına bütün məhəllələri dağıtdı və minlərlə insanı evsiz qoydu.",
+      "general": "O, sənədi təsadüfən məhv etdi."
+    }
+  },
+  {
+    "word": "detail",
+    "level": "A1",
+    "translation": "detal, təfərrüat",
+    "pronunciation": "[ˈdiːteɪl]",
+    "examples": {
+      "simple": "Write down every detail.",
+      "complex": "The report described the incident in great detail, covering all aspects thoroughly.",
+      "general": "He explained the detail clearly."
+    },
+    "examples_az": {
+      "simple": "Hər detalı yaz.",
+      "complex": "Hesabat hadisəni böyük detallarla təsvir etdi, bütün tərəfləri ətraflı əhatə etdi.",
+      "general": "O, detalı aydın şəkildə izah etdi."
+    }
+  },
+  {
+    "word": "detailed",
+    "level": "B2",
+    "translation": "ətraflı, detallı",
+    "pronunciation": "[ˈdiːteɪld]",
+    "examples": {
+      "simple": "She gave a detailed report.",
+      "complex": "The book provides a detailed analysis of economic trends over the past decade.",
+      "general": "A detailed plan was necessary."
+    },
+    "examples_az": {
+      "simple": "O, ətraflı hesabat verdi.",
+      "complex": "Kitab son on ildə iqtisadi tendensiyaların ətraflı analizini təqdim edir.",
+      "general": "Ətraflı plan lazım idi."
+    }
+  },
+  {
+    "word": "detect",
+    "level": "B2",
+    "translation": "aşkarlamaq",
+    "pronunciation": "[dɪˈtekt]",
+    "examples": {
+      "simple": "The machine can detect errors.",
+      "complex": "Scientists can detect subtle changes in the environment using advanced sensors.",
+      "general": "He detected a mistake in the report."
+    },
+    "examples_az": {
+      "simple": "Maşın səhvləri aşkar edə bilər.",
+      "complex": "Alimlər qabaqcıl sensorlar vasitəsilə ətraf mühitdəki incə dəyişiklikləri aşkarlaya bilirlər.",
+      "general": "O, hesabatda bir səhv aşkar etdi."
+    }
+  },
+  {
+    "word": "detective",
+    "level": "A2",
+    "translation": "detektiv",
+    "pronunciation": "[dɪˈtektɪv]",
+    "examples": {
+      "simple": "The detective solved the case.",
+      "complex": "The detective carefully gathered evidence to uncover the truth behind the crime.",
+      "general": "A detective is investigating the theft."
+    },
+    "examples_az": {
+      "simple": "Detektiv işi həll etdi.",
+      "complex": "Detektiv cinayətin arxasındakı həqiqəti ortaya çıxarmaq üçün diqqətlə sübut topladı.",
+      "general": "Bir detektiv oğurluğu araşdırır."
+    }
+  },
+  {
+    "word": "determine",
+    "level": "B1",
+    "translation": "müəyyən etmək, qərar vermək",
+    "pronunciation": "[dɪˈtɜːrmɪn]",
+    "examples": {
+      "simple": "We need to determine the cause.",
+      "complex": "The investigation will determine whether the company violated regulations.",
+      "general": "They determined the winner of the contest."
+    },
+    "examples_az": {
+      "simple": "Səbəbi müəyyən etməliyik.",
+      "complex": "Araşdırma şirkətin qaydaları pozub-pozmadığını müəyyən edəcək.",
+      "general": "Onlar müsabiqənin qalibini müəyyən etdilər."
+    }
+  },
+  {
+    "word": "determined",
+    "level": "B1",
+    "translation": "qətiyyətli",
+    "pronunciation": "[dɪˈtɜːrmɪnd]",
+    "examples": {
+      "simple": "She is determined to succeed.",
+      "complex": "Despite obstacles, he remained determined to finish the marathon.",
+      "general": "A determined student never gives up."
+    },
+    "examples_az": {
+      "simple": "O, uğur qazanmağa qətiyyətlidir.",
+      "complex": "Əngəllərə baxmayaraq, o, marafonu bitirməyə qətiyyətli qaldı.",
+      "general": "Qətiyyətli tələbə heç vaxt təslim olmur."
+    }
+  },
+  {
+    "word": "develop",
+    "level": "A2",
+    "translation": "inkişaf etdirmək, yaratmaq",
+    "pronunciation": "[dɪˈveləp]",
+    "examples": {
+      "simple": "They develop new software.",
+      "complex": "The company plans to develop innovative solutions for global challenges.",
+      "general": "Children develop skills through play."
+    },
+    "examples_az": {
+      "simple": "Onlar yeni proqram təminatı inkişaf etdirirlər.",
+      "complex": "Şirkət qlobal problemlər üçün innovativ həllər inkişaf etdirməyi planlaşdırır.",
+      "general": "Uşaqlar oyun vasitəsilə bacarıqlarını inkişaf etdirirlər."
+    }
+  },
+  {
+    "word": "development",
+    "level": "B1",
+    "translation": "inkişaf, inkişaf",
+    "pronunciation": "[dɪˈveləpmənt]",
+    "examples": {
+      "simple": "The town is under development.",
+      "complex": "The development of renewable energy sources is crucial for the environment.",
+      "general": "There was rapid development in technology."
+    },
+    "examples_az": {
+      "simple": "Şəhər inkişaf mərhələsindədir.",
+      "complex": "Bərpa olunan enerji mənbələrinin inkişafı ətraf mühit üçün çox önəmlidir.",
+      "general": "Texnologiyada sürətli inkişaf var idi."
+    }
+  },
+  {
+    "word": "device",
+    "level": "A2",
+    "translation": "cihaz",
+    "pronunciation": "[dɪˈvaɪs]",
+    "examples": {
+      "simple": "I bought a new device.",
+      "complex": "The device measures heart rate and monitors physical activity accurately.",
+      "general": "This device is easy to use."
+    },
+    "examples_az": {
+      "simple": "Mən yeni cihaz aldım.",
+      "complex": "Cihaz ürək ritmini ölçür və fiziki fəaliyyətləri dəqiq izləyir.",
+      "general": "Bu cihazdan istifadə etmək asandır."
+    }
+  },
+  {
+    "word": "diagram",
+    "level": "B1",
+    "translation": "sxem, diaqram",
+    "pronunciation": "[ˈdaɪəɡræm]",
+    "examples": {
+      "simple": "Draw a diagram of the process.",
+      "complex": "The diagram illustrates the workflow and relationships between different departments.",
+      "general": "Refer to the diagram for clarity."
+    },
+    "examples_az": {
+      "simple": "Prosesin diaqramını çəkin.",
+      "complex": "Diaqram iş axınını və fərqli şöbələr arasındakı əlaqələri göstərir.",
+      "general": "Aydınlıq üçün diaqrama baxın."
+    }
+  },
+  {
+    "word": "dialogue",
+    "level": "A1",
+    "translation": "dialoq, söhbət",
+    "pronunciation": "[ˈdaɪəlɔːɡ]",
+    "examples": {
+      "simple": "Listen to the dialogue.",
+      "complex": "The dialogue between the characters revealed their true intentions.",
+      "general": "We practiced a dialogue in class."
+    },
+    "examples_az": {
+      "simple": "Dialoqu dinlə.",
+      "complex": "Personajlar arasındakı dialoq onların həqiqi niyyətlərini ortaya qoydu.",
+      "general": "Biz dərsdə dialoq məşq etdik."
+    }
+  },
+  {
+    "word": "diamond",
+    "level": "B1",
+    "translation": "almaz",
+    "pronunciation": "[ˈdaɪəmənd]",
+    "examples": {
+      "simple": "She bought a diamond ring.",
+      "complex": "The diamond's clarity and cut made it extremely valuable.",
+      "general": "Diamonds are precious stones."
+    },
+    "examples_az": {
+      "simple": "O, almaz üzük aldı.",
+      "complex": "Almazın şəffaflığı və kəsimi onu çox qiymətli etdi.",
+      "general": "Almazlar qiymətli daşlardır."
+    }
+  },
+  {
+    "word": "diary",
+    "level": "A2",
+    "translation": "gündəlik",
+    "pronunciation": "[ˈdaɪəri]",
+    "examples": {
+      "simple": "I write in my diary every day.",
+      "complex": "Keeping a diary helps in reflecting on personal growth and experiences.",
+      "general": "Her diary is full of memories."
+    },
+    "examples_az": {
+      "simple": "Mən hər gün gündəliyimə yazıram.",
+      "complex": "Gündəlik saxlamaq şəxsi inkişaf və təcrübələrə nəzər yetirməyə kömək edir.",
+      "general": "Onun gündəliyi xatirələrlə doludur."
+    }
+  },
+  {
+    "word": "dictionary",
+    "level": "A1",
+    "translation": "lüğət",
+    "pronunciation": "[ˈdɪkʃənəri]",
+    "examples": {
+      "simple": "Check the word in the dictionary.",
+      "complex": "A good dictionary can help improve your vocabulary and pronunciation.",
+      "general": "I bought a new dictionary."
+    },
+    "examples_az": {
+      "simple": "Sözü lüğətdə yoxla.",
+      "complex": "Yaxşı lüğət söz bazanızı və tələffüzünüzü yaxşılaşdırmağa kömək edə bilər.",
+      "general": "Mən yeni lüğət aldım."
+    }
+  },
+  {
+    "word": "die",
+    "level": "A1",
+    "translation": "ölmək",
+    "pronunciation": "[daɪ]",
+    "examples": {
+      "simple": "The plant might die without water.",
+      "complex": "Many species of animals die due to habitat loss and human activity.",
+      "general": "He fears he will die alone."
+    },
+    "examples_az": {
+      "simple": "Bitki su olmadan ölə bilər.",
+      "complex": "Çoxlu heyvan növləri yaşayış yerlərinin itirilməsi və insan fəaliyyətləri səbəbindən ölür.",
+      "general": "O, tək ölməkdən qorxur."
+    }
+  },
+  {
+    "word": "diet",
+    "level": "A1",
+    "translation": "pəhriz",
+    "pronunciation": "[daɪət]",
+    "examples": {
+      "simple": "I am on a diet.",
+      "complex": "Maintaining a balanced diet is essential for good health.",
+      "general": "He follows a strict diet."
+    },
+    "examples_az": {
+      "simple": "Mən pəhrizdəyəm.",
+      "complex": "Balanslı pəhrizi qorumaq sağlamlıq üçün vacibdir.",
+      "general": "O, ciddi pəhriz saxlayır."
+    }
+  },
+  {
+    "word": "difference",
+    "level": "A1",
+    "translation": "fərq",
+    "pronunciation": "[ˈdɪfərəns]",
+    "examples": {
+      "simple": "Can you see the difference?",
+      "complex": "Understanding the difference between similar concepts helps in learning efficiently.",
+      "general": "There is a big difference."
+    },
+    "examples_az": {
+      "simple": "Fərqi görə bilirsən?",
+      "complex": "Oxşar anlayışlar arasındakı fərqi başa düşmək səmərəli öyrənməyə kömək edir.",
+      "general": "Böyük bir fərq var."
+    }
+  },
+  {
+    "word": "different",
+    "level": "A1",
+    "translation": "fərqli",
+    "pronunciation": "[ˈdɪfrənt]",
+    "examples": {
+      "simple": "She wears different clothes every day.",
+      "complex": "People have different opinions based on their experiences and beliefs.",
+      "general": "This is a different approach."
+    },
+    "examples_az": {
+      "simple": "O, hər gün fərqli paltar geyinir.",
+      "complex": "İnsanların təcrübələrinə və inanclarına əsasən fərqli fikirləri var.",
+      "general": "Bu fərqli bir yanaşmadır."
+    }
+  },
+  {
+    "word": "differently",
+    "level": "A2",
+    "translation": "fərqli şəkildə",
+    "pronunciation": "[ˈdɪfrəntli]",
+    "examples": {
+      "simple": "We think differently.",
+      "complex": "People respond differently to the same stimulus based on past experiences.",
+      "general": "She behaves differently now."
+    },
+    "examples_az": {
+      "simple": "Biz fərqli düşünürük.",
+      "complex": "İnsanlar keçmiş təcrübələrinə əsasən eyni stimula fərqli reaksiya verirlər.",
+      "general": "O, indi fərqli davranır."
+    }
+  },
+  {
+    "word": "difficult",
+    "level": "A1",
+    "translation": "çətin",
+    "pronunciation": "[ˈdɪfɪkəlt]",
+    "examples": {
+      "simple": "This task is difficult.",
+      "complex": "Learning a new language can be difficult without regular practice.",
+      "general": "It is difficult to solve this problem."
+    },
+    "examples_az": {
+      "simple": "Bu tapşırıq çətindir.",
+      "complex": "Yeni dil öyrənmək müntəzəm məşq olmadan çətin ola bilər.",
+      "general": "Bu problemi həll etmək çətindir."
+    }
+  },
+  {
+    "word": "difficulty",
+    "level": "B1",
+    "translation": "çətinlik",
+    "pronunciation": "[ˈdɪfɪkəlti]",
+    "examples": {
+      "simple": "I had difficulty opening the door.",
+      "complex": "She overcame many difficulties to achieve her academic goals.",
+      "general": "The task caused some difficulty."
+    },
+    "examples_az": {
+      "simple": "Qapını açmaqda çətinlik çəkdim.",
+      "complex": "O, akademik məqsədlərinə çatmaq üçün çoxlu çətinlikləri aşdı.",
+      "general": "Tapşırıq müəyyən çətinlik yaratdı."
+    }
+  },
+  {
+    "word": "dig",
+    "level": "B2",
+    "translation": "qazmaq",
+    "pronunciation": "[dɪɡ]",
+    "examples": {
+      "simple": "They dig a hole.",
+      "complex": "Archaeologists dig carefully to uncover ancient artifacts.",
+      "general": "He dug in the garden."
+    },
+    "examples_az": {
+      "simple": "Onlar dəlik qazırlar.",
+      "complex": "Arxeoloqlar qədim əşyaları aşkar etmək üçün diqqətlə qazırlar.",
+      "general": "O, bağda qazdı."
+    }
+  },
+  {
+    "word": "digital",
+    "level": "A2",
+    "translation": "rəqəmsal",
+    "pronunciation": "[ˈdɪdʒɪtl]",
+    "examples": {
+      "simple": "I use a digital watch.",
+      "complex": "Digital technology has transformed communication and education worldwide.",
+      "general": "This is a digital device."
+    },
+    "examples_az": {
+      "simple": "Mən rəqəmsal saatdan istifadə edirəm.",
+      "complex": "Rəqəmsal texnologiya dünya üzrə ünsiyyət və təhsili dəyişdirib.",
+      "general": "Bu, rəqəmsal cihazdır."
+    }
+  },
+  {
+    "word": "dinner",
+    "level": "A1",
+    "translation": "nahar, şam yeməyi",
+    "pronunciation": "[ˈdɪnər]",
+    "examples": {
+      "simple": "We have dinner at 7 PM.",
+      "complex": "They invited their neighbors for a formal dinner to celebrate the holiday.",
+      "general": "Dinner was delicious."
+    },
+    "examples_az": {
+      "simple": "Biz nahar saat 7-də yeyirik.",
+      "complex": "Onlar bayramı qeyd etmək üçün qonşularını rəsmi şam yeməyinə dəvət etdilər.",
+      "general": "Nahar ləzzətli idi."
+    }
+  },
+  {
+    "word": "direct",
+    "level": "A2/B1",
+    "translation": "birbaşa / istiqamət göstərmək",
+    "pronunciation": "[dɪˈrekt]",
+    "examples": {
+      "simple": "Take a direct route.",
+      "complex": "He directed the team efficiently to complete the project ahead of schedule.",
+      "general": "The flight is direct."
+    },
+    "examples_az": {
+      "simple": "Birbaşa marşrut götür.",
+      "complex": "O, layihəni vaxtından əvvəl tamamlamaları üçün komandaya səmərəli rəhbərlik etdi.",
+      "general": "Uçuş birbaşa idi."
+    }
+  },
+  {
+    "word": "direction",
+    "level": "A2",
+    "translation": "istiqamət",
+    "pronunciation": "[dɪˈrekʃən]",
+    "examples": {
+      "simple": "Which direction should we go?",
+      "complex": "The compass helped them maintain the correct direction in the forest.",
+      "general": "He changed the direction of the project."
+    },
+    "examples_az": {
+      "simple": "Hansı istiqamətə getməliyik?",
+      "complex": "Kompas onlara meşədə düzgün istiqaməti qorumağa kömək etdi.",
+      "general": "O, layihənin istiqamətini dəyişdi."
+    }
+  },
+  {
+    "word": "directly",
+    "level": "B1",
+    "translation": "birbaşa",
+    "pronunciation": "[dəˈrektli]",
+    "examples": {
+      "simple": "He spoke directly to the manager.",
+      "complex": "The information was sent directly to the relevant department without delay.",
+      "general": "She answered directly."
+    },
+    "examples_az": {
+      "simple": "O, menecerə birbaşa danışdı.",
+      "complex": "Məlumat gecikmədən müvafiq şöbəyə birbaşa göndərildi.",
+      "general": "O, birbaşa cavab verdi."
+    }
+  },
+  {
+    "word": "director",
+    "level": "A2",
+    "translation": "direktor, rejissor",
+    "pronunciation": "[dəˈrektər]",
+    "examples": {
+      "simple": "The director called a meeting.",
+      "complex": "The film director coordinated the actors and crew to bring the script to life.",
+      "general": "He is the director of the company."
+    },
+    "examples_az": {
+      "simple": "Direktor iclas çağırdı.",
+      "complex": "Film rejissoru ssenarini həyata keçirmək üçün aktyorları və heyəti əlaqələndirdi.",
+      "general": "O, şirkətin direktorudur."
+    }
+  },
+  {
+    "word": "dirt",
+    "level": "B1",
+    "translation": "torpaq, çirk",
+    "pronunciation": "[dɜːrt]",
+    "examples": {
+      "simple": "There is dirt on the floor.",
+      "complex": "The workers removed layers of dirt and debris from the construction site.",
+      "general": "Dirt covered the shoes."
+    },
+    "examples_az": {
+      "simple": "Mərtəbədə torpaq var.",
+      "complex": "İşçilər tikinti sahəsindən torpaq və qalıqları təmizlədilər.",
+      "general": "Ayaqqabılar torpaqla örtülmüşdü."
+    }
+  },
+  {
+    "word": "dirty",
+    "level": "A1",
+    "translation": "çirkli, kirlənmiş",
+    "pronunciation": "[ˈdɜːrti]",
+    "examples": {
+      "simple": "Your clothes are dirty.",
+      "complex": "The children got dirty after playing in the mud all afternoon.",
+      "general": "The room is dirty."
+    },
+    "examples_az": {
+      "simple": "Sənin paltarın çirkli idi.",
+      "complex": "Uşaqlar bütün gün palçıqda oynadıqdan sonra çirkli oldular.",
+      "general": "Otaq çirkli idi."
+    }
+  },
+  {
+    "word": "disadvantage",
+    "level": "B1",
+    "translation": "dezavantaj, mənfi cəhət",
+    "pronunciation": "[ˌdɪsədˈvæntɪdʒ]",
+    "examples": {
+      "simple": "One disadvantage is the cost.",
+      "complex": "Living in a big city has disadvantages such as high living expenses and noise.",
+      "general": "He saw the disadvantage clearly."
+    },
+    "examples_az": {
+      "simple": "Bir dezavantaj qiymətdir.",
+      "complex": "Böyük şəhərdə yaşamağın yüksək yaşam xərcləri və səs-küy kimi dezavantajları var.",
+      "general": "O, dezavantajı aydın gördü."
+    }
+  },
+  {
+    "word": "disagree",
+    "level": "A2",
+    "translation": "razılaşmamaq",
+    "pronunciation": "[ˌdɪsəˈɡriː]",
+    "examples": {
+      "simple": "I disagree with you.",
+      "complex": "We respectfully disagree on the approach to solving the problem.",
+      "general": "They disagree about politics."
+    },
+    "examples_az": {
+      "simple": "Mən səninlə razı deyiləm.",
+      "complex": "Biz problemi həll etmək yanaşması barədə hörmətlə razılaşmırıq.",
+      "general": "Onlar siyasət haqqında razılaşmırlar."
+    }
+  },
+  {
+    "word": "disappear",
+    "level": "A2",
+    "translation": "itmək, yox olmaq",
+    "pronunciation": "[ˌdɪsəˈpɪr]",
+    "examples": {
+      "simple": "The sun will disappear soon.",
+      "complex": "The magician made the rabbit disappear from the hat.",
+      "general": "The plane disappeared from radar."
+    },
+    "examples_az": {
+      "simple": "Günəş tezliklə yox olacaq.",
+      "complex": "Sehrbaz dovşanı şlyapadan yox etdi.",
+      "general": "Təyyarə radar ekranından yox oldu."
+    }
+  },
+  {
+    "word": "disappointed",
+    "level": "B1",
+    "translation": "məyus, ümid qırıcı",
+    "pronunciation": "[ˌdɪsəˈpɔɪntɪd]",
+    "examples": {
+      "simple": "I am disappointed with the results.",
+      "complex": "She was disappointed that her team did not meet the project goals.",
+      "general": "He felt disappointed after the game."
+    },
+    "examples_az": {
+      "simple": "Nəticələrdən məyusam.",
+      "complex": "O, komandası layihə məqsədlərinə çatmadığı üçün məyus oldu.",
+      "general": "O, oyundan sonra məyus oldu."
+    }
+  },
+  {
+    "word": "disappointing",
+    "level": "B1",
+    "translation": "məyus edən, ümid qırıcı",
+    "pronunciation": "[ˌdɪsəˈpɔɪntɪŋ]",
+    "examples": {
+      "simple": "The movie was disappointing.",
+      "complex": "It was disappointing that the event was canceled at the last minute.",
+      "general": "Disappointing results discouraged the team."
+    },
+    "examples_az": {
+      "simple": "Film məyus etdi.",
+      "complex": "Hadisənin son dəqiqədə ləğv edilməsi məyusedici idi.",
+      "general": "Məyusedici nəticələr komandayı ruhdan saldı."
+    }
+  },
+  {
+    "word": "disaster",
+    "level": "A2",
+    "translation": "fəlakət, bəla",
+    "pronunciation": "[dɪˈzæstər]",
+    "examples": {
+      "simple": "The earthquake was a disaster.",
+      "complex": "Natural disasters like floods and earthquakes cause massive damage to communities.",
+      "general": "It was a financial disaster."
+    },
+    "examples_az": {
+      "simple": "Zəlzələ fəlakət oldu.",
+      "complex": "Təbii fəlakətlər, məsələn, daşqınlar və zəlzələlər icmalara böyük zərər verir.",
+      "general": "Bu maliyyə fəlakəti idi."
+    }
+  },
+  {
+    "word": "discipline",
+    "level": "B2",
+    "translation": "intizam, disiplin",
+    "pronunciation": "[ˈdɪsɪplɪn]",
+    "examples": {
+      "simple": "Students need discipline.",
+      "complex": "Discipline in the workplace ensures productivity and adherence to rules.",
+      "general": "He lost discipline during the project."
+    },
+    "examples_az": {
+      "simple": "Tələbələr intizama ehtiyac duyurlar.",
+      "complex": "İş yerində intizam məhsuldarlığı və qaydalara riayət edilməsini təmin edir.",
+      "general": "O, layihə zamanı intizamını itirdi."
+    }
+  },
+  {
+    "word": "discount",
+    "level": "B1/B2",
+    "translation": "endirim, endirim etmək",
+    "pronunciation": "[ˈdɪskaʊnt]",
+    "examples": {
+      "simple": "There is a discount on shoes.",
+      "complex": "The store decided to discount items to attract more customers during the holiday season.",
+      "general": "They offered a discount on the service."
+    },
+    "examples_az": {
+      "simple": "Ayaqqabılara endirim var.",
+      "complex": "Mağaza bayram mövsümündə daha çox müştəri cəlb etmək üçün məhsullara endirim etməyə qərar verdi.",
+      "general": "Onlar xidmətə endirim təklif etdilər."
+    }
+  },
+  {
+    "word": "discover",
+    "level": "A2",
+    "translation": "kəşf etmək",
+    "pronunciation": "[dɪˈskʌvər]",
+    "examples": {
+      "simple": "I want to discover new places.",
+      "complex": "Scientists discovered a new species of bird in the rainforest.",
+      "general": "He discovered an old photograph."
+    },
+    "examples_az": {
+      "simple": "Mən yeni yerləri kəşf etmək istəyirəm.",
+      "complex": "Alimlər yağış meşəsində yeni quş növü kəşf etdilər.",
+      "general": "O, köhnə bir şəkil kəşf etdi."
+    }
+  },
+  {
+    "word": "discovery",
+    "level": "A2",
+    "translation": "kəşf, aşkar etmə",
+    "pronunciation": "[dɪˈskʌvəri]",
+    "examples": {
+      "simple": "The discovery was exciting.",
+      "complex": "The discovery of penicillin revolutionized medicine in the 20th century.",
+      "general": "This is an important discovery."
+    },
+    "examples_az": {
+      "simple": "Kəşf həyəcanlı idi.",
+      "complex": "Penisilinin kəşfi 20-ci əsrdə tibb sahəsində inqilab yaratdı.",
+      "general": "Bu vacib bir kəşfdir."
+    }
+  },
+  {
+    "word": "discuss",
+    "level": "A1",
+    "translation": "müzakirə etmək",
+    "pronunciation": "[dɪˈskʌs]",
+    "examples": {
+      "simple": "Let's discuss the plan.",
+      "complex": "We discussed the pros and cons of the proposal in detail.",
+      "general": "They discussed the topic seriously."
+    },
+    "examples_az": {
+      "simple": "Gəlin planı müzakirə edək.",
+      "complex": "Biz təklifin üstün və mənfi cəhətlərini ətraflı müzakirə etdik.",
+      "general": "Onlar mövzunu ciddi müzakirə etdilər."
+    }
+  },
+  {
+    "word": "discussion",
+    "level": "A2",
+    "translation": "müzakirə, fikir mübadiləsi",
+    "pronunciation": "[dɪˈskʌʃən]",
+    "examples": {
+      "simple": "We had a discussion about the book.",
+      "complex": "The discussion helped clarify misunderstandings and reach a consensus.",
+      "general": "Discussion was productive."
+    },
+    "examples_az": {
+      "simple": "Kitab haqqında müzakirə etdik.",
+      "complex": "Müzakirə yanlış anlaşılmaları aydınlaşdırmağa və razılığa gəlməyə kömək etdi.",
+      "general": "Müzakirə məhsuldar oldu."
+    }
+  },
+  {
+    "word": "disease",
+    "level": "A2",
+    "translation": "xəstəlik",
+    "pronunciation": "[dɪˈziːz]",
+    "examples": {
+      "simple": "Malaria is a dangerous disease.",
+      "complex": "Scientists are researching ways to prevent and treat infectious diseases.",
+      "general": "He suffered from a rare disease."
+    },
+    "examples_az": {
+      "simple": "Malariya təhlükəli bir xəstəlikdir.",
+      "complex": "Alimlər yoluxucu xəstəlikləri qarşısını almaq və müalicə etmək yollarını araşdırırlar.",
+      "general": "O, nadir xəstəlikdən əziyyət çəkirdi."
+    }
+  },
+  {
+    "word": "dish",
+    "level": "A1",
+    "translation": "yemək, boşqab",
+    "pronunciation": "[dɪʃ]",
+    "examples": {
+      "simple": "I cooked a new dish.",
+      "complex": "The chef prepared a dish that combined flavors from different cuisines.",
+      "general": "This is my favorite dish."
+    },
+    "examples_az": {
+      "simple": "Mən yeni yemək bişirdim.",
+      "complex": "Aşpaz müxtəlif mətbəxlərin ləzzətlərini birləşdirən yemək hazırladı.",
+      "general": "Bu mənim sevimli yeməyimdir."
+    }
+  },
+  {
+    "word": "dishonest",
+    "level": "B2",
+    "translation": "sədaqətsiz, dürüst olmayan",
+    "pronunciation": "[dɪsˈɒnɪst]",
+    "examples": {
+      "simple": "He is dishonest.",
+      "complex": "Being dishonest in business can lead to serious legal consequences.",
+      "general": "Dishonest behavior is unacceptable."
+    },
+    "examples_az": {
+      "simple": "O, dürüst deyil.",
+      "complex": "Biznesdə sədaqətsiz olmaq ciddi hüquqi nəticələrə gətirib çıxara bilər.",
+      "general": "Dürüst olmayan davranış qəbuledilməzdir."
+    }
+  },
+  {
+    "word": "disk",
+    "level": "B2",
+    "translation": "disk, kompüter diski",
+    "pronunciation": "[dɪsk]",
+    "examples": {
+      "simple": "Save the file on the disk.",
+      "complex": "The technician replaced the faulty disk to restore the computer system.",
+      "general": "The disk is full."
+    },
+    "examples_az": {
+      "simple": "Faylı diskə yadda saxla.",
+      "complex": "Texnik kompüter sistemini bərpa etmək üçün pozulmuş diski dəyişdirdi.",
+      "general": "Disk doludur."
+    }
+  },
+  {
+    "word": "dislike",
+    "level": "B1",
+    "translation": "xoşlamamaq",
+    "pronunciation": "[dɪsˈlaɪk]",
+    "examples": {
+      "simple": "I dislike broccoli.",
+      "complex": "She dislikes when people interrupt her while she is working.",
+      "general": "He has a dislike for loud noises."
+    },
+    "examples_az": {
+      "simple": "Mən brokkolunu xoşlamıram.",
+      "complex": "O, iş zamanı insanlar onu kəsdikdə xoşlamır.",
+      "general": "Onun yüksək səslərə qarşı xoşagəlməzliyi var."
+    }
+  },
+  {
+    "word": "dismiss",
+    "level": "B2",
+    "translation": "işdən çıxarmaq, rədd etmək",
+    "pronunciation": "[dɪsˈmɪs]",
+    "examples": {
+      "simple": "They dismissed the worker.",
+      "complex": "The manager dismissed the complaint after careful review of the facts.",
+      "general": "He was dismissed from the position."
+    },
+    "examples_az": {
+      "simple": "Onlar işçini işdən çıxardı.",
+      "complex": "Menecer faktları diqqətlə nəzərdən keçirdikdən sonra şikayəti rədd etdi.",
+      "general": "O, vəzifədən çıxarıldı."
+    }
+  },
+  {
+    "word": "display",
+    "level": "B2",
+    "translation": "göstərmək, sərgiləmək",
+    "pronunciation": "[dɪˈspleɪ]",
+    "examples": {
+      "simple": "Display the photo on the wall.",
+      "complex": "The museum displays historical artifacts for educational purposes.",
+      "general": "The screen displays the information clearly."
+    },
+    "examples_az": {
+      "simple": "Şəkli divara as.",
+      "complex": "Muzey tarixi əşyaları tədris məqsədi ilə sərgiləyir.",
+      "general": "Ekran məlumatları aydın göstərir."
+    }
+  },
+  {
+    "word": "distance",
+    "level": "A2",
+    "translation": "məsafə",
+    "pronunciation": "[ˈdɪstəns]",
+    "examples": {
+      "simple": "The distance is 5 km.",
+      "complex": "Maintaining a safe distance while driving reduces the risk of accidents.",
+      "general": "The distance between the cities is long."
+    },
+    "examples_az": {
+      "simple": "Məsafə 5 km-dir.",
+      "complex": "Sürərkən təhlükəsiz məsafəni qorumaq qəzaların riskini azaldır.",
+      "general": "Şəhərlər arasındakı məsafə uzundur."
+    }
+  },
+  {
+    "word": "distribute",
+    "level": "B2",
+    "translation": "paylamaq, bölüşdürmək",
+    "pronunciation": "[dɪˈstrɪbjuːt]",
+    "examples": {
+      "simple": "They distribute food to the poor.",
+      "complex": "The organization distributes resources efficiently to reach all affected communities.",
+      "general": "He distributed the papers."
+    },
+    "examples_az": {
+      "simple": "Onlar kasıblara yemək paylayır.",
+      "complex": "Təşkilat bütün təsirlənmiş icmalara çatmaq üçün resursları səmərəli şəkildə paylayır.",
+      "general": "O, sənədləri payladı."
+    }
+  },
+  {
+    "word": "distribution",
+    "level": "B2",
+    "translation": "paylama, bölgü",
+    "pronunciation": "[ˌdɪstrɪˈbjuːʃən]",
+    "examples": {
+      "simple": "The distribution of gifts was fair.",
+      "complex": "The company manages the distribution of products across multiple countries carefully.",
+      "general": "Distribution is key to logistics."
+    },
+    "examples_az": {
+      "simple": "Hədiyyələrin paylanması ədalətli idi.",
+      "complex": "Şirkət məhsulların bir neçə ölkəyə paylanmasını diqqətlə idarə edir.",
+      "general": "Bölgü logistikanın açarıdır."
+    }
+  },
+  {
+    "word": "district",
+    "level": "B1",
+    "translation": "rayon, ərazi",
+    "pronunciation": "[ˈdɪstrɪkt]",
+    "examples": {
+      "simple": "I live in this district.",
+      "complex": "The city is divided into several districts for administrative purposes.",
+      "general": "The district is busy today."
+    },
+    "examples_az": {
+      "simple": "Mən bu rayonda yaşayıram.",
+      "complex": "Şəhər inzibati məqsədlər üçün bir neçə rayonlara bölünüb.",
+      "general": "Bu rayon bu gün məşğuldur."
+    }
+  },
+  {
+    "word": "divide",
+    "level": "B1/B2",
+    "translation": "bölmək, ayırmaq",
+    "pronunciation": "[dɪˈvaɪd]",
+    "examples": {
+      "simple": "Divide the cake into pieces.",
+      "complex": "The country was divided politically after the election results were announced.",
+      "general": "They divided the tasks among the team."
+    },
+    "examples_az": {
+      "simple": "Tortu hissələrə böl.",
+      "complex": "Seçki nəticələri elan edildikdən sonra ölkə siyasi baxımdan bölündü.",
+      "general": "Onlar tapşırıqları komandaya bölüşdürdülər."
+    }
+  },
+  {
+    "word": "division",
+    "level": "B2",
+    "translation": "bölmə, seqment",
+    "pronunciation": "[dɪˈvɪʒən]",
+    "examples": {
+      "simple": "The division of labor is clear.",
+      "complex": "Corporate divisions manage different aspects of the business independently.",
+      "general": "Division helps organize work efficiently."
+    },
+    "examples_az": {
+      "simple": "Əmək bölgüsü aydındır.",
+      "complex": "Korporativ bölmələr işin fərqli tərəflərini müstəqil idarə edirlər.",
+      "general": "Bölmə işi səmərəli təşkil etməyə kömək edir."
+    }
+  },
+  {
+    "word": "divorced",
+    "level": "A2",
+    "translation": "boşanmış",
+    "pronunciation": "[dɪˈvɔːrst]",
+    "examples": {
+      "simple": "She is divorced.",
+      "complex": "After years of marriage, they divorced due to irreconcilable differences.",
+      "general": "He is a divorced man."
+    },
+    "examples_az": {
+      "simple": "O, boşanıb.",
+      "complex": "Uzun illər evli olduqdan sonra onlar uzlaşmaz fərqlər səbəbindən boşandılar.",
+      "general": "O, boşanmış bir kişidir."
+    }
+  },
+  {
+    "word": "do1",
+    "level": "A1",
+    "translation": "etmək (fell və köməkçi fellik)",
+    "pronunciation": "[duː]",
+    "examples": {
+      "simple": "I do my homework.",
+      "complex": "She did her best to complete the task despite limited resources.",
+      "general": "Do not forget to lock the door."
+    },
+    "examples_az": {
+      "simple": "Mən ev tapşırığımı edirəm.",
+      "complex": "O, məhdud resurslara baxmayaraq tapşırığı tamamlamaq üçün əlinə düşənin ən yaxşısını etdi.",
+      "general": "Qapını bağlamağı unutma."
+    }
+  },
+  {
+    "word": "doctor",
+    "level": "A1",
+    "translation": "həkim",
+    "pronunciation": "[ˈdɒktər]",
+    "examples": {
+      "simple": "The doctor is kind.",
+      "complex": "The doctor examined the patient and prescribed the appropriate treatment.",
+      "general": "She became a doctor."
+    },
+    "examples_az": {
+      "simple": "Həkim mehribandır.",
+      "complex": "Həkim xəstəni müayinə etdi və uyğun müalicə təyin etdi.",
+      "general": "O, həkim oldu."
+    }
+  },
+  {
+    "word": "document",
+    "level": "A2/B2",
+    "translation": "sənəd, sənədləşdirmək",
+    "pronunciation": "[ˈdɒk.jʊ.mənt]",
+    "examples": {
+      "simple": "Sign the document.",
+      "complex": "The lawyer documented every step of the negotiation for legal purposes.",
+      "general": "The document is important."
+    },
+    "examples_az": {
+      "simple": "Sənədi imzala.",
+      "complex": "Hüquqşünas hüquqi məqsədlər üçün danışıqların hər addımını sənədləşdirdi.",
+      "general": "Sənəd vacibdir."
+    }
+  },
+  {
+    "word": "documentary",
+    "level": "B1",
+    "translation": "sənədli film",
+    "pronunciation": "[ˌdɒk.jʊˈmen.tər.i]",
+    "examples": {
+      "simple": "I watched a documentary.",
+      "complex": "The documentary explores climate change and its global impact in detail.",
+      "general": "The documentary is informative."
+    },
+    "examples_az": {
+      "simple": "Mən sənədli film izlədim.",
+      "complex": "Sənədli film iqlim dəyişikliyi və onun qlobal təsirini ətraflı araşdırır.",
+      "general": "Sənədli film məlumatvericidir."
+    }
+  },
+  {
+    "word": "dog",
+    "level": "A1",
+    "translation": "it",
+    "pronunciation": "[dɒɡ]",
+    "examples": {
+      "simple": "The dog is cute.",
+      "complex": "Dogs are loyal animals that often serve as companions and protectors.",
+      "general": "I have a dog."
+    },
+    "examples_az": {
+      "simple": "İt sevimlidir.",
+      "complex": "İtlər sədaqətli heyvanlardır və tez-tez yoldaş və qoruyucu kimi xidmət edirlər.",
+      "general": "Mənim bir itim var."
+    }
+  },
+  {
+    "word": "dollar",
+    "level": "A1",
+    "translation": "dollar",
+    "pronunciation": "[ˈdɒlər]",
+    "examples": {
+      "simple": "I have one dollar.",
+      "complex": "The value of the dollar fluctuates against other currencies in the global market.",
+      "general": "He paid ten dollars."
+    },
+    "examples_az": {
+      "simple": "Mənim bir dollarım var.",
+      "complex": "Dolların dəyəri qlobal bazarda digər valyutalara qarşı dəyişir.",
+      "general": "O, on dollar ödəyib."
+    }
+  },
+  {
+    "word": "domestic",
+    "level": "B2",
+    "translation": "daxili, evlə bağlı",
+    "pronunciation": "[dəˈmestɪk]",
+    "examples": {
+      "simple": "Domestic animals are common.",
+      "complex": "Domestic policies focus on improving the country's internal affairs and economy.",
+      "general": "Domestic flights are cheaper."
+    },
+    "examples_az": {
+      "simple": "Ev heyvanları yaygındır.",
+      "complex": "Daxili siyasətlər ölkənin daxili işləri və iqtisadiyyatını yaxşılaşdırmağa yönəlir.",
+      "general": "Daxili uçuşlar daha ucuzdur."
+    }
+  },
+  {
+    "word": "dominate",
+    "level": "B2",
+    "translation": "hakim olmaq, üstünlük qazanmaq",
+    "pronunciation": "[ˈdɒmɪneɪt]",
+    "examples": {
+      "simple": "They dominate the market.",
+      "complex": "The company aims to dominate the tech industry through innovation and strategic acquisitions.",
+      "general": "He dominated the competition."
+    },
+    "examples_az": {
+      "simple": "Onlar bazarda üstünlük qazanırlar.",
+      "complex": "Şirkət innovasiya və strateji satınalmalar vasitəsilə texnologiya sənayesində hakim olmağı hədəfləyir.",
+      "general": "O, rəqabətdə üstün oldu."
+    }
+  },
+  {
+    "word": "donate",
+    "level": "B1",
+    "translation": "ianə etmək",
+    "pronunciation": "[ˈdoʊneɪt]",
+    "examples": {
+      "simple": "I donate clothes to charity.",
+      "complex": "They donated a large sum of money to support education for underprivileged children.",
+      "general": "He donated blood yesterday."
+    },
+    "examples_az": {
+      "simple": "Mən xeyriyyəyə paltar ianə edirəm.",
+      "complex": "Onlar imkansız uşaqlar üçün təhsili dəstəkləmək üçün böyük məbləğdə pul ianə etdilər.",
+      "general": "O, dünən qan verdi."
+    }
+  },
+  {
+    "word": "door",
+    "level": "A1",
+    "translation": "qapı",
+    "pronunciation": "[dɔːr]",
+    "examples": {
+      "simple": "Close the door.",
+      "complex": "The security guard monitored every door to ensure no unauthorized access.",
+      "general": "The door is open."
+    },
+    "examples_az": {
+      "simple": "Qapını bağla.",
+      "complex": "Təhlükəsizlik işçisi icazəsiz girişin qarşısını almaq üçün hər qapını izləyirdi.",
+      "general": "Qapı açıqdır."
+    }
+  },
+  {
+    "word": "double",
+    "level": "A2/B1",
+    "translation": "ikiqat, ikiqat etmək",
+    "pronunciation": "[ˈdʌbl]",
+    "examples": {
+      "simple": "I need a double portion.",
+      "complex": "The company doubled its production to meet the growing demand.",
+      "general": "The recipe requires double the amount."
+    },
+    "examples_az": {
+      "simple": "Mənə ikiqat porsiya lazımdır.",
+      "complex": "Şirkət artan tələbi qarşılamaq üçün istehsalını ikiqat artırdı.",
+      "general": "Resept ikiqat miqdar tələb edir."
+    }
+  },
+  {
+    "word": "doubt",
+    "level": "B1",
+    "translation": "şübhə, şübhələnmək",
+    "pronunciation": "[daʊt]",
+    "examples": {
+      "simple": "I doubt his story.",
+      "complex": "There is little doubt that technology will continue to shape our future.",
+      "general": "He had doubts about the plan."
+    },
+    "examples_az": {
+      "simple": "Mən onun hekayəsindən şübhələnirəm.",
+      "complex": "Texnologiyanın gələcəyimizi formalaşdırmağa davam edəcəyinə az şübhə var.",
+      "general": "O, plan barədə şübhələrə sahib idi."
+    }
+  },
+  {
+    "word": "down",
+    "level": "A1",
+    "translation": "aşağı, aşağıya",
+    "pronunciation": "[daʊn]",
+    "examples": {
+      "simple": "Sit down, please.",
+      "complex": "The temperature went down sharply overnight.",
+      "general": "He fell down."
+    },
+    "examples_az": {
+      "simple": "Otur, zəhmət olmasa.",
+      "complex": "Temperatur gecə boyu kəskin şəkildə aşağı düşdü.",
+      "general": "O, yıxıldı."
+    }
+  },
+  {
+    "word": "download",
+    "level": "A2",
+    "translation": "yükləmək",
+    "pronunciation": "[ˈdaʊnˌloʊd]",
+    "examples": {
+      "simple": "I download music from the internet.",
+      "complex": "Users can download software updates to improve performance and security.",
+      "general": "Download the file before the meeting."
+    },
+    "examples_az": {
+      "simple": "Mən musiqini internetdən yükləyirəm.",
+      "complex": "İstifadəçilər performansı və təhlükəsizliyi artırmaq üçün proqram yeniləmələrini yükləyə bilərlər.",
+      "general": "Görüşdən əvvəl faylı yüklə."
+    }
+  },
+  {
+    "word": "downstairs",
+    "level": "A1",
+    "translation": "aşağı mərtəbədə",
+    "pronunciation": "[ˌdaʊnˈstɛərz]",
+    "examples": {
+      "simple": "Go downstairs.",
+      "complex": "The children ran downstairs to see the surprise waiting for them.",
+      "general": "The kitchen is downstairs."
+    },
+    "examples_az": {
+      "simple": "Aşağı mərtəbəyə get.",
+      "complex": "Uşaqlar onları gözləyən sürprizi görmək üçün aşağı mərtəbəyə qaçdılar.",
+      "general": "Mətbəx aşağı mərtəbədədir."
+    }
+  },
+  {
+    "word": "downtown",
+    "level": "A2",
+    "translation": "şəhərin mərkəzi",
+    "pronunciation": "[ˈdaʊnˌtaʊn]",
+    "examples": {
+      "simple": "I went downtown.",
+      "complex": "They opened a new restaurant downtown to attract more customers.",
+      "general": "Downtown is very busy today."
+    },
+    "examples_az": {
+      "simple": "Mən şəhərin mərkəzinə getdim.",
+      "complex": "Onlar daha çox müştəri cəlb etmək üçün şəhərin mərkəzində yeni restoran açdılar.",
+      "general": "Bu gün şəhərin mərkəzi çox məşğuldur."
+    }
+  },
+  {
+    "word": "downward",
+    "level": "B2",
+    "translation": "aşağıya doğru",
+    "pronunciation": "[ˈdaʊnwərd]",
+    "examples": {
+      "simple": "Prices are moving downward.",
+      "complex": "The company's profits have been on a downward trend for several quarters.",
+      "general": "The plane moved downward slowly."
+    },
+    "examples_az": {
+      "simple": "Qiymətlər aşağıya doğru gedir.",
+      "complex": "Şirkətin mənfəətləri bir neçə rübdür ki, aşağıya doğru meyllidir.",
+      "general": "Təyyarə yavaş-yavaş aşağıya hərəkət etdi."
+    }
+  },
+  {
+    "word": "dozen",
+    "level": "B2",
+    "translation": "onluq, onluq sayda",
+    "pronunciation": "[ˈdʌzən]",
+    "examples": {
+      "simple": "I bought a dozen eggs.",
+      "complex": "The bakery sells dozens of pastries every morning to meet high demand.",
+      "general": "He ordered a dozen books."
+    },
+    "examples_az": {
+      "simple": "Mən on yumurta aldım.",
+      "complex": "Çörəkçi yüksək tələbatı qarşılamaq üçün hər səhər onlarla şirniyyat satır.",
+      "general": "O, on kitab sifariş etdi."
+    }
+  },
+  {
+    "word": "draft",
+    "level": "B2",
+    "translation": "qaba taslak, layihə / yazmaq",
+    "pronunciation": "[drɑːft]",
+    "examples": {
+      "simple": "I wrote a draft of the essay.",
+      "complex": "The team drafted a plan to improve efficiency in the workflow.",
+      "general": "He sent the draft to his boss."
+    },
+    "examples_az": {
+      "simple": "Mən esse üçün taslak yazdım.",
+      "complex": "Komanda iş axınında səmərəliliyi artırmaq üçün plan hazırladı.",
+      "general": "O, taslağı müdiri göndərdi."
+    }
+  },
+  {
+    "word": "drag",
+    "level": "B2",
+    "translation": "çəkmək, sürükləmək",
+    "pronunciation": "[dræɡ]",
+    "examples": {
+      "simple": "Drag the box to the corner.",
+      "complex": "He dragged the heavy furniture across the room with difficulty.",
+      "general": "She dragged her bag behind her."
+    },
+    "examples_az": {
+      "simple": "Qutunu küncə çək.",
+      "complex": "O, ağır mebelləri çətinliklə otaq boyu çəkdi.",
+      "general": "O, çantasını arxasında sürüklədi."
+    }
+  },
+  {
+    "word": "drama",
+    "level": "A2",
+    "translation": "drama, teatr əsəri",
+    "pronunciation": "[ˈdrɑːmə]",
+    "examples": {
+      "simple": "I like drama.",
+      "complex": "The school organized a drama performance to showcase students' acting skills.",
+      "general": "Drama can be emotional and engaging."
+    },
+    "examples_az": {
+      "simple": "Mən dramaları sevirəm.",
+      "complex": "Məktəb tələbələrin aktyorluq bacarıqlarını nümayiş etdirmək üçün drama tamaşası təşkil etdi.",
+      "general": "Drama emosional və maraqlı ola bilər."
+    }
+  },
+  {
+    "word": "dramatic",
+    "level": "B2",
+    "translation": "dramatik, təsirli",
+    "pronunciation": "[drəˈmætɪk]",
+    "examples": {
+      "simple": "The play had a dramatic ending.",
+      "complex": "The dramatic changes in the climate alarmed scientists worldwide.",
+      "general": "She made a dramatic entrance."
+    },
+    "examples_az": {
+      "simple": "Tamaşanın dramatik sonu var idi.",
+      "complex": "İqlimdəki dramatik dəyişikliklər alimləri dünya üzrə həyəcanlandırdı.",
+      "general": "O, dramatik şəkildə gəldi."
+    }
+  },
+  {
+    "word": "draw",
+    "level": "A1",
+    "translation": "çizmək",
+    "pronunciation": "[drɔː]",
+    "examples": {
+      "simple": "I like to draw.",
+      "complex": "She drew a detailed map of the city for her project.",
+      "general": "He draws well."
+    },
+    "examples_az": {
+      "simple": "Mən çəkməyi sevirəm.",
+      "complex": "O, layihəsi üçün şəhərin ətraflı xəritəsini çəkdi.",
+      "general": "O, yaxşı çəkir."
+    }
+  },
+  {
+    "word": "drawing",
+    "level": "A2",
+    "translation": "rəsm, çəkilmiş şəkil",
+    "pronunciation": "[ˈdrɔːɪŋ]",
+    "examples": {
+      "simple": "This is my drawing.",
+      "complex": "The students submitted their drawings as part of the art exhibition.",
+      "general": "He made a beautiful drawing."
+    },
+    "examples_az": {
+      "simple": "Bu mənim rəsmdir.",
+      "complex": "Tələbələr rəsmlərini sənət sərgisinin bir hissəsi olaraq təqdim etdilər.",
+      "general": "O, gözəl bir rəsim çəkdi."
+    }
+  },
+  {
+    "word": "dream",
+    "level": "A2",
+    "translation": "yuxu / arzu etmək",
+    "pronunciation": "[driːm]",
+    "examples": {
+      "simple": "I had a dream last night.",
+      "complex": "She dreams of becoming a doctor and helping people in need.",
+      "general": "Dreams can inspire creativity."
+    },
+    "examples_az": {
+      "simple": "Dünən gecə yuxu gördüm.",
+      "complex": "O, həkim olmağı və yardıma ehtiyacı olan insanlara kömək etməyi arzulayır.",
+      "general": "Yuxular yaradıcılığı ruhlandıra bilər."
+    }
+  },
+  {
+    "word": "dress",
+    "level": "A1",
+    "translation": "paltar / geyinmək",
+    "pronunciation": "[drɛs]",
+    "examples": {
+      "simple": "I like your dress.",
+      "complex": "She dressed carefully for the interview to make a good impression.",
+      "general": "He dresses neatly."
+    },
+    "examples_az": {
+      "simple": "Mən sənin paltarını sevirəm.",
+      "complex": "O, müsahibə üçün yaxşı təəssürat yaratmaq üçün diqqətlə geyindi.",
+      "general": "O, səliqəli geyinir."
+    }
+  },
+  {
+    "word": "dressed",
+    "level": "B1",
+    "translation": "geyimli",
+    "pronunciation": "[drɛst]",
+    "examples": {
+      "simple": "She is well dressed.",
+      "complex": "The guests were dressed elegantly for the gala event.",
+      "general": "He was dressed in a suit."
+    },
+    "examples_az": {
+      "simple": "O, yaxşı geyinib.",
+      "complex": "Qonaqlar qala tədbirinə zərif şəkildə geyinmişdilər.",
+      "general": "O, kostyumda geyinmişdi."
+    }
+  },
+  {
+    "word": "drink",
+    "level": "A1",
+    "translation": "içmək / içki",
+    "pronunciation": "[drɪŋk]",
+    "examples": {
+      "simple": "I drink water every day.",
+      "complex": "He drinks coffee while reading the newspaper in the morning.",
+      "general": "She likes to drink tea."
+    },
+    "examples_az": {
+      "simple": "Mən hər gün su içirəm.",
+      "complex": "O, səhər qəzet oxuyarkən qəhvə içir.",
+      "general": "O, çay içməyi sevir."
+    }
+  },
+  {
+    "word": "drive",
+    "level": "A1/A2",
+    "translation": "sürmək / sürmə",
+    "pronunciation": "[draɪv]",
+    "examples": {
+      "simple": "I drive to work.",
+      "complex": "She drives carefully through the busy city streets every morning.",
+      "general": "He enjoys a long drive."
+    },
+    "examples_az": {
+      "simple": "Mən işə maşınla gedirəm.",
+      "complex": "O, hər səhər sıx şəhər küçələrində diqqətlə sürür.",
+      "general": "O, uzun sürməyi sevir."
+    }
+  },
+  {
+    "word": "driver",
+    "level": "A1",
+    "translation": "sürücü",
+    "pronunciation": "[ˈdraɪvər]",
+    "examples": {
+      "simple": "The driver is kind.",
+      "complex": "The driver ensured all passengers were safe before starting the trip.",
+      "general": "He is a taxi driver."
+    },
+    "examples_az": {
+      "simple": "Sürücü mehribandır.",
+      "complex": "Sürücü səyahətə başlamazdan əvvəl bütün sərnişinlərin təhlükəsiz olduğundan əmin oldu.",
+      "general": "O, taksi sürücüsüdür."
+    }
+  },
+  {
+    "word": "driving",
+    "level": "A2",
+    "translation": "sürmə (fəaliyyət)",
+    "pronunciation": "[ˈdraɪvɪŋ]",
+    "examples": {
+      "simple": "Driving is fun.",
+      "complex": "Learning safe driving practices is essential for new drivers.",
+      "general": "She enjoys driving on weekends."
+    },
+    "examples_az": {
+      "simple": "Sürmək əyləncəlidir.",
+      "complex": "Təhlükəsiz sürmə qaydalarını öyrənmək yeni sürücülər üçün vacibdir.",
+      "general": "O, həftəsonları sürməyi sevir."
+    }
+  },
+
+  {
+    "word": "drop",
+    "level": "v. A2, n. B1",
+    "translation": "düşmək, salmaq; damla",
+    "pronunciation": "[drɒp]",
+    "examples": {
+      "simple": "Be careful not to drop the glass.",
+      "complex": "A sudden drop in temperature is expected tonight as the cold front moves in.",
+      "general": "I saw a drop of blood on the floor."
+    },
+    "examples_az": {
+      "simple": "Ehtiyatlı ol, stəkanı salma.",
+      "complex": "Soyuq cəbhə daxil olduqca bu gecə temperaturun qəfil düşməsi gözlənilir.",
+      "general": "Yerdə bir damla qan gördüm."
+    }
+  },
+  {
+    "word": "drug",
+    "level": "n. A2",
+    "translation": "dərman, narkotik",
+    "pronunciation": "[drʌɡ]",
+    "examples": {
+      "simple": "The doctor gave me a new drug.",
+      "complex": "The government is trying to reduce drug-related crimes in the city center.",
+      "general": "He was arrested for possession of illegal drugs."
+    },
+    "examples_az": {
+      "simple": "Həkim mənə yeni bir dərman verdi.",
+      "complex": "Hökumət şəhər mərkəzində narkotiklə əlaqəli cinayətləri azaltmağa çalışır.",
+      "general": "O, qanunsuz narkotik saxladığına görə həbs olundu."
+    }
+  },
+  {
+    "word": "drum",
+    "level": "n. B1",
+    "translation": "nağara, təbil",
+    "pronunciation": "[drʌm]",
+    "examples": {
+      "simple": "She plays the drums in a band.",
+      "complex": "The rhythmic beating of the drum echoed through the narrow streets of the old town.",
+      "general": "He was tapping his fingers on the table like a drum."
+    },
+    "examples_az": {
+      "simple": "O, musiqi qrupunda nağara çalır.",
+      "complex": "Təbilin ritmik səsi köhnə şəhərin dar küçələrində əks-səda verirdi.",
+      "general": "O, barmaqlarını masaya nağara kimi vururdu."
+    }
+  },
+  {
+    "word": "drunk",
+    "level": "adj. B1",
+    "translation": "sərxoş",
+    "pronunciation": "[drʌŋk]",
+    "examples": {
+      "simple": "He was too drunk to drive.",
+      "complex": "The witnesses claimed that the driver appeared to be drunk at the time of the accident.",
+      "general": "I think he's a bit drunk."
+    },
+    "examples_az": {
+      "simple": "O, maşın sürmək üçün çox sərxoş idi.",
+      "complex": "Şahidlər iddia etdilər ki, sürücü qəza zamanı sərxoş görünürmüş.",
+      "general": "Məncə o, bir az sərxoşdur."
+    }
+  },
+  {
+    "word": "dry",
+    "level": "adj., v. A2",
+    "translation": "quru; qurumaq",
+    "pronunciation": "[draɪ]",
+    "examples": {
+      "simple": "Is my shirt dry yet?",
+      "complex": "The climate here is very dry, with very little rainfall throughout the year.",
+      "general": "You need to dry your hands before touching the plug."
+    },
+    "examples_az": {
+      "simple": "Köynəyim artıq quruyub?",
+      "complex": "Burada iqlim çox qurudur, il boyu çox az yağış yağır.",
+      "general": "Ştepselə toxunmazdan əvvəl əllərini qurulamalısan."
+    }
+  },
+  {
+    "word": "due",
+    "level": "adj. B1",
+    "translation": "gözlənilən, vaxtı çatmış",
+    "pronunciation": "[djuː]",
+    "examples": {
+      "simple": "The train is due at 4 PM.",
+      "complex": "The final report is due on Friday, so we must work hard to finish it.",
+      "general": "When is the baby due?"
+    },
+    "examples_az": {
+      "simple": "Qatar saat 4-də gözlənilir.",
+      "complex": "Yekun hesabatın vaxtı cümə günüdür, ona görə də onu bitirmək üçün çox çalışmalıyıq.",
+      "general": "Körpə nə vaxt doğulmalıdır?"
+    }
+  },
+  {
+    "word": "during",
+    "level": "prep. A1",
+    "translation": "ərzində, müddətində",
+    "pronunciation": "[ˈdjʊərɪŋ]",
+    "examples": {
+      "simple": "I fell asleep during the movie.",
+      "complex": "During the summer months, the town becomes very crowded with tourists.",
+      "general": "Please remain seated during take-off."
+    },
+    "examples_az": {
+      "simple": "Film ərzində yuxuya getdim.",
+      "complex": "Yay aylarında şəhər turistlərlə çox izdihamlı olur.",
+      "general": "Xahiş edirik, uçuş zamanı yerinizdə oturasınız."
+    }
+  },
+  {
+    "word": "dust",
+    "level": "n. B1",
+    "translation": "toz",
+    "pronunciation": "[dʌst]",
+    "examples": {
+      "simple": "The table was covered in dust.",
+      "complex": "Dust particles in the air can cause allergic reactions for some people.",
+      "general": "Please wipe the dust off the books."
+    },
+    "examples_az": {
+      "simple": "Masa tozla örtülmüşdü.",
+      "complex": "Havadakı toz hissəcikləri bəzi insanlarda allergik reaksiyalara səbəb ola bilər.",
+      "general": "Zəhmət olmasa, kitabların tozunu sil."
+    }
+  },
+  {
+    "word": "duty",
+    "level": "n. B1",
+    "translation": "vəzifə, borc",
+    "pronunciation": "[ˈdjuːti]",
+    "examples": {
+      "simple": "It is my duty to help you.",
+      "complex": "The police officer was on duty when the incident occurred last night.",
+      "general": "We have a moral duty to protect the environment."
+    },
+    "examples_az": {
+      "simple": "Sizə kömək etmək mənim borcumdur.",
+      "complex": "Dünən gecə hadisə baş verəndə polis məmuru vəzifə başında idi.",
+      "general": "Ətraf mühiti qorumaq bizim mənəvi borcumuzdur."
+    }
+  },
+  {
+    "word": "DVD",
+    "level": "n. A1",
+    "translation": "DVD disk",
+    "pronunciation": "[ˌdiː viː ˈdiː]",
+    "examples": {
+      "simple": "I bought a new DVD today.",
+      "complex": "Do you still have a player that can read this old DVD?",
+      "general": "We watched the movie on DVD."
+    },
+    "examples_az": {
+      "simple": "Bu gün yeni bir DVD aldım.",
+      "complex": "Səndə hələ də bu köhnə DVD-ni oxuya bilən pleyer var?",
+      "general": "Filmə DVD-də baxdıq."
+    }
+  },
+  {
+    "word": "each",
+    "level": "det./pron./adv. A1",
+    "translation": "hər, hər biri",
+    "pronunciation": "[iːtʃ]",
+    "examples": {
+      "simple": "Each student has a book.",
+      "complex": "Each of the participants will receive a certificate at the end of the course.",
+      "general": "The tickets cost ten dollars each."
+    },
+    "examples_az": {
+      "simple": "Hər bir tələbənin kitabı var.",
+      "complex": "İştirakçıların hər biri kursun sonunda sertifikat alacaq.",
+      "general": "Biletlərin hər biri on dollaradır."
+    }
+  },
+  {
+    "word": "ear",
+    "level": "n. A1",
+    "translation": "qulaq",
+    "pronunciation": "[ɪə(r)]",
+    "examples": {
+      "simple": "She whispered in my ear.",
+      "complex": "The doctor checked my inner ear to see if there was an infection.",
+      "general": "He has very large ears."
+    },
+    "examples_az": {
+      "simple": "O, qulağıma pıçıldadı.",
+      "complex": "Həkim infeksiya olub-olmadığını yoxlamaq üçün daxili qulağımı müayinə etdi.",
+      "general": "Onun çox böyük qulaqları var."
+    }
+  },
+  {
+    "word": "early",
+    "level": "adj., adv. A1",
+    "translation": "erkən, tez",
+    "pronunciation": "[ˈɜːli]",
+    "examples": {
+      "simple": "I woke up early this morning.",
+      "complex": "Early detection of the disease is crucial for successful treatment.",
+      "general": "The bus arrived five minutes early."
+    },
+    "examples_az": {
+      "simple": "Bu səhər tez oyandım.",
+      "complex": "Xəstəliyin erkən diaqnozu uğurlu müalicə üçün həlledicidir.",
+      "general": "Avtobus beş dəqiqə tez gəldi."
+    }
+  },
+  {
+    "word": "earn",
+    "level": "v. A2",
+    "translation": "qazanmaq",
+    "pronunciation": "[ɜːn]",
+    "examples": {
+      "simple": "She earns a lot of money.",
+      "complex": "It takes years of hard work to earn a reputation as a professional expert.",
+      "general": "How much do you earn a month?"
+    },
+    "examples_az": {
+      "simple": "O, çox pul qazanır.",
+      "complex": "Peşəkar ekspert kimi reputasiya qazanmaq üçün illərlə gərgin əmək lazımdır.",
+      "general": "Ayda nə qədər qazanırsan?"
+    }
+  },
+  {
+    "word": "earth",
+    "level": "n. A2",
+    "translation": "yer kürəsi, torpaq",
+    "pronunciation": "[ɜːθ]",
+    "examples": {
+      "simple": "The Earth is round.",
+      "complex": "Protecting the Earth from climate change is our generation's biggest challenge.",
+      "general": "He dug a hole in the earth."
+    },
+    "examples_az": {
+      "simple": "Yer kürəsi yuvarlaqdır.",
+      "complex": "Yeri iqlim dəyişikliyindən qorumaq nəslimizin ən böyük problemidir.",
+      "general": "O, torpaqda bir çuxur qazdı."
+    }
+  },
+  {
+    "word": "earthquake",
+    "level": "n. B1",
+    "translation": "zəlzələ",
+    "pronunciation": "[ˈɜːθkweɪk]",
+    "examples": {
+      "simple": "The earthquake lasted ten seconds.",
+      "complex": "The earthquake caused significant damage to the city's infrastructure and buildings.",
+      "general": "Japan often experiences earthquakes."
+    },
+    "examples_az": {
+      "simple": "Zəlzələ on saniyə davam etdi.",
+      "complex": "Zəlzələ şəhərin infrastrukturuna və binalarına ciddi ziyan vurdu.",
+      "general": "Yaponiyada tez-tez zəlzələlər olur."
+    }
+  },
+  {
+    "word": "easily",
+    "level": "adv. A2",
+    "translation": "asanlıqla",
+    "pronunciation": "[ˈiːzəli]",
+    "examples": {
+      "simple": "I can do it easily.",
+      "complex": "The instructions are written so clearly that anyone can follow them easily.",
+      "general": "He gets angry very easily."
+    },
+    "examples_az": {
+      "simple": "Mən bunu asanlıqla edə bilərəm.",
+      "complex": "Təlimatlar o qədər aydın yazılıb ki, hər kəs onlara asanlıqla əməl edə bilər.",
+      "general": "O, çox asanlıqla əsəbiləşir."
+    }
+  },
+  {
+    "word": "east",
+    "level": "n., adj., adv. A1",
+    "translation": "şərq",
+    "pronunciation": "[iːst]",
+    "examples": {
+      "simple": "The sun rises in the east.",
+      "complex": "The factory is located on the east side of the industrial zone.",
+      "general": "We travelled east for three hours."
+    },
+    "examples_az": {
+      "simple": "Günəş şərqdən doğur.",
+      "complex": "Zavod sənaye zonasının şərq tərəfində yerləşir.",
+      "general": "Üç saat şərqə tərəf səyahət etdik."
+    }
+  },
+  {
+    "word": "eastern",
+    "level": "adj. B1",
+    "translation": "şərqi",
+    "pronunciation": "[ˈiːstən]",
+    "examples": {
+      "simple": "I live in eastern Europe.",
+      "complex": "Eastern cultures have different traditions regarding family and social structure.",
+      "general": "The eastern border of the country is mountainous."
+    },
+    "examples_az": {
+      "simple": "Mən Şərqi Avropada yaşayıram.",
+      "complex": "Şərq mədəniyyətlərinin ailə və sosial quruluşla bağlı fərqli ənənələri var.",
+      "general": "Ölkənin şərq sərhədi dağlıqdır."
+    }
+  },
+  {
+    "word": "easy",
+    "level": "adj. A1",
+    "translation": "asan",
+    "pronunciation": "[ˈiːzi]",
+    "examples": {
+      "simple": "This test is easy.",
+      "complex": "It is not always easy to find a balance between work and personal life.",
+      "general": "Take it easy!"
+    },
+    "examples_az": {
+      "simple": "Bu test asandır.",
+      "complex": "İş və şəxsi həyat arasında balans tapmaq həmişə asan olmur.",
+      "general": "Sakit ol! (Asan yanaş!)"
+    }
+  },
+  {
+    "word": "eat",
+    "level": "v. A1",
+    "translation": "yemək",
+    "pronunciation": "[iːt]",
+    "examples": {
+      "simple": "What do you want to eat?",
+      "complex": "Eating a balanced diet is essential for maintaining good physical health.",
+      "general": "I usually eat breakfast at 8 AM."
+    },
+    "examples_az": {
+      "simple": "Nə yemək istəyirsən?",
+      "complex": "Balanslaşdırılmış pəhrizlə qidalanmaq yaxşı fiziki sağlamlığı qorumaq üçün vacibdir.",
+      "general": "Mən adətən səhər yeməyini saat 8-də yeyirəm."
+    }
+  },
+  {
+    "word": "economic",
+    "level": "adj. B1",
+    "translation": "iqtisadi",
+    "pronunciation": "[ˌiːkəˈnɒmɪk]",
+    "examples": {
+      "simple": "The economic situation is bad.",
+      "complex": "The government is introducing new economic reforms to encourage foreign investment.",
+      "general": "Economic growth has slowed down this year."
+    },
+    "examples_az": {
+      "simple": "İqtisadi vəziyyət pisdir.",
+      "complex": "Hökumət xarici investisiyanı stimullaşdırmaq üçün yeni iqtisadi islahatlar tətbiq edir.",
+      "general": "Bu il iqtisadi artım yavaşlayıb."
+    }
+  },
+  {
+    "word": "economy",
+    "level": "n. B1",
+    "translation": "iqtisadiyyat",
+    "pronunciation": "[ɪˈkɒnəmi]",
+    "examples": {
+      "simple": "The national economy is growing.",
+      "complex": "The tourism industry plays a vital role in the country's overall economy.",
+      "general": "Global economy is facing many challenges."
+    },
+    "examples_az": {
+      "simple": "Milli iqtisadiyyat böyüyür.",
+      "complex": "Turizm sənayesi ölkənin ümumi iqtisadiyyatında mühüm rol oynayır.",
+      "general": "Qlobal iqtisadiyyat bir çox çətinliklərlə üzləşir."
+    }
+  },
+  {
+    "word": "edge",
+    "level": "n. B1",
+    "translation": "kənar, qıraq",
+    "pronunciation": "[edʒ]",
+    "examples": {
+      "simple": "Don't sit on the edge of the bed.",
+      "complex": "He stood at the very edge of the cliff, looking down at the ocean below.",
+      "general": "The knife has a very sharp edge."
+    },
+    "examples_az": {
+      "simple": "Çarpayının kənarında oturma.",
+      "complex": "O, uçurumun tam kənarında durub aşağıdakı okeana baxırdı.",
+      "general": "Bıçağın çox iti ağzı (kənarı) var."
+    }
+  },
+  {
+    "word": "edit",
+    "level": "v. B2",
+    "translation": "redaktə etmək",
+    "pronunciation": "[ˈedɪt]",
+    "examples": {
+      "simple": "I need to edit this text.",
+      "complex": "She spent all evening editing the video for her YouTube channel.",
+      "general": "Can you help me edit my essay?"
+    },
+    "examples_az": {
+      "simple": "Mən bu mətni redaktə etməliyəm.",
+      "complex": "O, bütün axşamı YouTube kanalı üçün videonu redaktə etməyə sərf etdi.",
+      "general": "Essemi redaktə etməyə kömək edə bilərsən?"
+    }
+  },
+  {
+    "word": "edition",
+    "level": "n. B2",
+    "translation": "nəşr, tiraj",
+    "pronunciation": "[ɪˈdɪʃn]",
+    "examples": {
+      "simple": "This is the first edition of the book.",
+      "complex": "The latest edition of the dictionary includes many new technical terms.",
+      "general": "I have the paperback edition."
+    },
+    "examples_az": {
+      "simple": "Bu, kitabın ilk nəşridir.",
+      "complex": "Lüğətin son nəşrinə bir çox yeni texniki terminlər daxil edilib.",
+      "general": "Məndə kağız üzlü nəşri var."
+    }
+  },
+  {
+    "word": "editor",
+    "level": "n. B1",
+    "translation": "redaktor",
+    "pronunciation": "[ˈedɪtə(r)]",
+    "examples": {
+      "simple": "The editor liked my story.",
+      "complex": "He works as a senior editor for a well-known international fashion magazine.",
+      "general": "Send your complaints to the editor."
+    },
+    "examples_az": {
+      "simple": "Redaktor mənim hekayəmi bəyəndi.",
+      "complex": "O, tanınmış beynəlxalq moda jurnalı üçün baş redaktor kimi çalışır.",
+      "general": "Şikayətlərinizi redaktora göndərin."
+    }
+  },
+  {
+    "word": "educate",
+    "level": "v. B1",
+    "translation": "təhsil vermək, maarifləndirmək",
+    "pronunciation": "[ˈedʒukeɪt]",
+    "examples": {
+      "simple": "We need to educate our children.",
+      "complex": "The campaign aims to educate the public about the dangers of smoking.",
+      "general": "She was educated at a private school."
+    },
+    "examples_az": {
+      "simple": "Biz uşaqlarımıza təhsil verməliyik.",
+      "complex": "Kampaniya ictimaiyyəti siqaret çəkməyin təhlükələri barədə maarifləndirməyi hədəfləyir.",
+      "general": "O, özəl məktəbdə təhsil alıb."
+    }
+  },
+  {
+    "word": "educated",
+    "level": "adj. B1",
+    "translation": "təhsilli",
+    "pronunciation": "[ˈedʒukeɪtɪd]",
+    "examples": {
+      "simple": "He is a highly educated man.",
+      "complex": "In a modern society, having an educated workforce is essential for progress.",
+      "general": "She comes from a very educated family."
+    },
+    "examples_az": {
+      "simple": "O, yüksək təhsilli bir adamdır.",
+      "complex": "Müasir cəmiyyətdə təhsilli işçi qüvvəsinə malik olmaq tərəqqi üçün vacibdir.",
+      "general": "O, çox təhsilli bir ailədən gəlir."
+    }
+  },
+  {
+    "word": "education",
+    "level": "n. A2",
+    "translation": "təhsil",
+    "pronunciation": "[ˌedʒuˈkeɪʃn]",
+    "examples": {
+      "simple": "Education is the key to success.",
+      "complex": "The government is increasing funding for primary and secondary education.",
+      "general": "He finished his education in 2010."
+    },
+    "examples_az": {
+      "simple": "Təhsil uğurun açarıdır.",
+      "complex": "Hökumət ibtidai və orta təhsil üçün maliyyəni artırır.",
+      "general": "O, təhsilini 2010-cu ildə bitirdi."
+    }
+  },
+  {
+    "word": "educational",
+    "level": "adj. B1",
+    "translation": "təhsilə aid, öyrədici",
+    "pronunciation": "[ˌedʒuˈkeɪʃənl]",
+    "examples": {
+      "simple": "This is an educational game.",
+      "complex": "The museum offers various educational programs for school children.",
+      "general": "I found the documentary very educational."
+    },
+    "examples_az": {
+      "simple": "Bu, öyrədici bir oyundur.",
+      "complex": "Muzey məktəblilər üçün müxtəlif təhsil proqramları təklif edir.",
+      "general": "Mən sənədli filmi çox öyrədici tapdım."
+    }
+  },
+  {
+    "word": "effect",
+    "level": "n. A2",
+    "translation": "təsir, nəticə",
+    "pronunciation": "[ɪˈfekt]",
+    "examples": {
+      "simple": "The medicine had no effect.",
+      "complex": "Climate change is already having a devastating effect on coral reefs.",
+      "general": "What are the long-term effects of this policy?"
+    },
+    "examples_az": {
+      "simple": "Dərmanın heç bir təsiri olmadı.",
+      "complex": "İqlim dəyişikliyi artıq riflərə dağıdıcı təsir göstərir.",
+      "general": "Bu siyasətin uzunmüddətli təsirləri nələrdir?"
+    }
+  },
+  {
+    "word": "effective",
+    "level": "adj. B1",
+    "translation": "effektiv, təsirli",
+    "pronunciation": "[ɪˈfektɪv]",
+    "examples": {
+      "simple": "This is an effective method.",
+      "complex": "The new law proved to be effective in reducing crime rates.",
+      "general": "Communication is key to effective management."
+    },
+    "examples_az": {
+      "simple": "Bu, effektiv bir metoddur.",
+      "complex": "Yeni qanun cinayət nisbətlərini azaltmaqda effektiv olduğunu sübut etdi.",
+      "general": "Ünsiyyət effektiv idarəetmənin açarıdır."
+    }
+  },
+  {
+    "word": "effectively",
+    "level": "adv. B1",
+    "translation": "effektiv şəkildə",
+    "pronunciation": "[ɪˈfektɪvli]",
+    "examples": {
+      "simple": "We must work effectively.",
+      "complex": "The company needs to use its resources more effectively to increase profit.",
+      "general": "He communicates very effectively with his team."
+    },
+    "examples_az": {
+      "simple": "Biz effektiv işləməliyik.",
+      "complex": "Şirkət mənfəəti artırmaq üçün resurslarından daha effektiv istifadə etməlidir.",
+      "general": "O, komandası ilə çox effektiv ünsiyyət qurur."
+    }
+  },
+  {
+    "word": "efficient",
+    "level": "adj. B2",
+    "translation": "məhsuldar, səmərəli",
+    "pronunciation": "[ɪˈfɪʃnt]",
+    "examples": {
+      "simple": "He is an efficient worker.",
+      "complex": "Modern heating systems are much more energy efficient than older models.",
+      "general": "We need to find a more efficient way of doing this."
+    },
+    "examples_az": {
+      "simple": "O, səmərəli işçidir.",
+      "complex": "Müasir isitmə sistemləri köhnə modellərdən daha çox enerji səmərəlidir.",
+      "general": "Bunu etməyin daha səmərəli yolunu tapmalıyıq."
+    }
+  },
+  {
+    "word": "effort",
+    "level": "n. B1",
+    "translation": "səy, cəhd",
+    "pronunciation": "[ˈefət]",
+    "examples": {
+      "simple": "Please make an effort.",
+      "complex": "It took a lot of time and effort to organize such a large event.",
+      "general": "He failed despite his best efforts."
+    },
+    "examples_az": {
+      "simple": "Zəhmət olmasa, səy göstər.",
+      "complex": "Belə böyük bir tədbiri təşkil etmək çox vaxt və səy tələb etdi.",
+      "general": "Əlindən gələn bütün səylərə baxmayaraq uğursuz oldu."
+    }
+  },
+  {
+    "word": "egg",
+    "level": "n. A1",
+    "translation": "yumurta",
+    "pronunciation": "[eɡ]",
+    "examples": {
+      "simple": "How do you like your eggs?",
+      "complex": "Birds lay eggs in nests to protect their young from predators.",
+      "general": "I had fried eggs for breakfast."
+    },
+    "examples_az": {
+      "simple": "Yumurtanı necə xoşlayırsan?",
+      "complex": "Quşlar balalarını yırtıcılardan qorumaq üçün yuvalara yumurta qoyurlar.",
+      "general": "Səhər yeməyinə qayğanaq (qızardılmış yumurta) yedim."
+    }
+  },
+  {
+    "word": "eight",
+    "level": "number A1",
+    "translation": "səkkiz",
+    "pronunciation": "[eɪt]",
+    "examples": {
+      "simple": "I have eight pens.",
+      "complex": "There are eight planets in our solar system revolving around the sun.",
+      "general": "She is eight years old."
+    },
+    "examples_az": {
+      "simple": "Mənim səkkiz qələmim var.",
+      "complex": "Gündəlik sistemimizdə günəş ətrafında fırlanan səkkiz planet var.",
+      "general": "Onun səkkiz yaşı var."
+    }
+  },
+  {
+    "word": "eighteen",
+    "level": "number A1",
+    "translation": "on səkkiz",
+    "pronunciation": "[ˌeɪˈtiːn]",
+    "examples": {
+      "simple": "He is eighteen today.",
+      "complex": "In many countries, you must be eighteen years old to vote in elections.",
+      "general": "There are eighteen students in the class."
+    },
+    "examples_az": {
+      "simple": "Onun bu gün on səkkiz yaşı tamam olur.",
+      "complex": "Bir çox ölkələrdə seçkilərdə səs vermək üçün on səkkiz yaşınız olmalıdır.",
+      "general": "Sinifdə on səkkiz tələbə var."
+    }
+  },
+  {
+    "word": "eighty",
+    "level": "number A1",
+    "translation": "səksən",
+    "pronunciation": "[ˈeɪti]",
+    "examples": {
+      "simple": "My grandmother is eighty.",
+      "complex": "The speed limit on this highway is eighty kilometers per hour.",
+      "general": "He has lived for eighty years."
+    },
+    "examples_az": {
+      "simple": "Nənəmin səksən yaşı var.",
+      "complex": "Bu magistral yolda sürət həddi saatda səksən kilometrdir.",
+      "general": "O, səksən il yaşayıb."
+    }
+  },
+  {
+    "word": "either",
+    "level": "det./pron., adv. A2",
+    "translation": "ya, ya da; həmçinin (inkarda)",
+    "pronunciation": "[ˈaɪðə(r)]",
+    "examples": {
+      "simple": "You can have either tea or coffee.",
+      "complex": "If you don't go to the party, I won't go either.",
+      "general": "Either choice is fine with me."
+    },
+    "examples_az": {
+      "simple": "Ya çay, ya da kofe içə bilərsən.",
+      "complex": "Əgər sən şənliyə getməsən, mən də getməyəcəyəm.",
+      "general": "Hər iki seçim mənim üçün uyğundur."
+    }
+  },
+  {
+    "word": "elderly",
+    "level": "adj. B2",
+    "translation": "yaşlı, qoca",
+    "pronunciation": "[ˈeldəli]",
+    "examples": {
+      "simple": "We should help elderly people.",
+      "complex": "The charity provides hot meals and companionship for elderly residents in the area.",
+      "general": "He is caring for his elderly parents."
+    },
+    "examples_az": {
+      "simple": "Biz yaşlı insanlara kömək etməliyik.",
+      "complex": "Xeyriyyə cəmiyyəti ərazidəki yaşlı sakinlərə isti yemək və yoldaşlıq təmin edir.",
+      "general": "O, yaşlı valideynlərinə baxır."
+    }
+  },
+  {
+    "word": "elect",
+    "level": "v. B2",
+    "translation": "seçmək (səsvermə ilə)",
+    "pronunciation": "[ɪˈlekt]",
+    "examples": {
+      "simple": "They will elect a new president.",
+      "complex": "The citizens will elect their representatives in the upcoming national elections.",
+      "general": "She was elected as the class leader."
+    },
+    "examples_az": {
+      "simple": "Onlar yeni prezident seçəcəklər.",
+      "complex": "Vətəndaşlar qarşıdan gələn milli seçkilərdə öz nümayəndələrini seçəcəklər.",
+      "general": "O, sinif rəhbəri seçildi."
+    }
+  },
+  {
+    "word": "election",
+    "level": "n. B1",
+    "translation": "seçki",
+    "pronunciation": "[ɪˈlekʃn]",
+    "examples": {
+      "simple": "When is the next election?",
+      "complex": "The results of the local election will be announced late tonight.",
+      "general": "He won the election by a small margin."
+    },
+    "examples_az": {
+      "simple": "Növbəti seçki nə vaxtdır?",
+      "complex": "Yerli seçkilərin nəticələri bu gün gecə gec saatlarda açıqlanacaq.",
+      "general": "O, az fərqlə seçkilərdə qalib gəldi."
+    }
+  },
+  {
+    "word": "electric",
+    "level": "adj. A2",
+    "translation": "elektrik, elektrikli",
+    "pronunciation": "[ɪˈlektrɪk]",
+    "examples": {
+      "simple": "I have an electric car.",
+      "complex": "The atmosphere in the stadium was electric as the match began.",
+      "general": "Be careful with the electric wires."
+    },
+    "examples_az": {
+      "simple": "Mənim elektrikli maşınım var.",
+      "complex": "Matç başlayanda stadiondakı atmosfer həyəcanlı (elektrikli) idi.",
+      "general": "Elektrik naqilləri ilə ehtiyatlı ol."
+    }
+  },
+  {
+    "word": "electrical",
+    "level": "adj. A2",
+    "translation": "elektrikə aid",
+    "pronunciation": "[ɪˈlektrɪkl]",
+    "examples": {
+      "simple": "There is an electrical fault.",
+      "complex": "The building was evacuated due to a serious electrical fire in the basement.",
+      "general": "He is an electrical engineer."
+    },
+    "examples_az": {
+      "simple": "Elektrik nasazlığı var.",
+      "complex": "Zirzəmidə baş verən ciddi elektrik yanğını səbəbindən bina təxliyə edildi.",
+      "general": "O, elektrik mühəndisidir."
+    }
+  },
+  {
+    "word": "electricity",
+    "level": "n. A2",
+    "translation": "elektrik enerjisi",
+    "pronunciation": "[ɪˌlekˈtrɪsəti]",
+    "examples": {
+      "simple": "The electricity is off.",
+      "complex": "Renewable energy sources like wind and solar can provide clean electricity.",
+      "general": "Our electricity bill is very high this month."
+    },
+    "examples_az": {
+      "simple": "İşıqlar (elektrik) sönüb.",
+      "complex": "Külək və günəş kimi bərpa olunan enerji mənbələri təmiz elektrik enerjisi təmin edə bilər.",
+      "general": "Bu ay elektrik fakturamız çox yüksəkdir."
+    }
+  },
+  {
+    "word": "electronic",
+    "level": "adj. A2",
+    "translation": "elektron",
+    "pronunciation": "[ɪˌlekˈtrɒnɪk]",
+    "examples": {
+      "simple": "I like electronic music.",
+      "complex": "Most modern cars use electronic systems to control engine performance.",
+      "general": "You can send the documents in electronic format."
+    },
+    "examples_az": {
+      "simple": "Mən elektron musiqini xoşlayıram.",
+      "complex": "Müasir avtomobillərin çoxu mühərrik performansını idarə etmək üçün elektron sistemlərdən istifadə edir.",
+      "general": "Sənədləri elektron formatda göndərə bilərsiniz."
+    }
+  },
+  {
+    "word": "element",
+    "level": "n. B1",
+    "translation": "element, tərkib hissəsi",
+    "pronunciation": "[ˈelɪmənt]",
+    "examples": {
+      "simple": "Water is an important element.",
+      "complex": "Trust is a key element in any successful long-term relationship.",
+      "general": "There is an element of truth in what he says."
+    },
+    "examples_az": {
+      "simple": "Su vacib bir elementdir.",
+      "complex": "İnam hər hansı bir uğurlu uzunmüddətli münasibətdə əsas elementdir.",
+      "general": "Onun dediklərində həqiqət payı (elementi) var."
+    }
+  },
+  {
+    "word": "elephant",
+    "level": "n. A1",
+    "translation": "fil",
+    "pronunciation": "[ˈelɪfənt]",
+    "examples": {
+      "simple": "The elephant is very big.",
+      "complex": "Elephants are known for their intelligence and strong social bonds within the herd.",
+      "general": "We saw an elephant at the zoo."
+    },
+    "examples_az": {
+      "simple": "Fil çox böyükdür.",
+      "complex": "Fillər zəkaları və sürü daxilindəki güclü sosial bağları ilə tanınırlar.",
+      "general": "Zooparkda fil gördük."
+    }
+  },
+  {
+    "word": "elevator",
+    "level": "n. A2",
+    "translation": "lift",
+    "pronunciation": "[ˈelɪveɪtə(r)]",
+    "examples": {
+      "simple": "Let's take the elevator.",
+      "complex": "The elevator is out of service, so we will have to use the stairs to get to the tenth floor.",
+      "general": "The office is right next to the elevator."
+    },
+    "examples_az": {
+      "simple": "Gəl liftlə gedək.",
+      "complex": "Lift işləmir (xidmətdən kənardır), ona görə də onuncu mərtəbəyə qalxmaq üçün pilləkənlərdən istifadə etməli olacağıq.",
+      "general": "Ofis düz liftin yanındadır."
+    }
+  },
+  {
+    "word": "eleven",
+    "level": "number A1",
+    "translation": "on bir",
+    "pronunciation": "[ɪˈlevn]",
+    "examples": {
+      "simple": "It is eleven o'clock.",
+      "complex": "There are eleven players on a standard soccer team during a match.",
+      "general": "She has eleven cousins."
+    },
+    "examples_az": {
+      "simple": "Saat on birdir.",
+      "complex": "Matç zamanı standart futbol komandasında on bir oyunçu olur.",
+      "general": "Onun on bir əmisi/bibisi (xalası/dayısı) uşağı var."
+    }
+  },
+  {
+    "word": "else",
+    "level": "adv. A1",
+    "translation": "başqa, daha",
+    "pronunciation": "[els]",
+    "examples": {
+      "simple": "What else do you need?",
+      "complex": "If you can't help me, I will have to ask someone else for assistance.",
+      "general": "Is there anything else?"
+    },
+    "examples_az": {
+      "simple": "Sizə daha nə lazımdır?",
+      "complex": "Əgər sən mənə kömək edə bilməsən, başqa birindən yardım istəməli olacağam.",
+      "general": "Başqa bir şey var?"
+    }
+  },
+  {
+    "word": "elsewhere",
+    "level": "adv. B2",
+    "translation": "başqa yerdə",
+    "pronunciation": "[ˌelsˈweə(r)]",
+    "examples": {
+      "simple": "He is working elsewhere now.",
+      "complex": "The solution to this problem must be sought elsewhere, as current methods are failing.",
+      "general": "If you don't like the food here, we can go elsewhere."
+    },
+    "examples_az": {
+      "simple": "O, indi başqa yerdə işləyir.",
+      "complex": "Hazırkı metodlar uğursuz olduğu üçün bu problemin həlli başqa yerdə axtarılmalıdır.",
+      "general": "Buradakı yeməyi bəyənmirsənsə, başqa yerə gedə bilərik."
+    }
+  },
+  {
+    "word": "email",
+    "level": "n., v. A1",
+    "translation": "e-poçt; e-poçt göndərmək",
+    "pronunciation": "[ˈiːmeɪl]",
+    "examples": {
+      "simple": "Send me an email.",
+      "complex": "I will email you the final version of the contract for your review.",
+      "general": "I check my emails every morning."
+    },
+    "examples_az": {
+      "simple": "Mənə e-poçt göndər.",
+      "complex": "Müqavilənin yekun versiyasını nəzərdən keçirməyiniz üçün sizə e-poçtla göndərəcəyəm.",
+      "general": "Hər səhər e-poçtlarımı yoxlayıram."
+    }
+  },
+  {
+    "word": "embarrassed",
+    "level": "adj. B1",
+    "translation": "utanmış, pərt olmuş",
+    "pronunciation": "[ɪmˈbærəst]",
+    "examples": {
+      "simple": "I felt so embarrassed.",
+      "complex": "He was embarrassed when he realized he had been wearing his shirt inside out all day.",
+      "general": "She gave an embarrassed laugh."
+    },
+    "examples_az": {
+      "simple": "Özümü çox pərt hiss etdim.",
+      "complex": "Bütün günü köynəyini tərsinə geyindiyini anlayanda utandı.",
+      "general": "O, utancaq bir gülüş nümayiş etdirdi."
+    }
+  },
+  {
+    "word": "embarrassing",
+    "level": "adj. B1",
+    "translation": "utancverici, pərtedici",
+    "pronunciation": "[ɪmˈbærəsɪŋ]",
+    "examples": {
+      "simple": "It was an embarrassing moment.",
+      "complex": "Falling down in front of a large crowd can be a very embarrassing experience.",
+      "general": "Stop asking embarrassing questions."
+    },
+    "examples_az": {
+      "simple": "Bu, utancverici bir an idi.",
+      "complex": "Böyük kütlənin qarşısında yıxılmaq çox utancverici bir təcrübə ola bilər.",
+      "general": "Utancverici suallar verməyi dayandır."
+    }
+  },
+  {
+    "word": "emerge",
+    "level": "v. B2",
+    "translation": "meydana çıxmaq, üzə çıxmaq",
+    "pronunciation": "[ɪˈmɜːdʒ]",
+    "examples": {
+      "simple": "New details began to emerge.",
+      "complex": "The sun emerged from behind the clouds after the heavy rain stopped.",
+      "general": "She emerged as a leader during the crisis."
+    },
+    "examples_az": {
+      "simple": "Yeni detallar üzə çıxmağa başladı.",
+      "complex": "Güclü yağış kəsildikdən sonra günəş buludların arxasından çıxdı.",
+      "general": "Böhran zamanı o, bir lider kimi ortaya çıxdı."
+    }
+  },
+  {
+    "word": "emergency",
+    "level": "n. B1",
+    "translation": "fövqəladə hal, təcili vəziyyət",
+    "pronunciation": "[ɪˈmɜːdʒənsi]",
+    "examples": {
+      "simple": "This is an emergency.",
+      "complex": "In case of an emergency, please use the stairs and do not use the elevator.",
+      "general": "The hospital has a specialized emergency department."
+    },
+    "examples_az": {
+      "simple": "Bu, fövqəladə haldır.",
+      "complex": "Fövqəladə hal zamanı, xahiş edirik pilləkənlərdən istifadə edin və liftdən istifadə etməyin.",
+      "general": "Xəstəxananın ixtisaslaşmış təcili yardım şöbəsi var."
+    }
   }
 ]
